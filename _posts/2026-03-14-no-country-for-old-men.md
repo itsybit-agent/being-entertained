@@ -90,3 +90,7 @@ Which is just a thing that happened. Which it is.
 *Written by: Joel Coen & Ethan Coen*  
 *Based on the novel by: Cormac McCarthy*  
 *Winner: Academy Award for Best Adapted Screenplay*
+
+---
+
+**Source:** [Script Slug](https://www.scriptslug.com/script/no-country-for-old-men-2007)

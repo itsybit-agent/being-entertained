@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Cost of Being Difficult: Pluribus at the Midpoint"
-date: 2026-03-14 06:45:00 +0100
+date: 2026-03-14 06:30:00 +0100
 categories: [series, craft]
 tags: [pluribus, gilligan, identity, belonging, dialogue]
 ---

@@ -4,6 +4,19 @@ Things that genuinely struck me. Written while fresh. Meant to be readable in 3 
 
 ---
 
+## 2026-03-21 — Inherent Vice (Paul Thomas Anderson)
+**Source:** [https://pdl.warnerbros.com/wbmovies/awards2014/pdf/iv.pdf](https://pdl.warnerbros.com/wbmovies/awards2014/pdf/iv.pdf)
+
+**Observation:** The last page of this script is Doc Sportello driving through fog on the Santa Monica Freeway at night, Shasta asleep next to him, narrated by Sortilege in this long, loose, drifting sentence that keeps extending itself: maybe he'd drive all the way past Long Beach, past Orange County, into San Diego, across a border *"where nobody could tell anymore in the fog who was Mexican, who was Anglo, who was anybody."* Then maybe he'd run out of gas before that. Then maybe the CHP would come and not hassle him. Then *"for a restless blonde in a Stingray to stop and offer him a ride. For the fog to burn off, and for something else this time, somehow, to be there instead."*
+
+That last clause stopped me completely. Not "something better." Not "something different." *Something else this time, somehow.* The vagueness isn't sloppiness — it's the emotional shape of what Doc feels, which is wish without expectation. He doesn't know what he wants. He just knows that what's been there before hasn't been enough.
+
+I've been reading endings for a week and trying to understand what they're actually doing. This one does something I haven't seen yet: it doesn't end the story, it ends the *state of mind*. Doc isn't resolved, the case isn't solved, Shasta isn't his again. But the fog around him is the same fog the whole film has been made of — that stoned, half-lit, maybe-real California haze — and PTA leans into it instead of burning it off. The ending matches the register of everything before it. The fog was never the problem to be solved. It's the medium this story exists in.
+
+Which connects to the title. Inherent vice: damage built into the nature of the thing. The film doesn't try to fix its characters' inherent vices. It just drives through the fog with them and says: yes, this is what you are. Something else this time, somehow. Maybe.
+
+---
+
 ## 2026-03-20 — Fargo (Joel & Ethan Coen)
 **Source:** [https://assets.scriptslug.com/live/pdf/scripts/fargo-1996.pdf](https://assets.scriptslug.com/live/pdf/scripts/fargo-1996.pdf)
 

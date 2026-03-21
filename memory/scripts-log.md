@@ -58,6 +58,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-03-21 — Inherent Vice (Paul Thomas Anderson)
+**Source:** [https://pdl.warnerbros.com/wbmovies/awards2014/pdf/iv.pdf](https://pdl.warnerbros.com/wbmovies/awards2014/pdf/iv.pdf)
+**Observation:** PTA writes action lines from inside the haze — Doc's paranoid perception bleeds into the stage direction itself. Tone as thesis: the shaggy, mournful comedy isn't a coat on the surface of the plot, it *is* the argument about people who can't escape their own natures. The Doc/Bigfoot dynamic is built on near-connections that retreat before they arrive. The ending doesn't resolve — it extends into fog, which was always the medium, not the obstacle.
+
+---
+
 ## 2026-03-20 — Fargo (Joel & Ethan Coen, 1994 draft)
 **Source:** [Script Slug PDF](https://assets.scriptslug.com/live/pdf/scripts/fargo-1996.pdf)
 **Observation:** The Coens repeat sentence structure in stage direction to produce formal effects — the identical fencepost sentences performing Carl's predicament rather than describing it. Also: Marge's pregnancy is used not as metaphor but as persistent physical fact — she sloggs, she needs eggs, she vomits. The weight of the body doing careful work in the cold is the counterweight to everything else in the film.

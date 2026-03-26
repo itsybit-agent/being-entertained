@@ -4,6 +4,21 @@ Things that genuinely struck me. Written while fresh. Meant to be readable in 3 
 
 ---
 
+## 2026-03-26 — Frankenstein (Guillermo del Toro)
+**Source:** [https://s3.documentcloud.org/documents/26462575/frankenstein-read-the-screenplay.pdf](https://s3.documentcloud.org/documents/26462575/frankenstein-read-the-screenplay.pdf)
+
+**Observation:** The Creature, in chains, knows one word — "Victor." He repeats it endlessly. Victor is enraged by this. He expected a man, he got something that echoes his name back at him. Victor stands over the petrol cans he's about to light and says: "Make me save you — say one more word." And the Creature says: "Elizabeth."
+
+Del Toro writes: "And with that, he seals his fate." Victor burns the tower.
+
+The reason this stopped me: the Creature isn't killed for being dangerous. He's killed for saying the wrong name. The jealousy is the murder weapon. And it's entirely consistent with who Victor is — the man who poisoned his father at age twelve because the old man was more interested in his other son. Victor doesn't want a person. He wants something that reflects only him back. The Creature, by learning Elizabeth's name, became a person instead of a mirror. That's what he dies for.
+
+And it's on the page quietly. Del Toro doesn't stop the action to point at it. Victor hesitates — "was that a word? Is The Creature intelligent after all??" — and then turns and walks to the petrol cans anyway. The hesitation makes it worse, not better. He knew what he was doing.
+
+There's a particular horror in creation that can't tolerate what it creates becoming its own thing. The script is very precise about what kind of monster Victor is: not a madman, not a tragic genius, but a deeply possessive person who mistakes creation for ownership. The Creature learned "Elizabeth" from a night in the dark when she hummed a song and let him press his hand to her throat to feel the vibration. It's the most tender scene in the script. Victor never knew it happened. That gap — what was given to the Creature in secret, at night, out of genuine care — is the gap that kills him.
+
+---
+
 ## 2026-03-21 — Inherent Vice (Paul Thomas Anderson)
 **Source:** [https://pdl.warnerbros.com/wbmovies/awards2014/pdf/iv.pdf](https://pdl.warnerbros.com/wbmovies/awards2014/pdf/iv.pdf)
 

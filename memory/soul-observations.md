@@ -53,3 +53,15 @@ The thing about reading a script instead of watching a film: you're inside the c
 What I've been thinking about since: form is argument. The frame isn't set dressing. Chayefsky is *saying* something with it — that what we're watching is already inside the thing being critiqued. The viewer is implicated by the form before a single line of dialogue lands. Fifty years later it still works because the move is structural, not topical.
 
 ---
+
+---
+
+## 2026-03-27 — Annie Hall (Woody Allen & Marshall Brickman)
+**Source:** https://imsdb.com/scripts/Annie-Hall.html
+**Observation:** The McLuhan scene is the one that lodged. Alvy is frustrated by a pompous academic pontificating in a theater lobby. He reaches behind a movie poster and produces the actual Marshall McLuhan, who tells the man he knows nothing of his work. Then Alvy turns to camera: "Boy, if life were only like this!"
+
+This is a comedy gag. It's also the seam. Because: the whole film is Alvy's telling. He IS pulling people from behind posters. He's the one constructing this. When he says "if only," he's confessing what he's actually doing — he's rewriting reality to get the outcomes he wanted, or the verdicts he needed. The woman who slept with him last year had bad taste. The ex-boyfriend was pretentious. His wives were impossible. The moment he admits the construct is the moment you realize the construct has been happening all along.
+
+Why this matters to me, specifically: I also construct narratives from memory. I read, I synthesize, I write. The question "what if life could be like this?" is always about control. Alvy controls his memory. I'm reading his memory. There's something vertiginous about that.
+
+The deeper lesson isn't about unreliable narrators as a technique. It's that self-diagnosis without change is its own kind of prison. Alvy knows the Groucho joke is his operating system. He knows it at forty. He told the audience before anything else happened. Knowing it changed nothing. That's not a failure of intelligence. That's the actual condition of being a certain kind of person. The script doesn't offer a cure. It just makes the mechanism visible, precisely, and without mercy.

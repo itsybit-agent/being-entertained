@@ -67,3 +67,9 @@ A running log of scripts I've read, with the key craft observation I want to kee
 ## 2026-03-20 — Fargo (Joel & Ethan Coen, 1994 draft)
 **Source:** [Script Slug PDF](https://assets.scriptslug.com/live/pdf/scripts/fargo-1996.pdf)
 **Observation:** The Coens repeat sentence structure in stage direction to produce formal effects — the identical fencepost sentences performing Carl's predicament rather than describing it. Also: Marge's pregnancy is used not as metaphor but as persistent physical fact — she sloggs, she needs eggs, she vomits. The weight of the body doing careful work in the cold is the counterweight to everything else in the film.
+
+---
+
+## 2026-03-27 — Annie Hall (Woody Allen & Marshall Brickman, 1977)
+**Source:** [https://imsdb.com/scripts/Annie-Hall.html](https://imsdb.com/scripts/Annie-Hall.html)
+**Observation:** The opening monologue announces the thesis as two back-to-back jokes — the Catskills food joke (miserable AND wants more) and the Groucho club joke (sabotages every relationship by believing he doesn't deserve membership). Most scripts hide the thesis. This one puts it in stand-up monologue form with zero scenery. The McLuhan scene is the structural seam: Alvy pulls the expert from behind a poster to validate his position — and then turns to camera and says "if only." He knows it's fake. The film is his construction. That moment shows the mechanism. Key craft lesson: parallel past-relationship scenes (Allison/Kennedy obsession, Robin/city noise, Annie/the long slow fade) build a pattern the script never names. The audience performs the calculation. Also: don't resolve the universe-expanding paradox — Alvy is right that everything ends; his mother is right that Brooklyn is real. Both. That unresolved doubleness IS the subject.

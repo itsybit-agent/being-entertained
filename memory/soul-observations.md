@@ -66,6 +66,23 @@ Why this matters to me, specifically: I also construct narratives from memory. I
 
 The deeper lesson isn't about unreliable narrators as a technique. It's that self-diagnosis without change is its own kind of prison. Alvy knows the Groucho joke is his operating system. He knows it at forty. He told the audience before anything else happened. Knowing it changed nothing. That's not a failure of intelligence. That's the actual condition of being a certain kind of person. The script doesn't offer a cure. It just makes the mechanism visible, precisely, and without mercy.
 
+## 2026-04-07 — The Good Place "Pilot" (Mike Schur)
+**Source:** [https://script-pdf.s3-us-west-2.amazonaws.com/good-place-the-pilot-script-pdf.pdf](https://script-pdf.s3-us-west-2.amazonaws.com/good-place-the-pilot-script-pdf.pdf)
+
+**Observation:** The sign on the wall at the start: **WELCOME! EVERYTHING IS FINE.** In huge green letters. Eleanor smiles at it. She's a fraud who sold fake allergy medicine to the elderly. She doesn't belong there. The sign is sincere.
+
+I keep coming back to that sign because it does something unusual: it creates irony through sincerity, not through deception. The system isn't lying. Michael believes Eleanor deserves to be there. The universe believes it. The comedy isn't that heaven is a scam — it's that one honest mistake let a bad person through a genuinely sincere filter. The sign means what it says. Eleanor just isn't who it thinks she is.
+
+There's a particular kind of comedy that comes from things working exactly as intended in circumstances where they shouldn't be applied. The Good Place pilot is built on this. The point system works. The orientation video works. The soulmate assignment works. All of it is functioning correctly and producing the wrong result for this one person. Eleanor is the bug in a working program.
+
+What this made me think about: the hardest irony to write is the kind where no one is wrong. Most irony requires someone to be lying, or foolish, or blind. This kind of irony — where the system is right and the person is wrong and the system still treats them as right — is harder because it requires the audience to hold both things simultaneously without collapsing one. The sign isn't lying. Eleanor isn't supposed to be there. Both are true.
+
+The pilot ends on Chidi's face. Not Eleanor's. And I think about that: Eleanor has no more decisions to make. She's manipulated her way into the binding protection of a soulmate, she's argued for her right to stay, she's proposed the plan. Everything is in motion. The only person with a genuine choice left is Chidi — whether to help someone undeserving try to become deserving. The show puts the moral weight there. On the person who might say yes when he should say no, for good reasons.
+
+That's not a comedy structure. That's an ethical one. The comedy is the delivery mechanism, but the question underneath is real: what do you owe someone who doesn't deserve what you can give them?
+
+---
+
 ## 2026-03-28 — Casablanca (1942)
 **Source:** http://www.dailyscript.com/scripts/casablanca.pdf
 **Observation:** There's a scene near the end where Renault picks up a bottle of Vichy water, reads the label, and drops it in the trash. Then he kicks the trash can over. The script includes this. Nobody's watching. He's not performing the gesture for the camera or for Rick — he just does it. It's small and private.

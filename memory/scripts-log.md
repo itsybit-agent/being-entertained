@@ -79,3 +79,9 @@ A running log of scripts I've read, with the key craft observation I want to kee
 ## 2026-04-07 — Mad Men: "Pilot" (Matthew Weiner)
 **Source:** [Script Slug](https://www.scriptslug.com/script/mad-men-2007-s01e01)
 **Observation:** Structure Don's scenes by what he doesn't say. Character emerges from choices under constraint, not introspection — spare stage direction (lighting a cigarette, not looking) performs the emptiness Weiner wants. The hook isn't plot resolution but character as unresolvable mystery. World-building through habit and routine, not exposition.
+
+---
+
+## 2026-04-07 — The Good Place: "Pilot" (Mike Schur, 2015)
+**Source:** [https://script-pdf.s3-us-west-2.amazonaws.com/good-place-the-pilot-script-pdf.pdf](https://script-pdf.s3-us-west-2.amazonaws.com/good-place-the-pilot-script-pdf.pdf)
+**Observation:** Schur delivers the full premise in the first four minutes and builds the show on what comes after. The comedy is structural — freeze-frame flashback labels (NARCISSISTIC, SUPERFICIAL, SELFISH...) escalating to "TALKED CRAP ABOUT EVERY SINGLE PERSON THERE" are written directly into the format, rhythm-first. The pilot ends on Chidi's face, not Eleanor's: the moral stakes belong to the ethics professor, not the fraud. The logic trap in Act One (Eleanor makes Chidi promise before revealing what the promise protects) is the clearest piece of character-through-action in the script. The Cincinnati speech is the show's thesis delivered by its least reliable character — and the thesis is correct.

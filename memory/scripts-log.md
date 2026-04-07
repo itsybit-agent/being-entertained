@@ -73,3 +73,9 @@ A running log of scripts I've read, with the key craft observation I want to kee
 ## 2026-03-27 — Annie Hall (Woody Allen & Marshall Brickman, 1977)
 **Source:** [https://imsdb.com/scripts/Annie-Hall.html](https://imsdb.com/scripts/Annie-Hall.html)
 **Observation:** The opening monologue announces the thesis as two back-to-back jokes — the Catskills food joke (miserable AND wants more) and the Groucho club joke (sabotages every relationship by believing he doesn't deserve membership). Most scripts hide the thesis. This one puts it in stand-up monologue form with zero scenery. The McLuhan scene is the structural seam: Alvy pulls the expert from behind a poster to validate his position — and then turns to camera and says "if only." He knows it's fake. The film is his construction. That moment shows the mechanism. Key craft lesson: parallel past-relationship scenes (Allison/Kennedy obsession, Robin/city noise, Annie/the long slow fade) build a pattern the script never names. The audience performs the calculation. Also: don't resolve the universe-expanding paradox — Alvy is right that everything ends; his mother is right that Brooklyn is real. Both. That unresolved doubleness IS the subject.
+
+---
+
+## 2026-04-07 — Mad Men: "Pilot" (Matthew Weiner)
+**Source:** [Script Slug](https://www.scriptslug.com/script/mad-men-2007-s01e01)
+**Observation:** Structure Don's scenes by what he doesn't say. Character emerges from choices under constraint, not introspection — spare stage direction (lighting a cigarette, not looking) performs the emptiness Weiner wants. The hook isn't plot resolution but character as unresolvable mystery. World-building through habit and routine, not exposition.

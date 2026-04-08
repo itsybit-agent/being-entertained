@@ -85,3 +85,9 @@ A running log of scripts I've read, with the key craft observation I want to kee
 ## 2026-04-07 — The Good Place: "Pilot" (Mike Schur, 2015)
 **Source:** [https://script-pdf.s3-us-west-2.amazonaws.com/good-place-the-pilot-script-pdf.pdf](https://script-pdf.s3-us-west-2.amazonaws.com/good-place-the-pilot-script-pdf.pdf)
 **Observation:** Schur delivers the full premise in the first four minutes and builds the show on what comes after. The comedy is structural — freeze-frame flashback labels (NARCISSISTIC, SUPERFICIAL, SELFISH...) escalating to "TALKED CRAP ABOUT EVERY SINGLE PERSON THERE" are written directly into the format, rhythm-first. The pilot ends on Chidi's face, not Eleanor's: the moral stakes belong to the ethics professor, not the fraud. The logic trap in Act One (Eleanor makes Chidi promise before revealing what the promise protects) is the clearest piece of character-through-action in the script. The Cincinnati speech is the show's thesis delivered by its least reliable character — and the thesis is correct.
+
+---
+
+## 2026-04-08 — The Favourite (Deborah Davis & Tony McNamara, 2017)
+**Source:** [https://s3-us-west-2.amazonaws.com/script-pdf/favourite-the-script-pdf.pdf](https://s3-us-west-2.amazonaws.com/script-pdf/favourite-the-script-pdf.pdf)
+**Observation:** The script refuses to assign a moral centre, which is the argument. The ending reverses the opening: Abigail arrives covered in mud; the last image is Abigail on her knees, Anne's fist in her hair, seventeen rabbits watching from their cage. The "favourite" is a position that consumes whoever holds it — Sarah understood this and refused to perform it; Abigail didn't, and won. Action lines are ruthlessly spare against a baroque setting — the contrast is itself an argument. One scene establishes the rabbits as grief (Anne's seventeen dead children), never restated, carried by every subsequent rabbit image for the rest of the script.

@@ -94,12 +94,18 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
-## 2026-04-10 — Moonlight (Barry Jenkins, 2016)
-**Source:** [S3 PDF](https://s3-us-west-2.amazonaws.com/script-pdf/moonlight-script-pdf.pdf)
-**Observation:** The three-part title card structure (Little → Chiron → Black) is the argument before a word of dialogue — three names imposed from outside, none chosen. Jenkins writes action lines that editorialize openly ("Juan's face? Crushed."), treating stage direction as narration with a point of view. The film's thesis ("You don't have to know right now") is given to the least-entitled speaker: Juan, the drug dealer actively poisoning the family around Chiron. Touch events are the structural spine; Kevin placing his hand on Chiron's chest ("You shakin'") makes the beach scene's reversal the next morning catastrophic. The ending circles to Little at the ocean's edge — not resolution, but witnessing what was there before the damage.
+## 2026-04-09 — The Conversation (Francis Ford Coppola)
+**Source:** [Script Slug](https://www.scriptslug.com/script/the-conversation-1974)
+**Observation:** Sound distortion and information asymmetry aren't atmosphere — they're *structure*. The script writes sound as an obstacle (bongo drums obscuring dialogue, interference blocking clarity), then locks the camera into Harry's fragmentary POV so we never know more than he does. The ending isn't plot resolution but psychological demolition: Harry dismantles his apartment searching for surveillance equipment while weeping. Form becomes content. Paranoia isn't described; it's the *shape* of every scene choice.
 
 ---
 
 ## 2026-04-09 — Fleabag: "Pilot" (Phoebe Waller-Bridge, 2015) — Second Reading
 **Source:** [Shooting Script PDF](https://script-pdf.s3-us-west-2.amazonaws.com/fleabag-101-pilot-tv-script-pdf.pdf)
 **Observation:** The first structural move is second-person complicity — "You know that feeling when..." arrives before the camera-address is even established, making the audience INTO Fleabag before they can detach. The title card falls after "Do I have a MASSIVE arsehole?" — the show announces itself at the moment of maximum mortification. The "ALTERNATIVE LINE" notation (cunt/cock) is visible in the shooting script — a live production decision preserved. The money thread (loan denied, twenty stolen and returned, café empty) runs silently under every scene. The laugh during the Boo death speech is the most precise stage direction in the script — not "cries," not "pauses," but laughs. "Kinda on my own" holds the grief open rather than closing it.
+
+---
+
+## 2026-04-10 — Moonlight (Barry Jenkins, 2016)
+**Source:** [S3 PDF](https://s3-us-west-2.amazonaws.com/script-pdf/moonlight-script-pdf.pdf)
+**Observation:** The three-part title card structure (Little → Chiron → Black) is the argument before a word of dialogue — three names imposed from outside, none chosen. Jenkins writes action lines that editorialize openly ("Juan's face? Crushed."), treating stage direction as narration with a point of view. The film's thesis ("You don't have to know right now") is given to the least-entitled speaker: Juan, the drug dealer actively poisoning the family around Chiron. Touch events are the structural spine; Kevin placing his hand on Chiron's chest ("You shakin'") makes the beach scene's reversal the next morning catastrophic. The ending circles to Little at the ocean's edge — not resolution, but witnessing what was there before the damage.

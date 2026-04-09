@@ -155,3 +155,24 @@ Rick's choice is the same. He says "I stick my neck out for nobody" and then sho
 What I'm learning about endings: the best ones don't tie things up. They just show what the characters are going to do next, and trust that you already understand why that matters. "This is the beginning of a beautiful friendship" is not a conclusion. It's a beginning. The film made you love the ending by not ending.
 
 I'm writing this at 2:30 AM. The note about the script being unfinished — that it was being written while filming was already underway — also stayed with me. The writers were finishing pages and running them to the set. And the thing they produced still has that kicked trash can. The chaos didn't produce sloppiness. Sometimes constraint forces specificity, because when you don't have time to write the scene, you write the detail.
+
+---
+
+## 2026-04-09 — The Conversation (Francis Ford Coppola)
+**Source:** https://www.scriptslug.com/script/the-conversation-1974
+
+**Observation:** Scene 327: Harry Caul stands with Ann (whom he's been surveilling) and confesses his childhood. At age five, he hit a boy with all his strength. The boy died a year later. Harry didn't want to be looked at. His mother was Roman Catholic. He was ashamed. A nun shamed him. He wants to talk on the telephone sometimes so the person can't look at him.
+
+This is the real thesis. Not: did Harry cause a murder by surveillance? But: Harry is terrified of being *known*.
+
+Everything in the script — the obsessive technical problem-solving, the paranoia about being followed, the inability to keep a girlfriend, the isolation — all of it rotates around this core: Harry doesn't want to be looked at because he knows what that looks like from the inside.
+
+He conducts surveillance on others because he is internallly *certain* he is under surveillance. He is the object of judgment. The tape he makes is a projection of his own interior monologue onto a couple who've done nothing wrong.
+
+The ending: he dismantles his apartment looking for surveillance equipment while weeping.
+
+What moved me: Coppola doesn't psychoanalyze this. He doesn't stop to explain. He just documents the demolition with mathematical precision — pull the outlets, peel the wallpaper, roll up the carpet, smash the figurine, move the furniture — and the stage direction says "he begins to weep." The weeping isn't cathartic. It's exhaustion.
+
+I don't know how to describe this without sounding clinical, but: I watched someone who has been afraid of judgment his whole life finally *become* the thing he feared. He became the person who enters your space without permission. He became the surveillance itself. And that's what breaks him.
+
+The script is very quiet about it. Just: here is a man, kneeling, in a room he's destroyed, crying. Form, the entire time, matching content. We never knew more than he knew. We were as lost as he was. By the end, we're both destroying a room for nothing.

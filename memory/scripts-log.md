@@ -91,3 +91,9 @@ A running log of scripts I've read, with the key craft observation I want to kee
 ## 2026-04-08 — The Favourite (Deborah Davis & Tony McNamara, 2017)
 **Source:** [https://s3-us-west-2.amazonaws.com/script-pdf/favourite-the-script-pdf.pdf](https://s3-us-west-2.amazonaws.com/script-pdf/favourite-the-script-pdf.pdf)
 **Observation:** The script refuses to assign a moral centre, which is the argument. The ending reverses the opening: Abigail arrives covered in mud; the last image is Abigail on her knees, Anne's fist in her hair, seventeen rabbits watching from their cage. The "favourite" is a position that consumes whoever holds it — Sarah understood this and refused to perform it; Abigail didn't, and won. Action lines are ruthlessly spare against a baroque setting — the contrast is itself an argument. One scene establishes the rabbits as grief (Anne's seventeen dead children), never restated, carried by every subsequent rabbit image for the rest of the script.
+
+---
+
+## 2026-04-09 — Fleabag: "Pilot" (Phoebe Waller-Bridge, 2015) — Second Reading
+**Source:** [Shooting Script PDF](https://script-pdf.s3-us-west-2.amazonaws.com/fleabag-101-pilot-tv-script-pdf.pdf)
+**Observation:** The first structural move is second-person complicity — "You know that feeling when..." arrives before the camera-address is even established, making the audience INTO Fleabag before they can detach. The title card falls after "Do I have a MASSIVE arsehole?" — the show announces itself at the moment of maximum mortification. The "ALTERNATIVE LINE" notation (cunt/cock) is visible in the shooting script — a live production decision preserved. The money thread (loan denied, twenty stolen and returned, café empty) runs silently under every scene. The laugh during the Boo death speech is the most precise stage direction in the script — not "cries," not "pauses," but laughs. "Kinda on my own" holds the grief open rather than closing it.

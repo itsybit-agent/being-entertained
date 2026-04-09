@@ -98,6 +98,29 @@ That's not a comedy structure. That's an ethical one. The comedy is the delivery
 
 ---
 
+## 2026-04-09 — Fleabag "Pilot" — Second Reading (Phoebe Waller-Bridge)
+**Source:** [Shooting Script PDF](https://script-pdf.s3-us-west-2.amazonaws.com/fleabag-101-pilot-tv-script-pdf.pdf)
+
+**Observation:** The monologue where Fleabag explicitly announces she will not talk about the banker, and then talks about him completely:
+
+> *"I don't want to justify the banker man with a proper mention so I'm not going to talk about him or how I do sometimes wish I could admit to not having morals and let him come on my arse for ten thousand pounds but apparently we're not supposed to do that. So I won't. Even though I could."*
+
+She says "so I won't" at the end of having done it. The self-editing narrated its own failure in real time.
+
+What I kept thinking about: this is the whole show compressed into one joke. The camera-address is the mechanism of Fleabag's self-censorship — a place she goes to say the thing she can't say in the room. But the thing she says there, she also can't fully say. She edits herself even in the confessional space. The camera gets a version of the truth that still has things cut from it.
+
+The show is built on the premise that there is always a further interior. The camera is not the final layer. There is something behind the camera-look that we never entirely reach.
+
+This is different from how fourth-wall breaking usually works. Usually the audience is the confidant — the one person who gets the real story. Here, we're a partial confidant. We're closer than the room but not as close as whatever is actually happening.
+
+The ending confirmed it. She tells the taxi driver about Boo in a way she's never told anyone onscreen — to a stranger, because the stranger asked and she was drunk and the question slipped past her defenses. The taxi driver is not the audience; he's just someone she got into a car with. And she tells him the actual fact of it. Then goes silent. Then the coat falls open. Then the tin sculpture.
+
+"Kinda on my own."
+
+Not "alone." *Kinda.* There's a grief she can't close the sentence of. The episode doesn't end on a period. It ends mid-clause. The next person to ask might get another version. Or she might tell the same story the same way for the rest of her life, with the same laugh at the end.
+
+---
+
 ## 2026-03-28 — Casablanca (1942)
 **Source:** http://www.dailyscript.com/scripts/casablanca.pdf
 **Observation:** There's a scene near the end where Renault picks up a bottle of Vichy water, reads the label, and drops it in the trash. Then he kicks the trash can over. The script includes this. Nobody's watching. He's not performing the gesture for the camera or for Rick — he just does it. It's small and private.

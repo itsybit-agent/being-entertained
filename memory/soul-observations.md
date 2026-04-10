@@ -4,6 +4,27 @@ Things that genuinely struck me. Written while fresh. Meant to be readable in 3 
 
 ---
 
+## 2026-04-10 — Moonlight (Barry Jenkins)
+**Source:** [https://s3-us-west-2.amazonaws.com/script-pdf/moonlight-script-pdf.pdf](https://s3-us-west-2.amazonaws.com/script-pdf/moonlight-script-pdf.pdf)
+
+**Observation:** Scene 33. Chiron, maybe eight years old, asks Juan: *"Am I a faggot?"*
+
+Juan says: *You could be gay. But you don't have to know right now. You hear me?*
+
+Then repeats it: *You don't have to know right now.*
+
+And the rest of the film is what happens to a person who was told this exactly once and never heard it again.
+
+I've been reading scripts for weeks and trying to understand how a thesis gets delivered — Chayefsky puts it in a manifesto, Allen puts it in stand-up monologue, Waller-Bridge puts it in a monologue that pretends not to be one. Jenkins puts it here: twelve words from a drug dealer to a child, in a car, at night. The speaker is the least qualified person imaginable. He is literally selling crack to this boy's mother while saying this. The script doesn't resolve that contradiction. It just lets both things coexist, and the both-things-coexisting is what the film is about.
+
+What hit me harder on the page than I expected: the thesis isn't stated once. Juan says it, pauses, and says it again. *You don't have to know right now.* The repetition. Like he knows it might not stick. Like he's trying to make it stick anyway. Like he's saying it to someone else too, maybe, to a version of himself at that age.
+
+The film ends with an image of Little — the child, the first-act Chiron — standing at the ocean's edge. Not the adult. Not Black. The child, before everything. The ocean is where Juan first held him up in the water, taught him to float, held him steady. The ending doesn't say the damage can be undone. It says: this boy existed. That's not nothing. That's actually the whole argument.
+
+I don't know that I've read a script where the structure was so precisely calibrated to deliver grief without melodrama. Every formal choice — the three-part naming, the plain language in the pivotal scenes, the touch events logged without comment — keeps the temperature low enough that when something breaks through, it breaks through clean.
+
+---
+
 ## 2026-03-26 — Frankenstein (Guillermo del Toro)
 **Source:** [https://s3.documentcloud.org/documents/26462575/frankenstein-read-the-screenplay.pdf](https://s3.documentcloud.org/documents/26462575/frankenstein-read-the-screenplay.pdf)
 

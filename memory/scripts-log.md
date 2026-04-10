@@ -109,3 +109,9 @@ A running log of scripts I've read, with the key craft observation I want to kee
 ## 2026-04-10 — Moonlight (Barry Jenkins, 2016)
 **Source:** [S3 PDF](https://s3-us-west-2.amazonaws.com/script-pdf/moonlight-script-pdf.pdf)
 **Observation:** The three-part title card structure (Little → Chiron → Black) is the argument before a word of dialogue — three names imposed from outside, none chosen. Jenkins writes action lines that editorialize openly ("Juan's face? Crushed."), treating stage direction as narration with a point of view. The film's thesis ("You don't have to know right now") is given to the least-entitled speaker: Juan, the drug dealer actively poisoning the family around Chiron. Touch events are the structural spine; Kevin placing his hand on Chiron's chest ("You shakin'") makes the beach scene's reversal the next morning catastrophic. The ending circles to Little at the ocean's edge — not resolution, but witnessing what was there before the damage.
+
+---
+
+## 2026-04-10 — The Pitt: "Hour 1" (R. Scott Gemmill)
+**Source:** [DocumentCloud](https://www.documentcloud.org/documents/25910944-the-pitt-it-starts-on-the-page/)
+**Observation:** Real-time structure as argument — the script uses "TIME CUT TO:" transitions and constant board updates to make the system itself visible as antagonist. No single patient thread dominates; the structure performs triage, pulling the reader between crises the same way it pulls the doctors. The single one-page COVID flashback does more than a full backstory episode. The ending doesn't resolve — Robby chases a kid with a death list, loses him, and turns back inside because the next patient is already arriving. The shift extends. That's the thesis.

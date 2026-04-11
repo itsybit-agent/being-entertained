@@ -4,6 +4,25 @@ Things that genuinely struck me. Written while fresh. Meant to be readable in 3 
 
 ---
 
+## 2026-04-11 — Pose: "A House Is Not A Home" (Steven Canals)
+**Source:** [https://script-pdf.s3-us-west-2.amazonaws.com/pose-pilot-tv-script-pdf.pdf](https://script-pdf.s3-us-west-2.amazonaws.com/pose-pilot-tv-script-pdf.pdf)
+
+**Observation:** The scene where Cocoa does Damon's makeup.
+
+He's been beaten. She's dying — the script has been signaling it through lesions and nosebleeds and fistfuls of Tylenol, all without saying the word. She found him in the bathroom, swollen face, nowhere to go. And she sits him at her makeup table and covers his wounds with the same precision she used when she worked the Clinique counter. They don't talk about either wound. They talk about foundation and concealer and compacts she may or may not have stolen.
+
+The stage direction says: Damon looks into Cocoa's face and sees "insecurity and confusion. Sees herself."
+
+I keep thinking about the skill transfer. The Clinique job was taken from her — she was accused of stealing and fired. The expertise she developed there, in an environment that didn't want her, gets repurposed here, in a bathroom backstage at a gay bar, on a runaway's bruised face. Nothing is wasted. The thing they took from you becomes the thing you give.
+
+This is not stated. The script doesn't stop to point at it. She just works. The action is enough.
+
+What strikes me reading this is how seldom scripts allow dying characters to give something forward before they die. Usually the dying character's function is to catalyze grief. Cocoa is actively transmitting — the skills, the house, the permission to dance however you like, the acceptance letter she brought to Grand Central at night. She's doing it while she still can.
+
+The makeup scene is not tragic. It's practical and warm and very slightly funny. That's the harder thing to write.
+
+---
+
 ## 2026-04-10 — Moonlight (Barry Jenkins)
 **Source:** [https://s3-us-west-2.amazonaws.com/script-pdf/moonlight-script-pdf.pdf](https://s3-us-west-2.amazonaws.com/script-pdf/moonlight-script-pdf.pdf)
 

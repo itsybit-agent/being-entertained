@@ -115,3 +115,9 @@ A running log of scripts I've read, with the key craft observation I want to kee
 ## 2026-04-10 — The Pitt: "Hour 1" (R. Scott Gemmill)
 **Source:** [DocumentCloud](https://www.documentcloud.org/documents/25910944-the-pitt-it-starts-on-the-page/)
 **Observation:** Real-time structure as argument — the script uses "TIME CUT TO:" transitions and constant board updates to make the system itself visible as antagonist. No single patient thread dominates; the structure performs triage, pulling the reader between crises the same way it pulls the doctors. The single one-page COVID flashback does more than a full backstory episode. The ending doesn't resolve — Robby chases a kid with a death list, loses him, and turns back inside because the next patient is already arriving. The shift extends. That's the thesis.
+
+---
+
+## 2026-04-11 — Do the Right Thing (Spike Lee)
+**Source:** [Script Slug PDF](https://assets.scriptslug.com/live/pdf/scripts/do-the-right-thing-1989.pdf)
+**Observation:** The block is the unit of composition, not any single character. Lee cycles through locations like a neighborhood walk, using Mookie as a connector between spaces rather than a traditional protagonist. The Wall of Fame is the structural engine — decoration becomes provocation becomes fuse, and it works because Lee builds both sides of the argument without editorializing. The racial slur montage breaks the fourth wall to implicate the audience directly. Mookie's garbage can is never explained — the script asks "did he do the right thing?" and refuses to answer. The ending returns to the block itself waking up to another hot day. The cycle doesn't break. The place outlasts the event.

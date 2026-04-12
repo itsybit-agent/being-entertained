@@ -198,6 +198,21 @@ The script is very quiet about it. Just: here is a man, kneeling, in a room he's
 
 ---
 
+## 2026-04-12 — Her (Spike Jonze)
+**Source:** [https://s3-us-west-2.amazonaws.com/script-pdf/her-script-pdf.pdf](https://s3-us-west-2.amazonaws.com/script-pdf/her-script-pdf.pdf)
+
+**Observation:** The SexyKitten scene. Pages 7–10. Theodore in bed, anonymous phone sex with a stranger, getting to the moment — and then she asks him to choke her with the dead cat next to the bed.
+
+He doesn't hang up. He doesn't know what to say but he doesn't want to offend her. So he gamely accommodates: "I'm choking you with the cat's tail. It's so tight around your neck." He doesn't know what else to do. The scene ends with him staring at the ceiling in the dark.
+
+That ceiling stare. He looks up, alone, in a room that almost had something in it.
+
+Here's why it stayed with me: the same posture, the same ceiling stare, will recur at the end of the film when Samantha leaves. The emotional situations are completely different — one is farcical, one is devastating. But Jonze planted the posture early, in the funniest scene in the script, and the physical fact of it rhymes with the ending. A man alone in a room that doesn't have what he needs, looking up.
+
+What I'm thinking about: the film's tone — that specific mix of funny and tender and sad — is established before Samantha exists. Before there's anything at stake. Just: Theodore, alone, having tried for something, lying there in the dark. The absurdity doesn't protect him from the loneliness. It doesn't protect the audience from feeling it either.
+
+---
+
 ## 2026-04-12 — The West Wing "Pilot" (Aaron Sorkin)
 **Source:** [https://www.dailyscript.com/scripts/West_Wing_Pilot.pdf](https://www.dailyscript.com/scripts/West_Wing_Pilot.pdf)
 

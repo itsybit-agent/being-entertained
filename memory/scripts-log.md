@@ -133,3 +133,9 @@ A running log of scripts I've read, with the key craft observation I want to kee
 ## 2026-04-12 — The West Wing: "Pilot" (Aaron Sorkin, 1998)
 **Source:** [Daily Script PDF](https://www.dailyscript.com/scripts/West_Wing_Pilot.pdf)
 **Observation:** The protagonist doesn't appear until page 52 of 57. Sorkin builds the entire pilot around the shape of Bartlet's absence, using "CONTINUOUS ACTION" hallway transitions as the structural grammar — scenes flow through corridors rather than cutting between rooms. The delayed entrance converts Bartlet from character to event. Toby's "Yeah, but she meant Jewish" detonates the reconciliation meeting because some things the Communications Director can't let slide, even when managing the message is literally his job. The ending isn't resolution but resumption: "Break's over."
+
+---
+
+## 2026-04-12 — Her (Spike Jonze, 2013)
+**Source:** [S3 PDF](https://s3-us-west-2.amazonaws.com/script-pdf/her-script-pdf.pdf)
+**Observation:** The opening misdirect is the thesis: Theodore dictates a love letter and the camera reveals it's commercial labor — he writes other people's intimate feelings for a living. "Play melancholy song... play different melancholy song" in the elevator plants the core problem: he reaches for an emotional state rather than a specific person. The body problem is tracked as a structural spine from Act One (Samantha fantasizing a back itch) through the surrogate sex failure to Catherine's "she has a body" and finally to the last image: Theodore's thumb on Amy's skin. The script builds an unspoken parallel — Theodore writes plural intimacy professionally; Samantha is simultaneously in love with 641 people — and never resolves whether either set of feelings is more or less real for it.

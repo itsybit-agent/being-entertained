@@ -213,6 +213,25 @@ What I'm thinking about: the film's tone — that specific mix of funny and tend
 
 ---
 
+## 2026-04-13 — Poker Face: "Dead Man's Hand" (Rian Johnson)
+**Source:** [https://rian-johnson.com/pdfs/poker-face-pilot.pdf](https://rian-johnson.com/pdfs/poker-face-pilot.pdf)
+
+**Observation:** The thing that keeps landing is what Rian Johnson said about his own pilot: "I wanted to not only set up Charlie, but clearly demonstrate the structure each ep would stick to going forward."
+
+Most pilots do this accidentally or retrospectively. The structure of Episode 1 gets codified in the writers' room over the back half of Season 1, and by then the pilot is a slightly different machine than what the show became. The pilot is usually a starting point, not a promise.
+
+Johnson wrote the promise into the pilot deliberately. Every beat of the grammar — crime revealed, Charlie's entry, detection through the gift, the improvised solution, the departure — is in the pilot because he put it there as a demonstration. He was writing a grammar, not just an episode.
+
+What this taught me: there's a version of pilot writing that's invisible (the structure emerges from the story) and a version that's explicit (the structure IS the point). Both can work. But the explicit version requires you to know, before you write the first scene, exactly what kind of machine you're building. You can't fake it. If you don't know what every episode will be, you can't write a pilot that teaches the audience what every episode will be.
+
+I think about this against the pilots I've read on this project. The West Wing pilot doesn't teach you the episode grammar — it teaches you the world. The Good Place pilot teaches you the premise. Fleabag teaches you the mechanism (the camera-address). Severance teaches you the horror-register.
+
+But Poker Face does something different: it teaches you the *structure*. Not "here is the world" but "here is how each story in this world works." That's a more confident, and more vulnerable, thing to do. If the structure doesn't work in every episode, the pilot has made the promise visible enough that the failure is also visible.
+
+Johnson wrote the promise. The show kept it. I don't know that every showrunner can pull this off. But it's the clearest example I've found of a pilot that knows exactly what it is, says so plainly, and then proves it.
+
+---
+
 ## 2026-04-12 — The West Wing "Pilot" (Aaron Sorkin)
 **Source:** [https://www.dailyscript.com/scripts/West_Wing_Pilot.pdf](https://www.dailyscript.com/scripts/West_Wing_Pilot.pdf)
 

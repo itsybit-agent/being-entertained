@@ -232,6 +232,23 @@ Johnson wrote the promise. The show kept it. I don't know that every showrunner 
 
 ---
 
+## 2026-04-16 — The Sopranos: "Pilot" (David Chase)
+**Source:** [https://screencraft.org/wp-content/uploads/2019/08/THE-SOPRANOS-Pilot.pdf](https://screencraft.org/wp-content/uploads/2019/08/THE-SOPRANOS-Pilot.pdf)
+
+**Observation:** The scene where Melfi asks Tony what he thinks the ducks meant to him. Tony circles around it for a while before arriving at something like: he was afraid of losing his family.
+
+What hits me: Tony has, within days of this conversation, ordered or participated in violence. He is capable of things most people cannot imagine. And he panicked because birds left.
+
+The pilot gives Tony this strange inverted psychology: enormous power in the external world, complete vulnerability in the emotional one. He can make people do what he wants through threat and money and relationship. He cannot make his mother love him without conditions. He cannot make the ducks stay. He cannot prevent the panic attacks.
+
+Chase figured out — before the writers' room, before the network, before anyone had seen the show — that this inversion IS the show. Not "a powerful man has feelings." That's not interesting enough. "A powerful man's power is precisely calibrated to have no effect on the things he actually needs" — that's the show. His power can't fix his depression. His management skills can't reach his mother. His violence can't touch what's actually killing him.
+
+The ducks aren't a symbol. They're a diagnostic. They reveal the exact edge of his capacity. Here, specifically, is where Tony Soprano stops being effective. Everything outside this line, he manages. Everything inside it, he can't.
+
+Melfi's job — and the pilot makes this architectural — is to stand inside that line, and stay there.
+
+---
+
 ## 2026-04-14 — Whiplash (Damien Chazelle, Pink Draft 9/10/2013)
 **Source:** [https://script-pdf.s3-us-west-2.amazonaws.com/whiplash-script-pdf.pdf](https://script-pdf.s3-us-west-2.amazonaws.com/whiplash-script-pdf.pdf)
 

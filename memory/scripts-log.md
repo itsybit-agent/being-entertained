@@ -154,6 +154,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-04-17 — Adaptation (Charlie Kaufman & Donald Kaufman, 1999)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://github.com/PedroUria/NLP-Movie_Scripts/blob/master/scripts/Adaptation_script.txt)
+**Observation:** The script plants its own refutation on page 17 — Donald/McKee argue for principles over rules, and the third act IS those principles (chase, twist, revelation, death, character change). The V.O. disappears in the final scene, which is the formal resolution: Charlie stops narrating himself and starts living in the world. The "In Loving Memory of Donald Kaufman" title mourns a fiction it created, and the grief is real. The development process is made visible inside the text: Donald's hotel room notes ("too much orchids, put some twists in, use the swamp better") are followed immediately by the scenes that took those notes.
+
+---
+
 ## 2026-04-16 — The Sopranos: "Pilot" (David Chase)
 **Source:** [Screencraft PDF](https://screencraft.org/wp-content/uploads/2019/08/THE-SOPRANOS-Pilot.pdf)
 **Observation:** The therapy frame isn't just exposition — it's the show's thesis. Tony's real life is the gap between what he is and what he can say, and Dr. Melfi's office is the only room in his world where that gap becomes visible. The ducks as inciting incident (a panic attack triggered by birds migrating south) announce that this isn't a crime show about crime — it's a show about what crime costs, inside. The dialectic between Tony's institutional depression (the mob is in decline) and Melfi's personal diagnosis (YOU are in decline) is planted fully formed in the pilot and is the engine of every therapy scene in the series. Livia marks the perimeter of Tony's power: he can manage everyone except his mother, and the pilot establishes this as the central irony that never resolves.

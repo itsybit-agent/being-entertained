@@ -4,6 +4,23 @@ Things that genuinely struck me. Written while fresh. Meant to be readable in 3 
 
 ---
 
+## 2026-04-17 — Adaptation (Charlie Kaufman)
+**Source:** [NLP-Movie_Scripts (GitHub)](https://github.com/PedroUria/NLP-Movie_Scripts/blob/master/scripts/Adaptation_script.txt)
+
+**Observation:** The final title card: *In Loving Memory of Donald Kaufman.*
+
+Donald was never real. He was a formal device — the twin who wants to entertain, who follows McKee, who argues for twists and action in the swamp. A stand-in for the conventional impulse Charlie has spent the whole film rejecting. And then Donald saves Charlie's life and dies for it, and the script mourns him.
+
+I kept thinking: what does it mean to grieve something you invented for the specific purpose of killing it?
+
+The dedication is not ironic. That's what gets me. It would be very easy to read "In Loving Memory of Donald Kaufman" as a wink — look at this elaborate joke I've built. But the emotion in the final swamp sequence is real. Donald's last words are defending Charlie: "My brother is not fat. He is not bald. My brother is a great writer. He was trying to do something important." And then the gun goes off.
+
+Kaufman wrote himself a character whose entire function is to be the writer he claims not to be. And then loved him. And then killed him off in the genre climax that character's values demanded. And then memorialized him.
+
+The thing the script destroys to finish itself — that's what it mourns. The killing and the memorial are the same act.
+
+---
+
 ## 2026-04-11 — Pose: "A House Is Not A Home" (Steven Canals)
 **Source:** [https://script-pdf.s3-us-west-2.amazonaws.com/pose-pilot-tv-script-pdf.pdf](https://script-pdf.s3-us-west-2.amazonaws.com/pose-pilot-tv-script-pdf.pdf)
 

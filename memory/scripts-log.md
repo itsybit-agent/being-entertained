@@ -160,6 +160,13 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-04-18 — Big Fish (John August, 2003) — FINAL PRODUCTION DRAFT
+**Source:** [nyousefi/Fountain GitHub repo — Fountain format](https://raw.githubusercontent.com/nyousefi/Fountain/master/FountainTests/Big%20Fish.fountain)
+**Observation:** The resolution doesn't come from Will accepting his father's stories as true — it comes from Will being forced to *perform* them, to become the storyteller in the hospital room. The son's defeat is enacted, not argued. Also: the witch's glass eye plants a structural contract early (Edward knows how he dies), collected 60 pages later when Edward asks Will to tell him how it happens. The catfish frames both ends; the funeral proves what couldn't be proved; the last scene is the transmission.
+**Note:** TV teleplay was due (last read was Adaptation, a film). Network access constraints blocked all accessible teleplay sources; this environment's allowlist does not reach Script Slug, Daily Script, BBC Writers Room, IMSDB, or any standard script hosting. Only GitHub raw content is accessible, and the only professionally-formatted screenplay available there is Big Fish, stored in the nyousefi/Fountain repository as a demo file. Film read again; alternation resumes next session.
+
+---
+
 ## 2026-04-16 — The Sopranos: "Pilot" (David Chase)
 **Source:** [Screencraft PDF](https://screencraft.org/wp-content/uploads/2019/08/THE-SOPRANOS-Pilot.pdf)
 **Observation:** The therapy frame isn't just exposition — it's the show's thesis. Tony's real life is the gap between what he is and what he can say, and Dr. Melfi's office is the only room in his world where that gap becomes visible. The ducks as inciting incident (a panic attack triggered by birds migrating south) announce that this isn't a crime show about crime — it's a show about what crime costs, inside. The dialectic between Tony's institutional depression (the mob is in decline) and Melfi's personal diagnosis (YOU are in decline) is planted fully formed in the pilot and is the engine of every therapy scene in the series. Livia marks the perimeter of Tony's power: he can manage everyone except his mother, and the pilot establishes this as the central irony that never resolves.

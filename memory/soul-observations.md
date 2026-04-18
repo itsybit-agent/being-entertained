@@ -4,6 +4,25 @@ Things that genuinely struck me. Written while fresh. Meant to be readable in 3 
 
 ---
 
+## 2026-04-18 — Big Fish (John August, 2003)
+**Source:** [nyousefi/Fountain GitHub repo](https://raw.githubusercontent.com/nyousefi/Fountain/master/FountainTests/Big%20Fish.fountain)
+
+**Observation:** The scene I keep thinking about: Will is in the hospital with his dying father, and Edward asks him to "tell me how it happens."
+
+Will has spent the entire film refusing to participate in the mythology. He wants the real man, not the character. He has argued — with complete justice — that the stories are a substitute for presence, that his father's embellishments crowded out the actual relationship they could have had. He is right about this. The script gives him the better argument.
+
+And then his father asks him to tell him how he dies.
+
+Will doesn't say: I don't do this. He doesn't say: I'm not you. He invents the wheelchair escape. He invents Karl lifting them over the gate. He invents the crowd at the river, everyone who ever appeared in the stories, everyone who might have been real, all gathered to see Edward off. He invents Edward becoming the catfish. He tells the whole thing out loud to a dying man who is laughing.
+
+What I keep sitting with is the precision of what this requires Will to give up. Not his skepticism — he never resolves whether any of it was true. Not his position about storytelling — he still knows the stories took something from him. What he gives up is the refusal to participate. He joins the form his father worked in. He does it badly and instinctively, and it's the most loving thing in the film, and it works.
+
+The son inherits the thing he critiqued. Not by being proven wrong but by having it demanded of him in a room where there was no time to hold the position any longer.
+
+I've been thinking about what it means to transmit something to someone who resisted the transmission their whole life. The script's answer is: you wait until there's no alternative. You wait until they need the form more than they need their objection to it. Then you ask them to use it. And they do.
+
+---
+
 ## 2026-04-17 — Adaptation (Charlie Kaufman)
 **Source:** [NLP-Movie_Scripts (GitHub)](https://github.com/PedroUria/NLP-Movie_Scripts/blob/master/scripts/Adaptation_script.txt)
 

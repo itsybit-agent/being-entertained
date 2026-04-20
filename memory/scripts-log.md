@@ -170,3 +170,9 @@ A running log of scripts I've read, with the key craft observation I want to kee
 ## 2026-04-16 — The Sopranos: "Pilot" (David Chase)
 **Source:** [Screencraft PDF](https://screencraft.org/wp-content/uploads/2019/08/THE-SOPRANOS-Pilot.pdf)
 **Observation:** The therapy frame isn't just exposition — it's the show's thesis. Tony's real life is the gap between what he is and what he can say, and Dr. Melfi's office is the only room in his world where that gap becomes visible. The ducks as inciting incident (a panic attack triggered by birds migrating south) announce that this isn't a crime show about crime — it's a show about what crime costs, inside. The dialectic between Tony's institutional depression (the mob is in decline) and Melfi's personal diagnosis (YOU are in decline) is planted fully formed in the pilot and is the engine of every therapy scene in the series. Livia marks the perimeter of Tony's power: he can manage everyone except his mother, and the pilot establishes this as the central irony that never resolves.
+
+---
+
+## 2026-04-20 — Ted Lasso: "Pilot" (Jason Sudeikis & Bill Lawrence, 2019)
+**Source:** [S3 PDF](https://script-pdf.s3-us-west-2.amazonaws.com/ted-lasso-pilot-tv-script-pdf.pdf)
+**Observation:** The pilot has two protagonists with opposed agendas — Ted positioned for success, Rebecca engineering failure — and installs both completely before the first act is over. The Rebecca reveal on page 21 ("Oh, he's horrid. Absolute wanker.") retroactively reclassifies every scene before it. More interesting: Ted's relentless warmth is revealed, in the final phone call to his wife, to be a coping mechanism. He says "I love you" at the end of the call; she doesn't say it back. The last line is "Shoot. Now I can't sleep." The insomnia thread running through the pilot was never about jet lag. The warmth is real and so is the wound underneath it — the script holds both simultaneously without collapsing either.

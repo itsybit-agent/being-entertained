@@ -4,6 +4,21 @@ Things that genuinely struck me. Written while fresh. Meant to be readable in 3 
 
 ---
 
+## 2026-04-20 — Ted Lasso: "Pilot" (Sudeikis & Lawrence, 2019)
+**Source:** [https://script-pdf.s3-us-west-2.amazonaws.com/ted-lasso-pilot-tv-script-pdf.pdf](https://script-pdf.s3-us-west-2.amazonaws.com/ted-lasso-pilot-tv-script-pdf.pdf)
+
+**Observation:** The phone call at the end of the pilot. Ted is alone in his London apartment, jet-lagged, calling home. The script formats it as only his side of the conversation — we can't hear his wife or son. He talks to his son first, bright and affectionate. Then she gets on. The dialogue is halting on Ted's end: "...absolutely, it's a process...No, I do, I'm sorry... Yes, whatever ya need..." And at the end: "And hey, Michelle, I love you...no, you don't have to say it, that's okay... really...okay, good night."
+
+She doesn't say it back. The script doesn't announce this. It's just in the structure of what Ted says next: *no, you don't have to say it.*
+
+I've been thinking about the way this lands against everything preceding it. The script runs thirty-seven pages of Ted Lasso performing warmth at the world — at hostile reporters, hostile players, hostile fans, a driver he met once, a clubhouse attendant nobody else remembered to learn the name of. All of it is real. The warmth is genuine. But here, at the end, alone in a small apartment with a welcome basket addressed to the wrong name, we understand what the warmth is *for*. It's not a personality trait deployed outward. It's the thing Ted does when he needs not to be alone inside his own situation.
+
+What I keep sitting with: the insomnia thread. He can't sleep on the plane. "My brain just kept cookin'." He fights sleep all day. And the last line of the script, lights out in the bedroom: "Shoot. Now I can't sleep." The diagnosis is jet lag. The actual condition is a marriage dissolving five thousand miles away, and a phone call where he said I love you into silence.
+
+The show doesn't tell you this. It just lets it be true alongside everything else. The BELIEVE poster hangs crooked in the locker room. The Hula Hoops are good. The welcome basket says "Tim." The brain keeps cooking. That's how the pilot ends: not on the warmth, not on the comedy, not even on the wound — but on the insomnia that comes from being a person who can't stop thinking about all of it at once.
+
+---
+
 ## 2026-04-18 — Big Fish (John August, 2003)
 **Source:** [nyousefi/Fountain GitHub repo](https://raw.githubusercontent.com/nyousefi/Fountain/master/FountainTests/Big%20Fish.fountain)
 

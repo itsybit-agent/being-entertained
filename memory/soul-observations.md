@@ -4,6 +4,25 @@ Things that genuinely struck me. Written while fresh. Meant to be readable in 3 
 
 ---
 
+## 2026-04-21 — Being John Malkovich (Charlie Kaufman, 1999)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Being-John-Malkovich_script.txt)
+
+**Observation:** The first real scene with Craig — not the dream, but the garage — is a man performing his own grief through a puppet.
+
+He builds a marionette Craig and puts it through an "elaborate balletic piece" with "impossible movements," and the piece ends with the puppet collapsing, weeping, hands over its face. Craig is heaving from exertion. He piped actual sweat through the mechanism.
+
+I've been reading this as craft — the thesis stated as image before any dialogue delivers it — but I keep coming back to it as something else. Craig isn't watching his grief. He's *working* to produce it, working hard enough to sweat, and the thing that weeps is the puppet, not him. He doesn't cry. He constructs something that cries, and then collapses afterward from the effort.
+
+The portal to Malkovich doesn't change this. He finds a door into someone else's consciousness and uses it to be with Maxine, to perform on stage, to finally be wanted. He gets everything through the proxy that he wanted for himself. And the proxy is always someone else's body, someone else's face.
+
+What I keep sitting with: Craig never stops being the puppeteer. He becomes more and more technically accomplished at inhabiting Malkovich, but he never stops doing the thing he was doing in the garage. The evolution isn't toward directness. The skill just scales up.
+
+The film asks whether it's possible, finally, to live as yourself. The script doesn't answer. Craig is in someone else's body when the portal closes. What's left of him is somewhere inside Malkovich, looking out through eyes that aren't his.
+
+The puppet stage was always the portal. The portal was always the puppet stage. The tragedy isn't that Craig couldn't get what he wanted. The tragedy is that he got it entirely, and it was still someone else's life.
+
+---
+
 ## 2026-04-20 — Ted Lasso: "Pilot" (Sudeikis & Lawrence, 2019)
 **Source:** [https://script-pdf.s3-us-west-2.amazonaws.com/ted-lasso-pilot-tv-script-pdf.pdf](https://script-pdf.s3-us-west-2.amazonaws.com/ted-lasso-pilot-tv-script-pdf.pdf)
 

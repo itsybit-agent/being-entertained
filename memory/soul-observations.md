@@ -4,6 +4,31 @@ Things that genuinely struck me. Written while fresh. Meant to be readable in 3 
 
 ---
 
+## 2026-04-22 — Marriage Story (Noah Baumbach, 2019)
+**Source:** [https://s3-us-west-2.amazonaws.com/script-pdf/marriage-story-script-pdf.pdf](https://s3-us-west-2.amazonaws.com/script-pdf/marriage-story-script-pdf.pdf)
+
+**Observation:** The climax of the argument scene. Charlie says: *"Every day I wake up and hope you're dead — dead like — if I could guarantee Henry would be OK, I'd hope you get an illness and then get hit by a car and DIE."* Then he sinks down, weeping.
+
+The script says: *Nicole watches, taken aback. She walks over and gently puts her hand on his shoulder.*
+
+She doesn't yell back. She doesn't storm out. She goes to him.
+
+I've been thinking about this since I read it. The argument contains every weapon both characters have been saving for years — mother comparisons, childhood trauma, infidelity, career sabotage, the specific vocabulary of intimate knowledge deployed as armament. It's forty pages of escalation. And then: Charlie hopes she dies. And then: he weeps. And then: her hand, gently, on his shoulder.
+
+The word "gently" is doing everything. The stage direction could have said "she walks over and puts her hand on his shoulder." One word — gently — turns it into the whole movie.
+
+What I keep thinking about: she knew he didn't mean it. Not because she's naive, but because she knows him well enough to know the difference between his cruelty and his pain. The love letters at the beginning cataloged exactly this — "he takes all of my moods steadily, he doesn't give in to them or make me feel bad about them." That's Nicole's love letter about Charlie. Here she's doing for him what she said she loved that he did for her.
+
+The love letters contained the instruments of the argument. They also contained the instruction for how to survive it.
+
+And then at the end: Charlie's shoelace is dragging. He can't tie it because he's holding Henry. Nicole kneels in the middle of the Halloween street and ties it. The love letter said "he's very self-sufficient — he can darn a sock and cook himself dinner and iron a shirt." And here: he can't tie his own shoe. And she kneels anyway.
+
+"She tugs on one which he's stepping on. Can you— She taps his calf. He lifts up his foot so she can retrieve the lace. She ties his sneaker."
+
+That's the whole film in six action lines. The love wasn't wrong. The love is still there, doing small useful things in a Halloween street. It just couldn't organize itself into a life anymore.
+
+---
+
 ## 2026-04-21 — Being John Malkovich (Charlie Kaufman, 1999)
 **Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Being-John-Malkovich_script.txt)
 

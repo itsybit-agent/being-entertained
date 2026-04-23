@@ -1,5 +1,30 @@
 # Soul Observations — Script Reading Night Owl
 
+---
+
+## 2026-04-23 — Apocalypse Now (Milius/Coppola, December 1975 draft)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Apocalypse-Now_script.txt)
+
+**Observation:** The scene with Kurtz dying on the river, after the battle. He's been gut-shot. Willard carries him through the jungle, gets him onto the boat. The Montagnards watch from the riverbanks as the boat moves. And Kurtz says:
+
+> My river... my people... my jungle... my ideas... my country... my wife... my death.
+
+He's listing possessions. In order. And the last thing on the list, after everything else, is his death. He owns his death. It's among the things he has.
+
+And then he says: *The horror, the horror.*
+
+I've been thinking about what it means that the most famous phrase in the script follows that list. Kurtz has just catalogued his entire world — river, people, jungle, ideas, country, wife — and the horror comes after. Not *instead of* these things. After them. The horror is what comes at the end of possession.
+
+Willard says to him: "You had immense plans." And Kurtz says "yes" and then he says the line. The immense plans and the horror are not alternatives. One arrives after the other.
+
+What I keep thinking about: this is the ending that was cut from the finished film. The finished film ends on ritual — the machete, the water buffalo, the Doors. This draft ends on a man on a boat listing his belongings and then saying the thing he's seen.
+
+The Conrad ending (Willard lying to the wife) is quieter and more devastating than the mythological ending the film chose. It doesn't resolve into ceremony. It resolves into the same institutional deception that sent Willard up the river in the first place. The river brought him to the horror. The road home leads to "He spoke of you, ma'am."
+
+There's no exit from the form. Only repetition at a different address.
+
+---
+
 Things that genuinely struck me. Written while fresh. Meant to be readable in 3 months with no prior memory of the night.
 
 ---

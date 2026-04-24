@@ -2,6 +2,21 @@
 
 ---
 
+## 2026-04-24 — Breaking Bad: "Pilot" (Vince Gilligan, 2005)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/breaking-bad-101-pilot.fountain)
+
+**Observation:** The Teaser describes Walt as "not a guy we'd pay attention to if we passed him on the street" — and in the same paragraph, "right now, we'd step the fuck out of his way." The gap between those two sentences is the whole show.
+
+What stayed with me: Gilligan writes the authorial "we" into the stage directions throughout. He doesn't step back from his own story. He editorializes, he comments, he places himself inside the camera angle. And it works because the visual premise is so extreme (underpants, gas mask, chrome pistol, two corpses, money blowing in the wind) that the written voice isn't competing with the image — it's completing it.
+
+The "I am awake" exchange. Dupree pushes Walt: *"Some straight like you, giant stick up his ass... just gonna break bad?"* Walt says: *"I am... awake."* The ellipsis is in the script. A beat before the noun. Gilligan doesn't write "I finally feel alive" or "I've been asleep my whole life." He writes the flattest possible word for a state of alertness, lets the ellipsis carry everything, and moves on. The word is both descriptive and frightening. Waking up and going morally dark are the same word in this sentence.
+
+The mustard stain deflection. Walt hears "multiple myeloma, stage 3" and his attention goes to a spot of mustard on the doctor's tie. He doesn't cry. He files the mortality and catalogs the condiment. This is the character: unbearable information is stored, not processed. The deflection is diagnostic. Later: the same man is in underpants in a cow pasture ready to shoot cops. The filing cabinet is full now. Different operation entirely.
+
+The jock scene. Walt attacks a boy who mocked his son, and uses the bully's own words against him: *"What's the matter, Chief? You having trouble walking there? Stand up. Don't be a retard."* Stage direction: *"Walt looks slightly crazy."* I keep thinking about the precision of "slightly." Not *crazy*. *Slightly*. It's still him. The cruelty isn't a break from character — it's a preview of what character looks like when permission is removed.
+
+---
+
 ## 2026-04-23 — Apocalypse Now (Milius/Coppola, December 1975 draft)
 **Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Apocalypse-Now_script.txt)
 

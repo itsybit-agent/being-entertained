@@ -198,6 +198,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-04-25 — Parasite (Bong Joon Ho & Han Jin Won, 2019)
+**Source:** [NEON PDF](https://s3-us-west-2.amazonaws.com/script-pdf/parasite-script-pdf.pdf)
+**Observation:** The script encodes its class argument as vertical geography before any dialogue — semi-basement, mansion, secret underground room. The staircase is the structural prop and every revelation happens at a threshold between levels. The smell-flinch is the mechanism: Dong-Ik wrinkles his nose involuntarily at Kun-Sae's body odor and Ki-Tek kills him. Not a villainous act — an embodied, involuntary one. The motion-sensor lights run as a plant with two payoffs (Kun-Sae's welcome ritual → Ki-Tek's Morse code). The ending is an impossible plan stated plainly: Ki-Woo knows the plan, can write the plan, cannot deliver it.
+
+---
+
 ## 2026-04-23 — Apocalypse Now (John Milius & Francis Ford Coppola, December 3, 1975 draft)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Apocalypse-Now_script.txt)
 **Observation:** This draft preserves Conrad's Heart of Darkness ending that the finished film abandoned — Willard lies to Kurtz's wife about his last words, exactly as Marlow lies to Kurtz's intended. The structural frame (Marina del Rey corporate party → Vietnam → Cambodia → Marine del Rey → California suburb) argues that America and the jungle are morally continuous, not opposites. The camera direction style ("OUR VIEW MOVES," cameras being killed in the opening) makes the witnessing apparatus itself a participant in the violence. Most significant: in this draft Willard doesn't kill Kurtz — Kurtz dies in battle and Willard carries him back. The ritual killing of the finished film is an invention that mythologizes what this draft treats as institutional process. "Terminate with extreme prejudice" is the most polished language in the script; the most bureaucratic phrase describes an assassination. The gap is the argument.

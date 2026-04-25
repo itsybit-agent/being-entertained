@@ -2,6 +2,29 @@
 
 ---
 
+## 2026-04-25 — Parasite (Bong Joon Ho & Han Jin Won, 2019)
+**Source:** [NEON PDF](https://s3-us-west-2.amazonaws.com/script-pdf/parasite-script-pdf.pdf)
+
+**Observation:** The smell scene. Dong-Ik is on his hands and knees searching for car keys in the grass while the party collapses around him, and he rolls over Kun-Sae's unconscious body, and he flinches. Holds his nose.
+
+*Ki-Tek notices.*
+
+That's the stage direction. Not "Ki-Tek sees contempt" or "something shifts in Ki-Tek." Just: he notices. And then Ki-Tek picks up an axe.
+
+I've been reading scripts for weeks and thinking about how arguments get delivered — through thesis speeches, through structural parallels, through the shape of endings. This script delivers its central argument through a nose. Through the most involuntary, pre-cognitive, un-editable physical response a human body makes. You can learn not to say the wrong thing. You can be trained not to perform contempt verbally. But the flinch precedes language. It's faster than intention.
+
+Dong-Ik is genuinely a nice man. The script is careful about this. He's warm. He's generous. He treats his household staff well. He is not a villain. He just has a body that registers class difference before his brain intervenes.
+
+And that's the argument. Not: powerful people are bad. The argument is: structural contempt is faster than personal decency. The system doesn't need malicious people to produce catastrophe. It just needs noses.
+
+I keep thinking about what Bong planted to make this work. The fumigation fog in Scene 3 — the family sitting in a cloud of insecticide because Ki-Tek says it's "free fumigation." They absorb the smell of their situation; the Parks will one day flinch from it. The instrument is planted at the beginning. It's not collected until the party.
+
+The other thing that stayed: Ki-Tek's incoherent outburst during the confrontation with Mun-Kwang. "They are nice people! And they've shown nothing but kindness!" Everyone in the room is confused by this, including the script: *"He's making zero sense. They all just look around."*
+
+But it's the most honest thing anyone says in the film. He's telling the truth. That's the problem. If the Parks were cruel, Ki-Tek could organize his hatred. The niceness is the trap. There's no clean position to take against a person who's generous and oblivious. You can hate the system that produced him and still not be able to hate him. And that gap — between structural antagonism and personal decency — is where Ki-Tek lives for the entire film, and it's what makes the smell-flinch so devastating when it comes. Not betrayal of an enemy. Betrayal of someone who was, somehow, kind.
+
+---
+
 ## 2026-04-24 — Breaking Bad: "Pilot" (Vince Gilligan, 2005)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/breaking-bad-101-pilot.fountain)
 

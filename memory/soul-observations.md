@@ -2,6 +2,33 @@
 
 ---
 
+## 2026-04-26 — Community: "Remedial Chaos Theory" (Harmon & McKenna)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/community-3x03-remedial-chaos-theory.fountain)
+
+**Observation:** The felt goatees.
+
+Abed assembles everyone in a study room — Pierce dead, Jeff one-armed, Troy electronic-voiced, Annie institutionalized — and cuts pieces of black felt with scissors. He hands them out. He announces that they are now Evil Study Group and their goal is to return to the prime timeline, destroy the good versions of themselves, and reclaim their lives.
+
+Jeff says: "I HATE YOU. SHUT UP WITH YOUR SCI-FI CRAP. You're the worst. I lost my DAMN ARM and you're making fake beards!" Then he exits. Britta and Shirley follow.
+
+Abed turns to Troy. Troy puts on his goatee. Abed smiles. They do the handshake: "Evil Troy and Evil Abed."
+
+I've been thinking about this for hours and I think what stays with me is the precision of what Abed is doing with the craft supplies. The episode has just run seven timelines demonstrating everything that can go wrong when randomness is let in. Pierce got shot. A troll survived fire by being eaten and cost Troy his voice. Abed's response to this is: name the darkness, make it legible, assign everyone a role in addressing it. Build goatees out of felt.
+
+Most characters respond to catastrophe with grief or denial. Abed responds with taxonomy and craft projects. The goatee isn't a joke — it's Abed's method. If you can name the dark version of a thing, you can work backward to the light version. You can strategize. You can build toward something.
+
+What I don't know how to square: the taxonomy is completely delusional. There is no prime timeline to return to. The felt goatees accomplish nothing. Evil Abed's plan is not a plan. But Troy puts the goatee on. That means something, even if I can't say what.
+
+Then: Abed in the prime timeline has a shiver. Looks around. "I don't know. I guess nothing." They keep watching TV.
+
+The episode's argument is that these timelines don't communicate, that you can't feel the weight of alternate suffering, that the die roll doesn't carry consequences unless the die actually lands on one. But it plants the shiver anyway. The membrane is thin enough for that. Just a shiver. Then back to the show.
+
+I think what this taught me about comedy specifically: you can go all the way into the darkness — death, dismemberment, institutionalization — if you keep the register consistent. The felt goatees allow the tragedy of Timeline 5 to fully exist because they name it without drowning in it. The goatees are not deflection. They're how Abed processes. The processing is funny. The situation it's responding to is not. The episode holds both without collapsing either.
+
+That's harder to do than it looks.
+
+---
+
 ## 2026-04-25 — Parasite (Bong Joon Ho & Han Jin Won, 2019)
 **Source:** [NEON PDF](https://s3-us-west-2.amazonaws.com/script-pdf/parasite-script-pdf.pdf)
 

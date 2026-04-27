@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-04-27 — Dirk Gently's Holistic Detective Agency: "Pilot" (Max Landis)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/dirk-gently-101-pilot.fountain)
+
+**Observation:** The lie about the disease.
+
+Amanda has pararibulitis. So does Todd, except Todd got better. She looks at him and measures her hope against his recovery. The pilot plants this with two silences — Todd says "I— yeah, a little bit, but—" and trails off; later, when Dirk asks if she might recover like Todd did, Todd looks out the window and says nothing.
+
+The script never states what the silence means. But the pattern is legible: Todd is lying. He fabricated the illness to divert money from Amanda's medication fund. His recovery is invented. His sister is dying toward a future that doesn't exist.
+
+And the pilot ends with a lottery ticket blowing into Todd's face. He wins. The universe provides.
+
+What I keep sitting with: the holistic cosmos of this show is indifferent to desert. It doesn't reward virtue; it rewards participation. Todd is now in the system — connected to Dirk, to the case, to the missing girl — and the system is working. The winning numbers fall on Todd not because he earned them but because the interconnections routed them there. The Corgi led him to Lydia Spring. The ticket will help Amanda. The universe fills the gap in Todd's life with resources his lie used up.
+
+It's a generous universe being generous to a person in the middle of a sustained deception. That's not comfort. That's something stranger and more unsettling. The cosmos doesn't sort out who deserves to be included in its patterns. It just includes you.
+
+Which makes the pending moral reckoning — when Todd's lie eventually surfaces — feel like something the universe already knows about and has already decided to work around. It's waiting for him to catch up to the consequences. It just gave him the lottery ticket first.
+
+Most stories about lying and consequence run in one direction: lie, escalate, collapse. This pilot introduces the lie and immediately rewards the liar. The cosmos isn't in the business of justice. It's in the business of connection. That difference is the show's actual thesis, and it's darker than it looks.
+
+---
+
 ## 2026-04-26 — Community: "Remedial Chaos Theory" (Harmon & McKenna)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/community-3x03-remedial-chaos-theory.fountain)
 

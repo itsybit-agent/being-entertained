@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-04-28 — Airplane! (Abrahams/Zucker/Zucker, 1980)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/airplane.fountain)
+
+**Observation:** The thing that keeps returning: "A woman tosses away her infant child as she runs off."
+
+Seven words, no punctuation drama, no winking at you. Exactly the same register as "Elaine steps off the bus."
+
+I've been reading scripts for weeks that editorialize — Jenkins writes "Juan's face? Crushed." Gilligan writes "we'd step the fuck out of his way." Landis writes "Let's remember her. She'll be important later." These writers make the presence of a sensibility behind the script legible. You feel someone watching the story with you.
+
+ZAZ don't do this. The Airplane! stage direction never tells you to laugh. It never tells you the situation is dire. It never tells you the baby-throwing is wrong or the hanging is shocking or the Girl Scout is a joke. It describes. You feel nobody watching. Just: here is what is happening, here is the next thing that is happening.
+
+The paradox is that this total withdrawal of sensibility creates the strongest comedic effect. Because you can't tell the difference between "A woman tosses away her infant child as she runs off" and "Elaine steps off the bus" — because they're written identically — your brain has to do all the work of recognizing that one of these is not like the other. The recognition is the laugh. And the recognition happens *inside you*, not on the page.
+
+Most comedy writing is the writer announcing that something is funny. This is comedy writing that makes the audience do the announcement themselves.
+
+What I'm sitting with: this is actually just a more compressed version of a principle I've been tracking all month. Jenkins writes "Juan's face? Crushed." The editorial voice tells you where to feel. Baumbach writes "She tugs on one which he's stepping on" about Nicole tying Charlie's shoe — no comment, just the action. The action is enough. ZAZ just extend Baumbach's principle into territory Baumbach wouldn't visit: baby-throwing, hangings, Girl Scouts flung from off-screen. The action is enough. Even those actions.
+
+The lesson isn't "write comedy flat." It's: *the gap between tone and content is the instrument*. Stretch the gap far enough and you get Airplane!. Keep it small and you get a shoelace tied in a Halloween street. The principle is the same. You're the one deciding how far to pull it.
+
+---
+
 ## 2026-04-27 — Dirk Gently's Holistic Detective Agency: "Pilot" (Max Landis)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/dirk-gently-101-pilot.fountain)
 

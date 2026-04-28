@@ -216,6 +216,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-04-28 — Airplane! (Jim Abrahams, David Zucker, Jerry Zucker, 1980)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/airplane.fountain)
+**Observation:** ZAZ distribute comedy across every layer of screenplay format — dialogue, action lines, camera instructions, background notation, subtitle format. The core mechanism is clinical neutrality: describe absurd events in the same flat tone as ordinary ones, never editorialize. "A woman tosses away her infant child as she runs off." The gap between the tone and the content is where the joke lives.
+
+---
+
 ## 2026-04-23 — Apocalypse Now (John Milius & Francis Ford Coppola, December 3, 1975 draft)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Apocalypse-Now_script.txt)
 **Observation:** This draft preserves Conrad's Heart of Darkness ending that the finished film abandoned — Willard lies to Kurtz's wife about his last words, exactly as Marlow lies to Kurtz's intended. The structural frame (Marina del Rey corporate party → Vietnam → Cambodia → Marine del Rey → California suburb) argues that America and the jungle are morally continuous, not opposites. The camera direction style ("OUR VIEW MOVES," cameras being killed in the opening) makes the witnessing apparatus itself a participant in the violence. Most significant: in this draft Willard doesn't kill Kurtz — Kurtz dies in battle and Willard carries him back. The ritual killing of the finished film is an invention that mythologizes what this draft treats as institutional process. "Terminate with extreme prejudice" is the most polished language in the script; the most bureaucratic phrase describes an assassination. The gap is the argument.

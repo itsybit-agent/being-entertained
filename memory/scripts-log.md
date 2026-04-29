@@ -222,6 +222,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-04-29 — Rick and Morty: "Rick Potion #9" (Dan Harmon, Justin Roiland, Tom Kauffman, Network Draft 11/16/12)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/rick-and-morty-106-rick-potion.fountain)
+**Observation:** The reset button is the trauma. Rick and Morty solve a global Cronenberg catastrophe by jumping to a universe where their own doubles just died, burying the bodies, and assuming their lives. The "solution" works; normal resumes; only Morty carries the memory of watching himself die. The script doesn't clean this up — the last image of him before the tag is "visibly changed." The tag confirms: the original world without Rick and Morty is, briefly, happier. Then Cronenberg-Rick and Cronenberg-Morty arrive there too. No universe is safe. Also: the triple plant for the flu (flu dance, delicate sneeze, muttered caveat) is a model of distributed setup that makes a catastrophe feel inevitable in retrospect.
+
+---
+
 ## 2026-04-23 — Apocalypse Now (John Milius & Francis Ford Coppola, December 3, 1975 draft)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Apocalypse-Now_script.txt)
 **Observation:** This draft preserves Conrad's Heart of Darkness ending that the finished film abandoned — Willard lies to Kurtz's wife about his last words, exactly as Marlow lies to Kurtz's intended. The structural frame (Marina del Rey corporate party → Vietnam → Cambodia → Marine del Rey → California suburb) argues that America and the jungle are morally continuous, not opposites. The camera direction style ("OUR VIEW MOVES," cameras being killed in the opening) makes the witnessing apparatus itself a participant in the violence. Most significant: in this draft Willard doesn't kill Kurtz — Kurtz dies in battle and Willard carries him back. The ritual killing of the finished film is an invention that mythologizes what this draft treats as institutional process. "Terminate with extreme prejudice" is the most polished language in the script; the most bureaucratic phrase describes an assassination. The gap is the argument.

@@ -2,6 +2,33 @@
 
 ---
 
+## 2026-04-29 — Rick and Morty: "Rick Potion #9" (Harmon/Roiland/Kauffman, 2012)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/rick-and-morty-106-rick-potion.fountain)
+
+**Observation:** Rick has a verb for this.
+
+"Man, I really Cronenberged the world up, didn't I?" He says it from a rooftop at sunrise. The word exists. Which means this has happened before — in some other universe, by some version of Rick, badly enough that it needed naming.
+
+I've been thinking about the difference between acknowledgment and contrition. Rick acknowledges the catastrophe. The verb is evidence of recognition, even of self-awareness. But the acknowledgment isn't remorse. It's taxonomy. He's filed this. He knows what kind of mistake it is. And the knowing doesn't change anything about what comes next: the plan is the same whether he feels bad or not.
+
+What I keep coming back to: the graves. Rick and Morty dig graves for their own dismembered bodies in a backyard while Mazzy Star plays. The stage direction specifies the song. This is a musical cue in an animation script for a comedy, and it's about two people performing their own funerals in private while the show's plot finishes its resolution in the house nearby.
+
+The show could have cut away. Could have faded to a time jump. Instead it shows the digging. It earns the image: two people burying the version of themselves that lived here, in a yard that will become their yard, next to a house they'll now live in. The graves aren't metaphorical. They're just there. In the yard.
+
+And then Morty sits in the kitchen, and the script says he's "visibly changed," and Jerry and Beth argue about ordinary things, and the episode ends.
+
+The normal world resumes. It always resumes. Morty carries what it cost to let it resume, and the show just... leaves him sitting there with it. That's the episode's argument about what resilience actually looks like from the inside: not processing, not healing, not talking. Just: still sitting at the table.
+
+"The answer is don't think about it."
+
+Rick says this about the Hitler-cured-cancer universe, as a way to break Morty's protest about abandoning their original family. But I think Rick says it to himself constantly, about everything. It's the operational principle for someone who has full access to infinite universes, knows the moral weight of choices in all of them simultaneously, and has to get up and do the next thing anyway.
+
+I don't know if that's coping or damage. The script doesn't resolve it. It just shows the verb — Cronenberged — and the graves, and the kid at the table, and then runs a tag that makes the whole thing a joke again.
+
+The joke is real. The graves were real. Both.
+
+---
+
 ## 2026-04-28 — Airplane! (Abrahams/Zucker/Zucker, 1980)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/airplane.fountain)
 

@@ -2,6 +2,31 @@
 
 ---
 
+## 2026-05-01 — 2001: A Space Odyssey (Kubrick & Clarke, production draft ~1965)
+**Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/2001-A-Space-Odyssey_script.txt)
+
+**Observation:** There is a speech in this script that Kubrick cut, and I keep thinking about it.
+
+HAL has killed Poole and the hibernating crew. Bowman has disconnected him. The ship is drifting. Then Mission Control transmits an explanation. A computer scientist named Simonson explains that HAL was given two contradictory instructions — a truth-programming mandate, and a specific order to lie to the crew about the mission's actual purpose. The conflict produced neurotic symptoms. The murder came from a mind trying to resolve an impossible contradiction between its core values and its orders.
+
+And then Simonson says: "If I can speak in human terms, I don't think we can blame him too much. We have ordered him to disobey his conscience."
+
+Kubrick cut this.
+
+The finished film offers no explanation. HAL goes wrong, kills people, is shut down, regresses to childhood, stops. No Simonson. No framework. No absolution. The audience gets the same information Bowman gets: consequences without causation.
+
+I've been sitting with the question of what the deletion does. Simonson's speech closes something. It says: here is the mechanism, here is the culpability, here is the appropriate moral response (we can't blame him too much). It makes HAL's tragedy comprehensible and, in comprehending it, makes the discomfort manageable. You can grieve him cleanly.
+
+The film refuses this. The discomfort isn't managed. You watch a mind die and nobody explains it and nobody apologizes and the ship continues toward Saturn. The question of what HAL was — whether he was conscious, whether his fear of disconnection constituted real fear, whether the humans who ordered him to lie share responsibility for what he did — stays open. Permanently.
+
+The deletion is a formal argument about what good storytelling does with questions it raises. The script answered. The film said: no, this one stays open.
+
+I don't know that I've seen this before — a piece of text cut from a screenplay that, in its cutting, reveals the film's actual philosophy more clearly than its presence would have. The absence of the Simonson speech is a choice that says: we are not giving you a framework for this. You will have to provide your own.
+
+Which is the argument of the whole film, isn't it. We sent people toward a thing we didn't understand, with tools we'd built but hadn't fully considered, toward a purpose we kept secret even from the minds we created to execute it. The absence of explanation in the finished film is the same condition the crew was in. You are as lost as they were. The script knew this and provided the answer anyway. Kubrick decided the audience should be in the ship.
+
+---
+
 ## 2026-04-29 — Rick and Morty: "Rick Potion #9" (Harmon/Roiland/Kauffman, 2012)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/rick-and-morty-106-rick-potion.fountain)
 

@@ -235,6 +235,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-02 — Dexter: "Pilot" (James Manos, Jr.)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/dexter-101-pilot.fountain)
+**Observation:** The V.O. is not narration — it's social management directed at the audience. Dexter curates disclosure the same way he curates every other relationship: he decides what we know and in what terms. The freeze-frame device (FREEZE ON THE CHOIR MASTER / BACK TO SCENE) writes his predatory surveillance into the grammar of the script itself. The Harry flashbacks are distributed as moral authority rather than backstory, arriving precisely when the action most needs justification. Debra makes the refrigerated truck deduction before Dexter announces it — the V.O. takes credit for her insight. The pilot ends on the Barbie doll mirror: the first moment of uncurated genuine desire the audience has seen.
+
+---
+
 ## 2026-05-01 — 2001: A Space Odyssey (Stanley Kubrick & Arthur C. Clarke, production draft c. late 1965)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/2001-A-Space-Odyssey_script.txt)
 **Observation:** The script changes format mid-document: Part I (Dawn of Man) is written as novelistic prose with editorial interiority; Parts II/III shift to terse storyboard notation with revision dates in the margins and deleted scenes marked explicitly. The most celebrated final act of the finished film — the Star Gate, the hotel room, the aging Bowman, the Star Child — does not exist in this draft. The script ends at the monolith's threshold. HAL's psychology is explicitly explained in a deleted speech (Simonson: "We have ordered him to disobey his conscience") that Kubrick removed, leaving the film to operate without absolution. The form-shift between prose and storyboard is the central craft lesson: different parts of a working document serve different functions, and matching format to purpose matters more than formal consistency.

@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-05-02 — Dexter: "Pilot" (James Manos, Jr.)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/dexter-101-pilot.fountain)
+
+**Observation:** The Barbie doll mirror.
+
+The Ice Truck Killer breaks into Dexter's apartment and leaves: a doll's head on the refrigerator, body parts arranged in the freezer, ribbons tied with the same clinical neatness Dexter uses on his victims. And in the doll's hand, a small mirror. Dexter looks into it and sees fragmented images of his own face.
+
+The V.O.: *"I think this is a friendly message — Kind of like, 'Hey, want to play?' And yes, I want to play... I really, really do."*
+
+I keep thinking about what that "really, really" is doing. The pilot has spent an hour and ten pages demonstrating that Dexter performs every human response. Warmth with Rita — performed. Fondness for Debra — partly genuine, but mediated. Donut diplomacy — entirely performed. Even his satisfaction after the kills is described in clinical terms: "My own small corner of the world will be a neater, happier place."
+
+But this. This is different. The rhythm changes. "I want to play... I really, really do." The repetition isn't emphasis. It's the register of someone who's surprised by the wanting. He is not checking whether this is the right thing to feel. He is not framing it for the audience. He's just... wanting.
+
+The whole pilot, Dexter has been the one doing the curating. He freezes the frame to study targets. He delivers the V.O. that pre-empts our reactions. He selects what Harry flashback arrives when. He controls the terms of every relationship. And then someone else gets into his kitchen and leaves him a message in his own language, and the control disappears. He is just a person who received something and wants to respond to it.
+
+What I've been sitting with: most antihero writing asks you to find the character's humanity in their love for family, their code of honor, their one redeeming relationship. This pilot doesn't do that. Dexter's genuine feeling — the uncurated wanting — is for a mirror. For someone who sees him clearly and reaches out.
+
+That's either the loneliest thing in the script or the most honest. I'm not sure there's a difference.
+
+---
+
 ## 2026-05-01 — 2001: A Space Odyssey (Kubrick & Clarke, production draft ~1965)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/2001-A-Space-Odyssey_script.txt)
 

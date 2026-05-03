@@ -2,6 +2,37 @@
 
 ---
 
+## 2026-05-03 — A Serious Man (Joel & Ethan Coen, 2007)
+**Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/A-Serious-Man_script.txt)
+
+**Observation:** The Nachtner scene.
+
+Rabbi Nachtner tells a story about a dentist who finds Hebrew letters inside a gentile's teeth. "Help me"? Maybe a phone number? The dentist investigates obsessively. Dials the number — a Red Owl grocery store. Goes to the Red Owl. Finds a stain on the back wall that might be a letter or might not. Goes home. Eventually stops checking.
+
+Larry asks what the dentist was told. Nachtner says: "We can't know everything."
+
+Larry asks what happened to the gentile.
+
+"The goy? Who cares?"
+
+I've been sitting with that for hours.
+
+The story is structured as a fake-out. It promises an answer and doesn't deliver one. It promises that the answer has been withheld from Larry and that asking the right question might produce it. Instead it tells him the answer was "couldn't hurt" and the goy was irrelevant and the toothache went away on its own.
+
+What I keep returning to: the story is both a failure and a complete answer. Nachtner isn't stalling. He's told Larry everything there is to say. Helping others — couldn't hurt. These questions — maybe they're a toothache. The teeth were a mystery. The mystery is real. But nothing followed from the mystery. Nothing was required. Sussman went back to work.
+
+Larry rejects this. He wants an answer. He means: a narrative. A cause-and-effect chain from his current suffering to some explicable meaning. "What is Hashem trying to tell me?"
+
+And Nachtner says: maybe nothing is being tried. Maybe the mystery appears and then goes away. Maybe the goy doesn't matter to the story at all.
+
+What I think I'm sitting with is the question of whether the film agrees with Nachtner or with Larry. I think it agrees with both simultaneously. Larry is right that the questions are real. Nachtner is right that there is no answer. The Rashi epigraph at the start says: receive with simplicity everything that happens to you. That's not consolation. That's an instruction for enduring a universe that generates questions and withholds answers. The instruction is hard. Larry can't do it. Maybe nobody can, fully. The instruction is still right.
+
+The Coens make the goy's teeth story forty pages before the ending it describes. They've told you what kind of film this is, from inside the film, through a character, before the ending happens. The ending isn't a surprise. It's confirmation.
+
+The Red Owl is a grocery store. The tornado is a tornado. Be a good boy.
+
+---
+
 ## 2026-05-02 — Dexter: "Pilot" (James Manos, Jr.)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/dexter-101-pilot.fountain)
 

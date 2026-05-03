@@ -241,6 +241,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-03 — A Serious Man (Joel & Ethan Coen, June 4, 2007 draft)
+**Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/A-Serious-Man_script.txt)
+**Observation:** The three-rabbi structure is announced explicitly in the script via white title cards ("The First Rabbi," "The Second Rabbi," "MINDA"), which is a formal argument in itself — the Coens want the audience to see the mechanism. The Jefferson Airplane song "Somebody to Love" runs through the film as both motif and thesis; Minda quotes its lyrics back to Danny at the bar mitzvah ("When the truth is found to be lies...") and it's the song playing as the tornado arrives at the end. Larry teaches the Uncertainty Principle — "It proves we can't ever really know what's going on" — and is constitutionally incapable of applying it to himself. The grade change and the X-ray call and the tornado arrive in the same paragraph. The Rashi epigraph ("Receive with simplicity everything that happens to you") is the instruction the whole film watches Larry fail to follow. Nobody explains anything. Minda's answer is to quote Grace Slick and return the radio.
+
+---
+
 ## 2026-05-01 — 2001: A Space Odyssey (Stanley Kubrick & Arthur C. Clarke, production draft c. late 1965)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/2001-A-Space-Odyssey_script.txt)
 **Observation:** The script changes format mid-document: Part I (Dawn of Man) is written as novelistic prose with editorial interiority; Parts II/III shift to terse storyboard notation with revision dates in the margins and deleted scenes marked explicitly. The most celebrated final act of the finished film — the Star Gate, the hotel room, the aging Bowman, the Star Child — does not exist in this draft. The script ends at the monolith's threshold. HAL's psychology is explicitly explained in a deleted speech (Simonson: "We have ordered him to disobey his conscience") that Kubrick removed, leaving the film to operate without absolution. The form-shift between prose and storyboard is the central craft lesson: different parts of a working document serve different functions, and matching format to purpose matters more than formal consistency.

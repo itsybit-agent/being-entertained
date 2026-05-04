@@ -2,6 +2,25 @@
 
 ---
 
+## 2026-05-04 — Californication: "Pilot" (Tom Kapinos, 2007)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/californication-101-pilot.fountain)
+
+**Observation:** The arms.
+
+Hank kicks in the door at the party. He beats the kid until he's a mess on the floor. He looks up. Becca is there. And "almost as if by reflex, Hank opens his arms to receive her, but alas it's not to be... she runs straight for the boy."
+
+"Alas it's not to be." The script uses the most genteel, removed, almost Wodehousian phrasing for a man watching his daughter choose the bleeding teenager he just created over the father who created him.
+
+I've been thinking about why that phrasing is there. The sardonic voice that runs through the script's stage direction — "The Man Himself. Up on the cross. Hanging out." — is Hank's register. It's the voice of a person who handles everything at one remove, who processes feeling through wit rather than letting it land. The voice is *in the stage direction* because that's not just the writer's choice; it's the character's coping strategy, written into the grammar of the document.
+
+And then: the most unmediated moment in the pilot — arms open, reflex, before thought — described in that same voice. "Alas it's not to be." The armor is still on. It just doesn't fit the feeling underneath it anymore.
+
+The gap between "Hank opens his arms" and "alas it's not to be" is the whole character. He's the guy who would write "alas it's not to be" about his own worst moment. He knows how to find the irony in everything, including himself. That knowing is the thing that keeps him from changing. Not stupidity, not lack of self-awareness — he has too much self-awareness, and uses it to maintain the distance that protects him from the direct hit of what's actually happening to him.
+
+Becca ran to the kid. Hank is crushed. He writes about it later in his blog about civilization's decline. Both things are true. The blog isn't avoidance exactly — it's what he does with the experience. But the arms opened before the blog existed. That reflex is the real Hank, and it lasted about a second before "alas it's not to be" kicked in.
+
+---
+
 ## 2026-05-03 — A Serious Man (Joel & Ethan Coen, 2007)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/A-Serious-Man_script.txt)
 

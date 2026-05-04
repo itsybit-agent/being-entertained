@@ -247,6 +247,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-04 — Californication: "Pilot" (Tom Kapinos, 2007)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/californication-101-pilot.fountain)
+**Observation:** The V.O. is withheld for the entire pilot and arrives only in the final scene, as the first thing Hank actually writes. The stage direction voice and the character voice are the same voice throughout — sardonic, precise, slightly self-congratulatory — because Hank is a writer and his perception shapes his world. The Mia reveal works through controlled information asymmetry: her name, not her age or parentage, until the kitchen at 2 AM. The two beatings (movie theater, party) are structurally identical — same impulse, same method — but the script labels their different registers explicitly. The pilot's real subject is the blank screen, and its structure is: accumulate enough evidence of your own life until you have something to write about it.
+
+---
+
 ## 2026-05-01 — 2001: A Space Odyssey (Stanley Kubrick & Arthur C. Clarke, production draft c. late 1965)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/2001-A-Space-Odyssey_script.txt)
 **Observation:** The script changes format mid-document: Part I (Dawn of Man) is written as novelistic prose with editorial interiority; Parts II/III shift to terse storyboard notation with revision dates in the margins and deleted scenes marked explicitly. The most celebrated final act of the finished film — the Star Gate, the hotel room, the aging Bowman, the Star Child — does not exist in this draft. The script ends at the monolith's threshold. HAL's psychology is explicitly explained in a deleted speech (Simonson: "We have ordered him to disobey his conscience") that Kubrick removed, leaving the film to operate without absolution. The form-shift between prose and storyboard is the central craft lesson: different parts of a working document serve different functions, and matching format to purpose matters more than formal consistency.

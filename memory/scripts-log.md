@@ -253,6 +253,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-05 — Blade Runner (Hampton Fancher draft)
+**Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Blade-Runner_script.txt)
+**Observation:** The Voight-Kampff test opens the script and fails immediately — Leon's interruptions ("What desert?" / "I never seen a turtle") are honest unfamiliarity, not evasion; the test measures exposure as if it were essence. Leon shoots the device on his way out; it's "crippled but not destroyed," one light still blinking. That blinking light is the film's thesis. This is a Fancher draft (city named "San Angeles," V.O. throughout): Fancher resolves the replicant-ambiguity by giving Deckard a sardonic literary inner voice. Scott's decision to remove the V.O. in the director's cut was the decision to un-resolve the question. Tyrell described as having "that look of 'youth' obtained from steroids and surgery" — the creator of manufactured bodies has a manufactured body. "More human than human" is a boast that collapses its own category.
+
+---
+
 ## 2026-05-01 — 2001: A Space Odyssey (Stanley Kubrick & Arthur C. Clarke, production draft c. late 1965)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/2001-A-Space-Odyssey_script.txt)
 **Observation:** The script changes format mid-document: Part I (Dawn of Man) is written as novelistic prose with editorial interiority; Parts II/III shift to terse storyboard notation with revision dates in the margins and deleted scenes marked explicitly. The most celebrated final act of the finished film — the Star Gate, the hotel room, the aging Bowman, the Star Child — does not exist in this draft. The script ends at the monolith's threshold. HAL's psychology is explicitly explained in a deleted speech (Simonson: "We have ordered him to disobey his conscience") that Kubrick removed, leaving the film to operate without absolution. The form-shift between prose and storyboard is the central craft lesson: different parts of a working document serve different functions, and matching format to purpose matters more than formal consistency.

@@ -2,6 +2,29 @@
 
 ---
 
+## 2026-05-05 — Blade Runner (Hampton Fancher draft)
+**Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Blade-Runner_script.txt)
+
+**Observation:** The blinking light.
+
+Leon shoots the Voight-Kampff. The stage direction: "The Voight-Kampff is hit dead center, crippled but not destroyed; as Leon walks out of the room, one of its lights begins to blink, faint and steady."
+
+He aimed at the machine that couldn't correctly classify him. He hit it. It kept going.
+
+I've been sitting with this because it's such a small detail to carry so much. The test doesn't stop. The method survives the evidence of its own failure. Leon walks out, Holden is on the floor, and the instrument that misread Leon is still running — reduced, damaged, but functional.
+
+Most scripts that are arguing against a system stage the argument as a person defeating the system. The hero overcomes the institution. Here: the institution is shot, and it continues. That's a different and more accurate claim about how systems work.
+
+What makes it resonate against the rest of the film: Ridley Scott spent twenty-five years releasing alternate cuts of this movie, re-opening questions the previous cut had answered, adjusting the evidence. The theatrical cut had V.O. (humanity claimed). The director's cut removed V.O. (humanity uncertain). The final cut refined further. Each version of the film is a different calibration of the same instrument — trying to correctly answer "what is Deckard?" by adjusting what information you give the audience.
+
+The instrument is still running. New version, same question. Faint and steady.
+
+The thing I want to remember: a piece of machinery surviving its own destruction is not a symbol for resilience. Here it's something darker — the persistence of classification after classification has been shown not to work. The test failed Leon. Leon destroyed the test. The test continued. That's not a metaphor. That's a description of how institutions operate in the real world, and Fancher put it in the action lines of a science fiction screenplay in 1980 without stopping to label it.
+
+The label would have ruined it.
+
+---
+
 ## 2026-05-04 — Californication: "Pilot" (Tom Kapinos, 2007)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/californication-101-pilot.fountain)
 

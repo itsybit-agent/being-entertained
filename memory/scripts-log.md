@@ -259,6 +259,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-06 — Silicon Valley: "Pilot" (Mike Judge, John Altschuler & Dave Krinsky)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/silicon-valley.fountain)
+**Observation:** The pilot never stages a successful pitch — the product sells itself through the brogrammers who tried to mock it, because they were technically capable enough to recognize what they were seeing. Thomas's discovery mechanism is: build something real and create conditions where the right people are forced to actually look at it. Character names differ from the aired show (protagonist is "Thomas Peckering," not Richard Hendricks; the Gilfoyle equivalent is "Roland"). Structure fully formed in this draft. The Erlich ramen-kitchen line is the thesis delivered by the last person you'd expect it from.
+
+---
+
 ## 2026-05-01 — 2001: A Space Odyssey (Stanley Kubrick & Arthur C. Clarke, production draft c. late 1965)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/2001-A-Space-Odyssey_script.txt)
 **Observation:** The script changes format mid-document: Part I (Dawn of Man) is written as novelistic prose with editorial interiority; Parts II/III shift to terse storyboard notation with revision dates in the margins and deleted scenes marked explicitly. The most celebrated final act of the finished film — the Star Gate, the hotel room, the aging Bowman, the Star Child — does not exist in this draft. The script ends at the monolith's threshold. HAL's psychology is explicitly explained in a deleted speech (Simonson: "We have ordered him to disobey his conscience") that Kubrick removed, leaving the film to operate without absolution. The form-shift between prose and storyboard is the central craft lesson: different parts of a working document serve different functions, and matching format to purpose matters more than formal consistency.

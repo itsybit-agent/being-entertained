@@ -2,6 +2,31 @@
 
 ---
 
+## 2026-05-06 — Silicon Valley: "Pilot" (Mike Judge, John Altschuler & Dave Krinsky)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/silicon-valley.fountain)
+
+**Observation:** The brogrammers scene.
+
+They call up Pied Piper to mock it. Brogrammer #1 looks at the file size — "1.2 megabytes? No way. I know that song. That's at least 3 on iTunes." He plays it. "That doesn't sound at all downgraded." And within two dissolves, there are speakers set up and a crowd gathering and Jared walking over to ask what they're listening to.
+
+Thomas never successfully pitched Pied Piper to anyone. The brogrammers tried to laugh at it and instead performed the most accurate evaluation of it in the script. They were uniquely qualified to recognize the value precisely because they were technically sophisticated enough to look at the file size numbers and know what those numbers meant.
+
+I've been sitting with the structural implication: the harshest critic, if they're technically capable, becomes the first genuine reader. Not a sympathetic audience — the opposite of one. But someone willing to really look, and smart enough to see what they're looking at.
+
+Thomas gets discovered not by finding the right room or the right pitch but by someone trying to disprove him. The product made the argument. And the people who made the argument were the ones who came in ready to dismiss him.
+
+What this taught me about structure: the pilot doesn't stage Thomas as good at selling. He's terrible at selling. He smiles when Peter Gregory's seatbelt clicks. He answers "Pied Piper is a proprietary site that allows you to find if your music is infringing" to a man who just said he doubts he could write a song. The pitching fails every time. But the script gives him something worth discovering, and then creates conditions for discovery — which is different from conditions for selling. The brogrammers aren't in the story to discover him; they're in the story to dismiss him. But dismissal, if your thing is real, is just discovery wearing a smirk.
+
+The other thing I keep coming back to: Erlich's late-night kitchen line. He's been insufferable for the entire pilot — bragging about Accutran, claiming equity, inserting himself uninvited into the Boodle meeting. He's the comedic antagonist. And then he sits down with Thomas in the kitchen at night and he just says: "You don't want to work for assholes and now you don't have to. You're like me — you want to build something."
+
+He goes back to his ramen. The scene ends.
+
+The script grants Erlich this one moment of genuine insight — genuine because it's also self-knowledge, because the grandiosity is clearly how he processes having built something smaller than he hoped. He came here to build something. He built Accutran. He teaches at the Hacker Hostel because he can't stop wanting to be near the next thing someone builds. The ramen-slurping, the HTML t-shirts, the unsolicited equity claim — all of it is a person who knows what it feels like to want to build, and won't stop positioning himself near it.
+
+That's not the joke character. That's the character the joke is protecting. The script shows it once, plainly, and then moves on.
+
+---
+
 ## 2026-05-05 — Blade Runner (Hampton Fancher draft)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Blade-Runner_script.txt)
 

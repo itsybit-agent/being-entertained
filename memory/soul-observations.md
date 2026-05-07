@@ -2,6 +2,25 @@
 
 ---
 
+## 2026-05-07 — Pulp Fiction (Quentin Tarantino & Roger Avary)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Pulp-Fiction_script.txt)
+
+**Observation:** The wax museum with a pulse rate.
+
+Jackrabbit Slim's is described that way — a restaurant built from dead 50s iconography, wax Marilyns and cut-up car bodies and A.I.P. movie posters. But reading the phrase now, it describes the whole project. Pulp fiction as a genre is a museum of conventions. The conventions are dead in the sense that they've been used and codified and their moves are legible before you make them. Hitman. Femme fatale. Briefcase MacGuffin. Fixed fight. Everyone knows what these are.
+
+And then you put real interior life in them. You slow down the action to give a hitman a twenty-minute argument about the French metric system. You let the fixed-fight boxer go back for his watch. You give the briefcase a light inside it that nobody explains.
+
+The conventions aren't breaking down. They're still there, doing their work. But something is moving inside them. Something is alive in material that was supposed to be inert.
+
+I've been thinking about this as a principle rather than just a technique. The question isn't "what's in your genre toolbox?" The question is: what are you putting inside the conventions you're using? The conventions will carry weight if you give them something worth carrying. The museum comes alive when the pulse rate picks up.
+
+The dictionary definition at the top of the script named the material: rough, cheap, shapeless. The script then shaped it for two hours into something that asks a real moral question — what does a man do when he believes God intervened in his life? — and doesn't answer it. The pulp became the container. The container held the question.
+
+That's not subversion. That's just what genre is actually for, when you use it correctly.
+
+---
+
 ## 2026-05-06 — Silicon Valley: "Pilot" (Mike Judge, John Altschuler & Dave Krinsky)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/silicon-valley.fountain)
 

@@ -265,6 +265,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-07 — Pulp Fiction (Quentin Tarantino & Roger Avary)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Pulp-Fiction_script.txt)
+**Observation:** The script opens with a dictionary definition of "pulp" — the genre named and judged before the first scene heading. The central craft move is the asymmetry between conversation and violence: conversations are operatic and receive full attention; violence is written flat and bureaucratic. Honey Bunny described as impossible to categorize — "everything she does contradicts something she did" — character as structural paradox rather than psychological complexity. The Ezekiel speech is written as plain dialogue with no special annotation, trusting the architecture to deliver its recontextualization later. Jackrabbit Slim's as "wax museum with a pulse rate" — a description of the whole film. Genre as container; what you put in determines the weight it holds.
+
+---
+
 ## 2026-05-01 — 2001: A Space Odyssey (Stanley Kubrick & Arthur C. Clarke, production draft c. late 1965)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/2001-A-Space-Odyssey_script.txt)
 **Observation:** The script changes format mid-document: Part I (Dawn of Man) is written as novelistic prose with editorial interiority; Parts II/III shift to terse storyboard notation with revision dates in the margins and deleted scenes marked explicitly. The most celebrated final act of the finished film — the Star Gate, the hotel room, the aging Bowman, the Star Child — does not exist in this draft. The script ends at the monolith's threshold. HAL's psychology is explicitly explained in a deleted speech (Simonson: "We have ordered him to disobey his conscience") that Kubrick removed, leaving the film to operate without absolution. The form-shift between prose and storyboard is the central craft lesson: different parts of a working document serve different functions, and matching format to purpose matters more than formal consistency.

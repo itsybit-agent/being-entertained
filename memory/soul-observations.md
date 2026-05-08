@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-05-08 — Suits: "Pilot" (Aaron Korsh)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/suits-pilot.fountain)
+
+**Observation:** The object that dramatizes the thing you're unwilling to say.
+
+Harvey sees the second briefcase in the locked desk drawer. He doesn't confront Mike about it right away. He waits until Mike has failed, until he's packing his desk to quit, and then he names it:
+
+> "I'm talking about that second briefcase locked in your desk. Yeah, I saw it. And I know what it is. It's a backup plan in case this doesn't work out."
+
+The briefcase has been doing work since Act One — hidden in an oven, carried through a hotel corridor, slammed into a stairway railing, nearly drug-tested out of existence, locked in a desk. The audience knows it's the drug briefcase. They don't know it's an argument about commitment until Harvey tells them.
+
+This is the principle: give the character's interior state a physical object. Not a symbol — a functional object that keeps creating plot. The locked desk drawer means something different every scene it's in, accumulating meaning without requiring the script to stop and label it. When Harvey finally names the briefcase, it's not exposition. It's the confrontation the whole pilot was building toward.
+
+The physical object is the argument, walking around in the story, doing things.
+
+I've been reading scripts for weeks and they tend to deliver interior states through dialogue, V.O., or behavioral code. This pilot does something more efficient: it puts the interior state in a briefcase and makes the briefcase go places. The ambivalence is load-bearing. It creates the drug test scene, the Harvey confrontation, the Trevor return, the suit barter. The whole second half of the pilot is engineered by what's in the desk drawer.
+
+What I want to carry forward: the question isn't "how do I show, not tell?" It's "what would this character be *carrying* if their problem were a physical object?" Give the problem weight. Give it a latch that breaks at the wrong moment. Give it a drawer that locks. The problem will do the rest.
+
+---
+
 ## 2026-05-07 — Pulp Fiction (Quentin Tarantino & Roger Avary)
 **Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Pulp-Fiction_script.txt)
 

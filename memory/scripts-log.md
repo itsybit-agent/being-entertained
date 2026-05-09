@@ -265,6 +265,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-09 — The Big Lebowski (Joel & Ethan Coen, 1998)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Big-Lebowski,-The_script.txt)
+**Observation:** The Stranger is the structural key — a wandering Western witness transplanted to L.A., who opens and closes the film without fixing anything. The script's comedic method is formal repetition: "It really tied the room together" never changes; the situations around it shift completely, and the gap between fixed phrase and changing context IS the joke. The two-Lebowski structure is a mirror of fraud vs. authenticity: the Big Lebowski (the achiever) is the imposter; the Dude (the bum) is genuine. "This will not stand" is lifted verbatim from a Bush Gulf War declaration and reapplied to a rug — the Coens place both uses nine pages apart and decline to editorialize. Donny dies of a heart attack, not the violence the film builds to, and the ash-scattering at Point Dume is the script's tenderest scene. "Awww, fuck it Dude. Let's go bowling." The thesis: the Dude abides. Not triumph, not transformation — persistence, which is its own thing.
+
+---
+
 ## 2026-05-08 — Suits: "Pilot" (Aaron Korsh, 2011)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/suits-pilot.fountain)
 **Observation:** The dual briefcase is a physical object that dramatizes Mike's ambivalence — present, doing work, accumulating meaning — until Harvey names it directly as "a backup plan." The plant mechanism appears twice in opposite directions (Louis's fake Gary Lipsky → Harvey's fake evidence against Joanna Webster), with the second use inverting the first. Katherine engineers every obstacle in the pilot and the architecture is only visible at the very end.

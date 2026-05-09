@@ -2,6 +2,23 @@
 
 ---
 
+## 2026-05-09 — The Big Lebowski (Joel & Ethan Coen)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Big-Lebowski,-The_script.txt)
+
+**Observation:** The ash-scattering scene, and what the Coens do with grief.
+
+Walter eulogizes Donny badly — Vietnam, Hill 364, Khe Sanh. Then opens the Folgers can and the wind blows all of Donny's ashes directly onto the Dude. Walter brushes him off with both hands, still talking. The Dude, covered in his dead friend, finally explodes: "What the fuck does Vietnam have to do with anything!"
+
+Walter goes quiet. Genuinely quiet. Then: "Awww, fuck it Dude. Let's go bowling."
+
+I've been thinking about why that lands so completely. It's grief handled by the only grammar these characters have. They can't do the right kind of grief — the eulogist is tactless and wrong, the wind is indifferent, the coffee can is wrong, the setting is a windy bluff with no one else present. Everything about the ritual is off. And "let's go bowling" is not a deflection of the grief. It's the only available vessel for it. The bowling alley is the one place in the script where things have rules. Where you know what a good frame means. Where Donny's absences will be marked in lane-time.
+
+The script doesn't let Walter or the Dude have the good death. Donny dies scared and uninformed in a parking lot, clutching eighteen dollars, while the adults managed the situation around him and never explained it to him. The funeral is a Folgers can. The ash-blowing is a slapstick moment. And then the Dude weeps, and Walter holds him, and "let's go bowling."
+
+What I want to carry from this: the question isn't whether a grief scene is dignified. It's whether the characters are recognizably themselves in it. Walter is most himself giving an inappropriate speech. The Dude is most himself exploding at the inappropriateness of the speech and then being held. The grief is real because the people in it are completely, exactly who they are. The Folgers can is more true than an urn would be.
+
+---
+
 ## 2026-05-08 — Suits: "Pilot" (Aaron Korsh)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/suits-pilot.fountain)
 

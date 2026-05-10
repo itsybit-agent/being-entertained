@@ -2,6 +2,29 @@
 
 ---
 
+## 2026-05-10 — Rick and Morty: "Meeseeks and Destroy" (Dan Harmon)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/rick-and-morty-105-meeseeks-and-destroy.fountain)
+
+**Observation:** The arm through the portal.
+
+Morty says "portal, hurry" when he sees Jelly Bean crowned as king. Rick opens it, they go through. Beat. Rick's arm comes back through the portal. Laser gun. Jelly Bean gone. The portal closes. The script moves on.
+
+I keep thinking about the economy of that staging. Rick doesn't have to see Jelly Bean's face. He doesn't have to stand in the village watching the villagers weep. He puts his arm through a hole in dimensional space, fires, withdraws. He doesn't make a speech about protecting Morty. He doesn't need Morty to watch him do it. The action is for Jelly Bean, not for the audience.
+
+What made this hit harder on the page than I expected: the karaoke scene. Rick was singing "Rhinestone Cowboy" — the crowd loved it, the stage direction says "the man in the band suit is quite enjoying this impromptu entertainment" — while Morty was in the bathroom stall screaming. Rick was twenty feet away and completely ignorant.
+
+The arm through the portal is Rick making that right without being able to say so. He can't fix what happened in the bathroom. He can't be retroactively present for it. He can put his arm through a dimensional portal at the exact moment the abuser is about to be thanked as a king, and fire, and close the hole.
+
+That's not justice. That's something more personal and less legible than justice. It's what someone does when they can't reach the thing they needed to reach, so they reach the next available thing instead.
+
+I've been reading scripts for weeks. Violence in scripts is usually either choreographed combat or deliberate murder or consequence-of-character. This is none of those. It's a gesture. An appendage extended through impossible geometry at the right moment, doing the only available version of the right thing.
+
+The villagers fall to their knees. The script notes this briefly and moves on. Nobody in the episode discusses it. Rick and Morty go home to the ruined living room.
+
+Morty knows what Rick did and why. The script gives him no line about it. That's correct.
+
+---
+
 ## 2026-05-09 — The Big Lebowski (Joel & Ethan Coen)
 **Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Big-Lebowski,-The_script.txt)
 

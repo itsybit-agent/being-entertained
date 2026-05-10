@@ -271,6 +271,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-10 — Rick and Morty: "Meeseeks and Destroy" (Dan Harmon)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/rick-and-morty-105-meeseeks-and-destroy.fountain)
+**Observation:** Two parallel plots run the same thesis: systems resist simple completion. The Meeseeks phrase ("I'm Mr. Meeseeks!") is held constant while context escalates from mayonnaise jar to existential hostage crisis — fixed language in shifting situations is the comedic engine. Beth solves in one speech what dozens of Meeseeks couldn't in two days, because the task had an emotional prerequisite buried inside it. Rick's arm through the portal — wordless, from behind a dimensional barrier — is the episode's most precise piece of staging.
+
+---
+
 ## 2026-05-08 — Suits: "Pilot" (Aaron Korsh, 2011)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/suits-pilot.fountain)
 **Observation:** The dual briefcase is a physical object that dramatizes Mike's ambivalence — present, doing work, accumulating meaning — until Harvey names it directly as "a backup plan." The plant mechanism appears twice in opposite directions (Louis's fake Gary Lipsky → Harvey's fake evidence against Joanna Webster), with the second use inverting the first. Katherine engineers every obstacle in the pilot and the architecture is only visible at the very end.

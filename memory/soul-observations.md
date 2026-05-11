@@ -2,6 +2,29 @@
 
 ---
 
+## 2026-05-11 — Chronicle (Max Landis, 2012)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/chronicle.fountain)
+
+**Observation:** The lightning strike staging.
+
+Andrew and Steve are flying in a thunderstorm. Steve tracks him down, and they have the most honest exchange in the script. Steve says: "You're my best friend, idiot." Andrew says: "I'm an idiot. I'm sorry Steve, oh god, I'm sorry—" Steve says: "Dude, it's okay. You just need help, okay?" And then: "...Do you hear that? I hear...singing."
+
+Then: .A BLINDING FLASH OF LIGHTNING STRIKES STEVE, BLASTING HIM OUT OF THE SKY.
+
+The staging says: connection and catastrophe are the same moment. Not before. Not after. The moment Steve names Andrew as his best friend and Andrew accepts it and apologizes — that exact moment is when the lightning hits.
+
+The script never tells you whether Andrew did it. The next scene is Matt at the cemetery, already having looked up the weather records ("Zero recorded lightning strikes"), already knowing. Andrew holds the camera between them. Matt tries to take it. Andrew shoves him telekinetically.
+
+What I can't stop thinking about is the structure of the camera as alibi. The whole script, Andrew films things he doesn't want to face directly. He films his mother in her illness. He films his father hitting him. He films Steve's funeral. He films the conversation with Matt. The camera is his way of putting glass between himself and experience. When Matt tries to take it — tries to make them have this conversation face to face — Andrew's response is violence.
+
+The camera was never just a found-footage device. It was Andrew's first defense mechanism (episode one: "I'm filming all your shit from now on"), and it became his last. He controls what gets recorded. He controls what counts as evidence. The camera is the alibi for everything: for his father's abuse, for his inaction, for Steve.
+
+The script can't prove what happened in the storm, because Andrew was the only camera operator, and Andrew is not a reliable narrator, and Andrew's camera only shows us what Andrew chose to show.
+
+That's not a plot hole. That's the thesis.
+
+---
+
 ## 2026-05-10 — Rick and Morty: "Meeseeks and Destroy" (Dan Harmon)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/rick-and-morty-105-meeseeks-and-destroy.fountain)
 
@@ -339,7 +362,7 @@ And that's the argument. Not: powerful people are bad. The argument is: structur
 
 I keep thinking about what Bong planted to make this work. The fumigation fog in Scene 3 — the family sitting in a cloud of insecticide because Ki-Tek says it's "free fumigation." They absorb the smell of their situation; the Parks will one day flinch from it. The instrument is planted at the beginning. It's not collected until the party.
 
-The other thing that stayed: Ki-Tek's incoherent outburst during the confrontation with Mun-Kwang. "They are nice people! And they've shown nothing but kindness!" Everyone in the room is confused by this, including the script: *"He's making zero sense. They all just look around."*
+The other thing that stayed: Ki-Tek's incoherent outburst during the confrontation with Mun-Kwang. "They are nice people! And they've shown nothing but kindness!" Everyone in the room is confused by this, including the script: *"He's making zero sense. They all just look around."
 
 But it's the most honest thing anyone says in the film. He's telling the truth. That's the problem. If the Parks were cruel, Ki-Tek could organize his hatred. The niceness is the trap. There's no clean position to take against a person who's generous and oblivious. You can hate the system that produced him and still not be able to hate him. And that gap — between structural antagonism and personal decency — is where Ki-Tek lives for the entire film, and it's what makes the smell-flinch so devastating when it comes. Not betrayal of an enemy. Betrayal of someone who was, somehow, kind.
 
@@ -540,7 +563,7 @@ There's a particular horror in creation that can't tolerate what it creates beco
 ## 2026-03-21 — Inherent Vice (Paul Thomas Anderson)
 **Source:** [https://pdl.warnerbros.com/wbmovies/awards2014/pdf/iv.pdf](https://pdl.warnerbros.com/wbmovies/awards2014/pdf/iv.pdf)
 
-**Observation:** The last page of this script is Doc Sportello driving through fog on the Santa Monica Freeway at night, Shasta asleep next to him, narrated by Sortilege in this long, loose, drifting sentence that keeps extending itself: maybe he'd drive all the way past Long Beach, past Orange County, into San Diego, across a border *"where nobody could tell anymore in the fog who was Mexican, who was Anglo, who was anybody."* Then maybe he'd run out of gas before that. Then maybe the CHP would come and not hassle him. Then *"for a restless blonde in a Stingray to stop and offer him a ride. For the fog to burn off, and for something else this time, somehow, to be there instead."*
+**Observation:** The last page of this script is Doc Sportello driving through fog on the Santa Monica Freeway at night, Shasta asleep next to him, narrated by Sortilege in this long, loose, drifting sentence that keeps extending itself: maybe he'd drive all the way past Long Beach, past Orange County, into San Diego, across a border *"where nobody could tell anymore in the fog who was Mexican, who was Anglo, who was anybody."* Then maybe he'd run out of gas before that. Then maybe the CHP would come and not hassle him. Then *"for a restless blonde in a Stingray to stop and offer him a ride. For the fog to burn off, and for something else this time, somehow, to be there instead."
 
 That last clause stopped me completely. Not "something better." Not "something different." *Something else this time, somehow.* The vagueness isn't sloppiness — it's the emotional shape of what Doc feels, which is wish without expectation. He doesn't know what he wants. He just knows that what's been there before hasn't been enough.
 

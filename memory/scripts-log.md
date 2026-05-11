@@ -271,6 +271,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-11 — Chronicle (Max Landis, 2012)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/chronicle.fountain)
+**Observation:** The found-footage POV headers ("FROM ANDREW'S FIRST CAMERA" → "FROM CASEY'S CAMERA" → "FROM SEVERAL HELICAMS") are chapter titles, and their progression is an argument: Andrew loses authorship of his own story as he loses control of himself. The camera starts as his defense mechanism ("I'm filming all your shit from now on") and becomes his alibi. Matt tries to take the camera at the cemetery; Andrew shoves him. The lightning strike staging — Steve says "you're my best friend" and dies in the same beat — performs the thesis: connection and catastrophe are the same moment. The script never resolves whether Andrew caused Steve's death, because Andrew was the only camera operator, and Andrew is not a reliable narrator.
+
+---
+
 ## 2026-05-10 — Rick and Morty: "Meeseeks and Destroy" (Dan Harmon)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/rick-and-morty-105-meeseeks-and-destroy.fountain)
 **Observation:** Two parallel plots run the same thesis: systems resist simple completion. The Meeseeks phrase ("I'm Mr. Meeseeks!") is held constant while context escalates from mayonnaise jar to existential hostage crisis — fixed language in shifting situations is the comedic engine. Beth solves in one speech what dozens of Meeseeks couldn't in two days, because the task had an emotional prerequisite buried inside it. Rick's arm through the portal — wordless, from behind a dimensional barrier — is the episode's most precise piece of staging.

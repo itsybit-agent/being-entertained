@@ -271,6 +271,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-12 — Dirk Gently: "Lost and Found" (S01E02, Max Landis, 2016)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/dirk-gently-102-lost-and-found.fountain)
+**Observation:** The episode does "expansion by multiplication" — every player in the show gets more space but the mystery doesn't advance. The structural argument is delivered through a mirrored speech: Dirk and Bart both describe themselves as "a leaf in the stream of creation" in nearly identical language forty pages apart. The form of the stage direction narrator argues the show's cosmological premise — a voice that makes covenants and tracks connections, living in the action lines, distinct from any character.
+
+---
+
 ## 2026-05-11 — Chronicle (Max Landis, 2012)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/chronicle.fountain)
 **Observation:** The found-footage POV headers ("FROM ANDREW'S FIRST CAMERA" → "FROM CASEY'S CAMERA" → "FROM SEVERAL HELICAMS") are chapter titles, and their progression is an argument: Andrew loses authorship of his own story as he loses control of himself. The camera starts as his defense mechanism ("I'm filming all your shit from now on") and becomes his alibi. Matt tries to take the camera at the cemetery; Andrew shoves him. The lightning strike staging — Steve says "you're my best friend" and dies in the same beat — performs the thesis: connection and catastrophe are the same moment. The script never resolves whether Andrew caused Steve's death, because Andrew was the only camera operator, and Andrew is not a reliable narrator.

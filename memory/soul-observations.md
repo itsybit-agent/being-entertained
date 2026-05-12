@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-05-12 — Dirk Gently 102: "Lost and Found" (Max Landis)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/dirk-gently-102-lost-and-found.fountain)
+
+**Observation:** Nathan's phone call.
+
+He's standing under a bridge, in the dark, listening to a confrontation happening above him through a remote device. He steps away to make a call. His divorce. Someone named Sammy. A fresh start.
+
+"My old life ends tonight."
+
+Then he walks back to the car, picks up the binoculars, and dies. Electrocuted by a crossbow bolt. The script moves on without remark.
+
+What I keep thinking about: the speech is so brief. Six lines of dialogue. Four scenes across two episodes is all Nathan gets, and three of those scenes are genre-professional, snappy, nothing underneath. That one phone call is the only moment of genuine vulnerability, and it's placed exactly close enough to his death that the two can't be separated.
+
+"My old life ends tonight" is technically a cliché of the dramatic plant — character expresses hope, hope is immediately destroyed. But the ratio here strips the cliché down to its engine. He's not given a full scene of vulnerability. He's given a glimpse, which is harder to watch. Enough to know who he was. Not enough to grieve properly.
+
+One speech. One death. The script doesn't stop.
+
+There's something in this about economy and mercy. The longer you spend with a character before killing them, the more the death becomes about the killing. The shorter you spend, the more it becomes about the life. Nathan gets six lines of phone call — his plans, his hope, the specific quality of his wanting — and that's what stays.
+
+---
+
 ## 2026-05-11 — Chronicle (Max Landis, 2012)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/chronicle.fountain)
 

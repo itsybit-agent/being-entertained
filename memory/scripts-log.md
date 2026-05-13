@@ -271,6 +271,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-13 — Amadeus (Peter Shaffer, Final Draft)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Amadeus_script.txt)
+**Observation:** Shaffer's central formal choice is to position the audience alongside the one character who truly understands Mozart — Salieri — so we inhabit his comprehension and his incapacity simultaneously. The march scene (Salieri's welcome march casually improved into Non Piu Andrai) is the thesis in a single scene: Salieri's best effort is Mozart's unconscious first draft. The confession frame is the opposite of absolution: Salieri confesses to murder not out of guilt but to purchase immortality by infamy, attaching his name to Mozart's permanently. "From now on no one will speak of Mozart without thinking of me." The final address to camera — "Mediocrities everywhere, I absolve you all" — converts the audience into recipients of the confession, because we too have been recognizing what we cannot create.
+
+---
+
 ## 2026-05-12 — Dirk Gently: "Lost and Found" (S01E02, Max Landis, 2016)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/dirk-gently-102-lost-and-found.fountain)
 **Observation:** The episode does "expansion by multiplication" — every player in the show gets more space but the mystery doesn't advance. The structural argument is delivered through a mirrored speech: Dirk and Bart both describe themselves as "a leaf in the stream of creation" in nearly identical language forty pages apart. The form of the stage direction narrator argues the show's cosmological premise — a voice that makes covenants and tracks connections, living in the action lines, distinct from any character.

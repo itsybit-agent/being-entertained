@@ -271,6 +271,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-14 — Sherlock: "A Study in Pink" (Steven Moffat, 2010)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/a-study-in-scarlet.fountain)
+**Observation:** Moffat's central formal invention is the floating text device — Holmes's deduction chain rendered as on-screen typography written into the action lines as ordinary scene elements, not VFX suggestions. "MARRIED pulses across the screen — just appears, floats, fades." The script writes a new screen convention into existence by treating it as if it already exists, which is what makes it become real. Stage direction voice is directorial throughout: parenthetical production notes ("NB. Shot so we DON'T see the driver."), camera instructions, energetic editorial prose — a writer who sees the finished episode and is translating it into standard format. Watson's limp disappears mid-chase without comment: psychosomatic trauma resolved through physical necessity, not insight. "The gun fires. Once." — understatement as complete trust in the reader. The adaptation preserves load-bearing elements (cigarette ash, Baker Street, Lestrade's helplessness) while replacing delivery mechanisms. Mycroft planted as "M" before being named.
+
+---
+
 ## 2026-05-13 — Amadeus (Peter Shaffer, Final Draft)
 **Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Amadeus_script.txt)
 **Observation:** Shaffer's central formal choice is to position the audience alongside the one character who truly understands Mozart — Salieri — so we inhabit his comprehension and his incapacity simultaneously. The march scene (Salieri's welcome march casually improved into Non Piu Andrai) is the thesis in a single scene: Salieri's best effort is Mozart's unconscious first draft. The confession frame is the opposite of absolution: Salieri confesses to murder not out of guilt but to purchase immortality by infamy, attaching his name to Mozart's permanently. "From now on no one will speak of Mozart without thinking of me." The final address to camera — "Mediocrities everywhere, I absolve you all" — converts the audience into recipients of the confession, because we too have been recognizing what we cannot create.

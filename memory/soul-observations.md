@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-05-14 — Sherlock: "A Study in Pink" (Steven Moffat, 2010)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/a-study-in-scarlet.fountain)
+
+**Observation:** The floating text.
+
+"MARRIED pulses across the screen — just appears, floats, fades."
+
+That's in the action lines. Not an FX note. Not a production suggestion in parentheses. A scene element, listed alongside the physical action as though floating text were as ordinary as a chair being pulled out.
+
+I've been thinking about what it means to invent a screen convention inside a script. The convention doesn't exist yet when Moffat writes it — BBC Sherlock's floating deduction text is not a thing that has been done before, not in this form, not as a sustained visual language for a character's interior process. And yet it appears in the stage direction without qualification, without "the editors might consider," without "(VFX: words float in space)." It just happens. Holmes looks at Watson. The word "MARRIED" appears. Then "LEFT-HANDED." Then "TAN — RECENT." The chain runs. The scene continues.
+
+Writing a convention into existence through the script is different from describing a convention that already exists. When you write "CUT TO:" you're invoking a hundred years of grammar. When you write "MARRIED pulses across the screen — just appears, floats, fades," you're making a claim about what can happen on a screen and trusting the document to make it real.
+
+The trust is the point. The script behaves as if the convention is settled. Nobody has to agree to it in advance; it's already there on the page, already part of what this show is. The director gets the note as fact, not as suggestion.
+
+I keep thinking about this against the other formal inventions I've read this year. Waller-Bridge's camera-address in Fleabag is written as stage direction ("She looks straight at camera") with the same naturalness — not as a formal intervention, as behavior. Johnson's inverted detective structure in Poker Face is written into every scene as if "howcatchem" is an established genre, which it barely is. Harmon's seven-timeline structure in "Remedial Chaos Theory" runs the formal experiment without announcing it as an experiment.
+
+The lesson isn't "hide your formal innovations." It's: if you believe in the device, write it as if it already exists. The script's confidence in the convention is what makes it a convention. Qualify it and you've already undermined it. If the floating text had been annotated as experimental, it would have arrived at the production meeting as a debate. Written as a scene element, it arrived as the show.
+
+---
+
 ## 2026-05-12 — Dirk Gently 102: "Lost and Found" (Max Landis)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/dirk-gently-102-lost-and-found.fountain)
 

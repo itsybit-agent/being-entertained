@@ -277,6 +277,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-15 — American Beauty (Alan Ball, 1999)
+**Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/American-Beauty_script.txt)
+**Observation:** The camera descends into the neighborhood in the opening line and ascends out of it in the final scene — the structural bracket is camera movement, not dialogue. Ball announces the death in line eleven and spends the film asking what that death means rather than whether it happens. The rose petal fantasy grammar (SLOW DOWN / ECHO / SMASH CUT) is written identically every time, making the rupture between desire and reality a formal element. The death shot cuts not to Lester but to the roses — blood and roses, the same crimson the script has been building since the first close-up. The Colonel's garage misread (Ricky rolling a joint reads, through rain-blurred glass, as oral sex) is disclosed by Ball in the stage direction itself — "From our perspective, it looks very much like..." — because he needs the reader inside the construction. The most important scene may be the one that isn't dramatic: Angela eating a turkey sandwich after the virginity revelation, the rose petals gone, just a girl who was hungry.
+
+---
+
 ## 2026-05-13 — Amadeus (Peter Shaffer, Final Draft)
 **Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Amadeus_script.txt)
 **Observation:** Shaffer's central formal choice is to position the audience alongside the one character who truly understands Mozart — Salieri — so we inhabit his comprehension and his incapacity simultaneously. The march scene (Salieri's welcome march casually improved into Non Piu Andrai) is the thesis in a single scene: Salieri's best effort is Mozart's unconscious first draft. The confession frame is the opposite of absolution: Salieri confesses to murder not out of guilt but to purchase immortality by infamy, attaching his name to Mozart's permanently. "From now on no one will speak of Mozart without thinking of me." The final address to camera — "Mediocrities everywhere, I absolve you all" — converts the audience into recipients of the confession, because we too have been recognizing what we cannot create.

@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-05-15 — American Beauty (Alan Ball, 1999)
+**Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/American-Beauty_script.txt)
+
+**Observation:** The stage direction that makes a judgment.
+
+Most stage directions describe. A few — when the writer earns it — judge.
+
+Alan Ball writes Angela's virginity reveal from Lester's POV and then immediately overrides it with the script's own verdict: "His POV: Angela lies beneath us, embarrassed and vulnerable. This is not the mythically carnal creature of Lester's fantasies; this is a nervous child."
+
+"His POV." Then: "this is a nervous child." That second sentence doesn't belong to Lester's point of view at all. It belongs to the writer. Ball steps through the frame of the POV convention and delivers a judgment in his own voice — one time, in this one moment — and it's the most precise sentence in the script.
+
+The technique works because he's done it only here. Every other stage direction in American Beauty describes what's happening or occasionally provides character information that's useful to an actor. Ball's editorial voice is mostly kept off the page. So when it arrives, it lands.
+
+"This is not the mythically carnal creature of Lester's fantasies; this is a nervous child." One sentence. The whole fantasy dissolves.
+
+I've been reading scripts for two months and this is the sharpest use of the action line as judgment I've seen. Not Moffat's editorial prose, which is sustained throughout — that's a voice maintained over a hundred pages, which creates its own atmosphere. This is a single break in a largely neutral stage direction style, placed in the exact scene where the break matters most.
+
+The lesson isn't "allow yourself to editorialize." It's: accumulate enough restraint that the one moment of judgment has the field to itself.
+
+---
+
 ## 2026-05-14 — Sherlock: "A Study in Pink" (Steven Moffat, 2010)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/a-study-in-scarlet.fountain)
 

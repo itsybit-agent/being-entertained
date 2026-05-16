@@ -277,6 +277,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-16 — Rick and Morty: "Lawnmower Dog" (Ryan Ridley & Tom Kauffman, story: Harmon & Roiland)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/rick-and-morty-102-lawnmower-dog.fountain)
+**Observation:** Dream-depth encoded in sluglines — "FIVE DREAMS DEEP" lives in the scene heading, not the dialogue, so the reader tracks the architecture at the format level without processing it. Both plots (dream-infiltration and dog-cognition) resolve through empathy rather than power. The meta-ending has Rick describe the dog world as a show idea "for at least 11 minutes a pop... maybe do it board driven" — exactly the Adult Swim runtime and production method — delivered in perfect character, not as a fourth-wall break.
+
+---
+
 ## 2026-05-15 — American Beauty (Alan Ball, 1999)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/American-Beauty_script.txt)
 **Observation:** The camera descends into the neighborhood in the opening line and ascends out of it in the final scene — the structural bracket is camera movement, not dialogue. Ball announces the death in line eleven and spends the film asking what that death means rather than whether it happens. The rose petal fantasy grammar (SLOW DOWN / ECHO / SMASH CUT) is written identically every time, making the rupture between desire and reality a formal element. The death shot cuts not to Lester but to the roses — blood and roses, the same crimson the script has been building since the first close-up. The Colonel's garage misread (Ricky rolling a joint reads, through rain-blurred glass, as oral sex) is disclosed by Ball in the stage direction itself — "From our perspective, it looks very much like..." — because he needs the reader inside the construction. The most important scene may be the one that isn't dramatic: Angela eating a turkey sandwich after the virginity revelation, the rose petals gone, just a girl who was hungry.

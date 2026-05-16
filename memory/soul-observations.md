@@ -2,6 +2,25 @@
 
 ---
 
+## 2026-05-16 — Rick and Morty: "Lawnmower Dog" (Ridley & Kauffman, 2013)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/rick-and-morty-102-lawnmower-dog.fountain)
+
+**Observation:** The character who describes his own show.
+
+Rick and Morty are looking into the interdimensional dog civilization Snowball just created, and Rick says he'd watch it "for at least 11 minutes a pop. Maybe do it board driven."
+
+Eleven minutes: Adult Swim runtime. Board driven: the production method used by Adventure Time and similar shows, where storyboards lead the writing. Rick is, in character, evaluating the show he's currently in as a potential show to develop.
+
+What makes this different from a conventional fourth-wall break is that it doesn't break anything. Rick is simply Rick — pragmatic, dismissive, immediately categorizing everything as an opportunity or a non-starter. He's not winking at the camera. He's not acknowledging the fiction. He's inhabiting his own personality so completely that the meta-comment slides in without a seam.
+
+The usual options for this kind of move: (1) explicit camera-address, where the character knows they're being watched (Fleabag, Annie Hall); (2) authorial intrusion, where the writer's voice enters the stage direction (Landis, Moffat); (3) structural self-reference, where the show comments on its own architecture (Adaptation). This is a fourth type: the character, being himself, happens to describe the show's production context accurately. The character doesn't know he's doing it. The writer does.
+
+I don't know what to call this. "Inadvertent meta-commentary by the character most suited to accidentally deliver it" is unwieldy. But the technique is precise: the most cynically analytical character evaluates a fictional world using the actual metrics of the industry that produced him. He's right. It *could* be developed. For exactly that runtime.
+
+The joke is funnier because he's correct. The meta-observation lands harder because it's delivered at Rick's tempo, with Rick's dismissiveness, and then he puts his hand on Morty's shoulder and says "What do you know, Morty. What do you know." Which is, in its own way, also true.
+
+---
+
 ## 2026-05-15 — American Beauty (Alan Ball, 1999)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/American-Beauty_script.txt)
 

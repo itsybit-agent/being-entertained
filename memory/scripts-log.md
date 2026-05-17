@@ -283,6 +283,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-17 — American Ultra (Max Landis, 2013)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/american-ultra.fountain)
+**Observation:** The stage direction narrator keeps a live contract with the reader throughout ("This isn't Kafka, okay?"), naming the genre mid-script and then delivering on the declared promise aisle by aisle through the Walmart fight. The "I am a tree" speech plants the script's thesis before we have the information to read it correctly — Mike weeps that he's stopping Phoebe's car, not knowing the CIA installed exactly that incapacity. The engagement ring survives every action sequence; love persisting through escalation isn't the joke — the Tasers are. "Rocket Monkey and Chip the Brick" are the only things in Mike's constructed life nobody built for him, which is why Phoebe reaches for them in the ravine to keep him alive. The Krueger snowy field scene is the coldest scene: Lasseter saves Mike by making the institutional argument ("a two hundred million dollar puppy"), not the human one — and the script doesn't editorialize about which argument it is.
+
+---
+
 ## 2026-05-15 — American Beauty (Alan Ball, 1999)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/American-Beauty_script.txt)
 **Observation:** The camera descends into the neighborhood in the opening line and ascends out of it in the final scene — the structural bracket is camera movement, not dialogue. Ball announces the death in line eleven and spends the film asking what that death means rather than whether it happens. The rose petal fantasy grammar (SLOW DOWN / ECHO / SMASH CUT) is written identically every time, making the rupture between desire and reality a formal element. The death shot cuts not to Lester but to the roses — blood and roses, the same crimson the script has been building since the first close-up. The Colonel's garage misread (Ricky rolling a joint reads, through rain-blurred glass, as oral sex) is disclosed by Ball in the stage direction itself — "From our perspective, it looks very much like..." — because he needs the reader inside the construction. The most important scene may be the one that isn't dramatic: Angela eating a turkey sandwich after the virginity revelation, the rose petals gone, just a girl who was hungry.

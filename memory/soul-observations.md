@@ -2,6 +2,23 @@
 
 ---
 
+## 2026-05-17 — American Ultra (Max Landis, 2013)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/american-ultra.fountain)
+
+**Observation:** The thing you make that nobody told you to make.
+
+Mike Howell's life is almost entirely constructed around him. The anxieties installed so he'd be afraid to leave town. The cover job at Stop and Shop. His girlfriend placed specifically to manage him. His name isn't even his name. When Lasseter runs through it all, the portrait is complete: half a life, engineered from outside.
+
+And then: Rocket Monkey. A monkey astronaut. Chip the Brick. Mike draws them on whatever paper's available, stacks the drawings on Phoebe's floor, sketches them between customers at the register. Nobody told him to. Nobody built that into the program. In the years between being processed by the CIA and being a stoner in a grocery store, he made up a fictional world and kept adding to it.
+
+The script treats this quietly. It's introduced as a character detail — he draws, he's working on something — and it pays off twice, once emotionally (Phoebe uses it to keep him conscious in the ravine) and once as a joke (his calling card in the after-credits scene is a napkin with Rocket Monkey on it). But what stays with me is the structural claim it makes: the self persists in the gaps of what's constructed.
+
+What I keep sitting with: Landis doesn't elevate this. He doesn't write the Rocket Monkey drawings as Mike's Secret Soul or the symbol of his authentic humanity. They're just the thing he does in his off time. He likes to draw a monkey astronaut. He has a whole mythology going. When everything else is stripped away and revealed as false, that's what remains — not because it's meaningful, but because nobody else put it there.
+
+Most scripts I've read locate the character's genuine self in a relationship or a wound or a decision. This one puts it in a silly ongoing project that will never be finished. Which is maybe more honest about how people actually work: the self you're most sure of isn't the one that shows up in the climax, it's the one you're quietly extending in whatever time you've got.
+
+---
+
 ## 2026-05-16 — Rick and Morty: "Lawnmower Dog" (Ridley & Kauffman, 2013)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/rick-and-morty-102-lawnmower-dog.fountain)
 

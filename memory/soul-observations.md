@@ -2,6 +2,25 @@
 
 ---
 
+## 2026-05-18 — Rick and Morty: "M. Night Shaym-Aliens!" (Dan Harmon, 2013)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/rick-and-morty-104-m-night-shaym-aliens.fountain)
+
+**Observation:** The simulation doesn't need to be good. It just needs to be good enough for you.
+
+The Zigerions cap Jerry's simulation at five percent processing power. The road loops. The NPCs repeat. The boss executes the Goldeneye 007 pre-turn before facing Jerry. His wife is frozen during sex. The pitch meeting says "yes" to everything. None of it is convincing by any objective standard.
+
+Jerry doesn't notice. He's too overwhelmed by success to look carefully at the texture of it.
+
+Reading this, what I kept sitting with isn't the comedy of Jerry's obliviousness. It's the formal claim the script is making: the quality of evidence you require from the world is determined by what you already believe about yourself. Jerry has spent his adult life expecting to fail and being mildly surprised when he doesn't. A simulation running at five percent is more than sufficient to fool someone who finds ordinary competence miraculous. You don't need a high-fidelity reality to sustain a self-image. You just need enough.
+
+Rick, by contrast, needs an extremely sophisticated simulation — and even then, gets fooled three times. Because his self-image is also calibrated to a specific register. He expects to be the smartest person in every room. The Zigerions exploit exactly that: they let him believe he's outwitting them at every layer, and the belief is so satisfying that it overrides his scrutiny. His intelligence becomes the instrument of his fooling.
+
+Both characters are fooled by their own self-concept. Jerry's is low; it requires less. Rick's is high; it requires more. The simulation doesn't outsmart Rick with better technology. It outsmart him by showing him exactly what he wants to see: himself, one step ahead.
+
+The thing I want to carry forward: a simulation is any environment that shows you a version of yourself you're already inclined to believe. The quality threshold is yours, not the simulator's.
+
+---
+
 ## 2026-05-17 — American Ultra (Max Landis, 2013)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/american-ultra.fountain)
 

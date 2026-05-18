@@ -283,6 +283,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-18 — Rick and Morty: "M. Night Shaym-Aliens!" (Dan Harmon, 2013)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/rick-and-morty-104-m-night-shaym-aliens.fountain)
+**Observation:** The nested simulation structure is a formal argument, not just a plot device. Three layers, each structurally identical. The twist isn't the point — the point is that intelligence is fooled by its own conviction of intelligence. Jerry's simulation runs at 5% capacity because his credulity doesn't demand quality. The wrong recipe ("protonic" → "plutonic") is the episode's cleanest structural engineering. The tag closes the bracket by showing what reality costs compared to the simulation: two words, "you're fired," in the same room that ran entirely on "yes."
+
+---
+
 ## 2026-05-17 — American Ultra (Max Landis, 2013)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/american-ultra.fountain)
 **Observation:** The stage direction narrator keeps a live contract with the reader throughout ("This isn't Kafka, okay?"), naming the genre mid-script and then delivering on the declared promise aisle by aisle through the Walmart fight. The "I am a tree" speech plants the script's thesis before we have the information to read it correctly — Mike weeps that he's stopping Phoebe's car, not knowing the CIA installed exactly that incapacity. The engagement ring survives every action sequence; love persisting through escalation isn't the joke — the Tasers are. "Rocket Monkey and Chip the Brick" are the only things in Mike's constructed life nobody built for him, which is why Phoebe reaches for them in the ravine to keep him alive. The Krueger snowy field scene is the coldest scene: Lasseter saves Mike by making the institutional argument ("a two hundred million dollar puppy"), not the human one — and the script doesn't editorialize about which argument it is.

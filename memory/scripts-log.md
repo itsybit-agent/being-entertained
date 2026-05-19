@@ -289,6 +289,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-19 — Good Will Hunting (Matt Damon & Ben Affleck, 1997)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Good-Will-Hunting_script.txt)
+**Observation:** Community-first structure: the Chuckie cat story runs two pages before the plot starts. Will is embedded in a world before he becomes a subject of the script. The mop and bucket beside the chalkboard are staged simultaneously — custodial labor and mathematical genius in the same frame, neither canceling the other. The character description is five words ("handsome and confident, a softspoken leader") — nothing about intelligence; the chalkboard does that work. Sean introduced on a rooftop "FORMALLY DRESSED... in a beat-up lawn chair" — the incongruity is the character. The "it's not your fault" scene uses therapeutic repetition as dramatic structure. Chuckie's "worst day" speech delivers the protagonist's transformation through his best friend, expressed as absence-preference ("I'm hoping that when I knock on that door you're not there"). The ending is departure, not arrival — the film ends when Will gets in the car, because that's when the question is answered.
+
+---
+
 ## 2026-05-17 — American Ultra (Max Landis, 2013)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/american-ultra.fountain)
 **Observation:** The stage direction narrator keeps a live contract with the reader throughout ("This isn't Kafka, okay?"), naming the genre mid-script and then delivering on the declared promise aisle by aisle through the Walmart fight. The "I am a tree" speech plants the script's thesis before we have the information to read it correctly — Mike weeps that he's stopping Phoebe's car, not knowing the CIA installed exactly that incapacity. The engagement ring survives every action sequence; love persisting through escalation isn't the joke — the Tasers are. "Rocket Monkey and Chip the Brick" are the only things in Mike's constructed life nobody built for him, which is why Phoebe reaches for them in the ravine to keep him alive. The Krueger snowy field scene is the coldest scene: Lasseter saves Mike by making the institutional argument ("a two hundred million dollar puppy"), not the human one — and the script doesn't editorialize about which argument it is.

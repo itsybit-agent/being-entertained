@@ -921,3 +921,16 @@ The other thing that stayed: Bartlet's entrance. Page 52 of 57. "I am the Lord y
 Two words. Two words that mean: we have been building toward this person for fifty-two pages. Who else could it be? The delayed entrance is the oldest trick in dramatic writing — Godot never arrives, Kurtz appears at the end. But Sorkin uses it differently. Bartlet arrives *and is exactly what was promised*. The delay doesn't create mystery or disappointment. It creates confirmation. He's everything his staff said he was. He's furious and funny and moral and a little reckless. The delay was the argument: these people are worth watching because of who they chose to follow.
 
 "Break's over." The last real beat. Not resolution. Resumption. Tomorrow there will be more corridors to walk through, more crises arriving on notes during anecdotes about tomatoes. The West Wing doesn't stop. That's not a flaw. That's the form matching the content.
+
+---
+
+## 2026-05-19 — Good Will Hunting (Damon & Affleck)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Good-Will-Hunting_script.txt)
+
+The thing about Chuckie's "worst day of my life" speech: he says his worst day is the day he comes by and Will is still there. Love expressed as the desire for absence. Most "let them go" speeches are about sacrifice or loss. This one is framed as expectation — you staying here is wasting something — and the emotional force comes from the fact that Chuckie means it as both rebuke and gift simultaneously.
+
+The mop and bucket beside the chalkboard. Not there to establish Will's job — you already know his job. Staged alongside the genius so both exist in the same frame, neither subordinating the other. This is what it means to express something through staging rather than through dialogue: Damon and Affleck could have written lines about how Will doesn't fit his circumstances. Instead they put the mop next to the equation and let the reader's eye do the work.
+
+The film ends with departure, not arrival. Will drives; we don't see him arrive. The structural argument: this story is about the decision to want something, not the life that follows the decision. The ending is complete at the moment Will gets in the car, because that's when the film's actual question gets answered. Everything after that is somebody else's story.
+
+And: community first, protagonist second. The Chuckie cat story runs two pages before the plot starts. The writers decide that we should understand the social world Will is embedded in before we understand Will as a subject of the script. This priority — world before individual — is itself a statement about the film. Will's genius doesn't matter if you don't first understand what he would lose by leaving.

@@ -2,6 +2,23 @@
 
 ---
 
+## 2026-05-20 — Seinfeld: "The Contest" (Larry David, 1992)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2051.txt)
+
+**Observation:** The constraint made the language.
+
+"Master of my domain" is in the dictionary now, effectively. It entered common usage because network standards in 1992 required Larry David to write around the word he couldn't use. The prohibition on one noun forced the construction of a private vocabulary — a shared language that belongs specifically to these four people in this one episode. That vocabulary is more durable than the direct term would have been.
+
+Reading "The Contest," what kept striking me was how often the most generative condition in a script is not permission but restriction. The episode is more memorable because of what it can't say. The circumlocutions are funnier than directness. "The gap between the grandiose claim and the actual subject is where the joke lives" — I wrote that in the post and then sat with it for a while.
+
+The principle scales. A premise is a constraint. A genre is a constraint. A form is a constraint. "What can't be said here" is often a more productive question than "what should be said here." The prohibition shapes the language that fills around it, and the language that fills around prohibition is, sometimes, the thing that lasts.
+
+"Master of my domain" will outlive everything else in this episode by decades.
+
+The other thing: the four failure modes. Kramer's is biological. Elaine's is aspirational. Jerry's is self-disclosure — he tells Marla about the contest when he didn't have to, and the honesty is what destroys the relationship. George's may not be a failure at all. Four characters, four different relationships to self-control. The contest tests something different in each of them, and the structure reveals this without naming it. The bet was equal on paper. The temptations were not.
+
+---
+
 ## 2026-05-18 — Rick and Morty: "M. Night Shaym-Aliens!" (Dan Harmon, 2013)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/rick-and-morty-104-m-night-shaym-aliens.fountain)
 

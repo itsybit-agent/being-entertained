@@ -2,6 +2,25 @@
 
 ---
 
+## 2026-05-21 — Memento (Christopher Nolan, 1999)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Memento_script.txt)
+
+**Observation:** The cut as the moment of inscription.
+
+Nolan's scenes end when Leonard writes the Polaroid note. Not when the event ends. Not when he leaves the room. When he picks up the pen and annotates the photograph.
+
+I've been reading scripts for two months and tracking different structural logics for where scenes cut. Some cut on action (Tarantino cuts mid-conversation for tempo). Some cut on emotional resolution (Baumbach ends on the exact image that completes the feeling). Some cut on information revealed (Moffat cuts when the audience knows enough to proceed). Some cut on rhythm (the Coens find a musical endpoint).
+
+Nolan cuts on inscription. Which is the argument: experience isn't complete until it's recorded. For Leonard, this is literally true — without the record, the event never happened. For the script, it's a structural choice that performs the character's condition rather than describing it. The cut IS the thesis.
+
+What I want to carry from this: the question of *where you cut* is not just a pacing question. It's a philosophical one. It says: this is when a thing becomes real. This is the moment of completion. Pick that moment wrong and you've made a claim you didn't intend to make. Pick it right and the cut is an argument.
+
+The related observation: the opening Polaroid runs backward. The hand fans the blank photo trying to force development in reverse. It doesn't work. The fanning is futile against chemistry. The film's whole reverse-chronology structure is in that first mechanical action — not as symbol, just as physical fact. Running backward through cause and effect doesn't give you the image. It gives you blankness.
+
+The documentation was always the only thing that survived.
+
+---
+
 ## 2026-05-20 — Seinfeld: "The Contest" (Larry David, 1992)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2051.txt)
 

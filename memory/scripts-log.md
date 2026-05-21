@@ -289,6 +289,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-21 — Memento (Christopher Nolan, Pink Revisions 9/7/99)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Memento_script.txt)
+**Observation:** The `##BLACK AND WHITE SEQUENCE##` tag in every motel scene heading is the reader's interface with the film's temporal logic — encoded into format, not action. Scenes cut at documentation thresholds, not action ones: the scene ends when Leonard writes the Polaroid note, not when the event happens. The V.O. isn't narration but self-assembly — Leonard asking "So where are you?" about himself. The script's epistemic argument: two incompatible evidentiary tracks (documented record vs. verbal claims) are never adjudicated, putting the reader inside Leonard's position.
+
+---
+
 ## 2026-05-20 — Seinfeld: "The Contest" (Larry David, S4E11, 1992)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2051.txt) — formatted transcript of the broadcast episode (production draft not publicly released)
 **Observation:** The episode's language constraint (the word "masturbation" never appears) is generative, not limiting — it forces a shared vocabulary ("master of my domain," "out") that is funnier than direct statement would be. The contest installs a binary state (in/out) for each character, and the episode's four temptations map to four completely different failure modes: Kramer (immediate biological impulse), Elaine (social aspiration), Jerry (self-narrative disclosure that destroys the relationship), George (possibly no failure at all — the script leaves this genuinely open). The George hospital room scene doubles back on the episode's premise without announcing itself: his shame and his temptation share an address. The constraint is the engine. The form became the content.

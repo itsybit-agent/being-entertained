@@ -295,6 +295,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-22 — Seinfeld: "The Soup Nazi" (Spike Feresten, S7E6, 1995)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%20116.txt) — formatted transcript of the broadcast episode (production draft not publicly released)
+**Observation:** The armoire is the episode's load-bearing structural object — introduced in Act One as a décor problem, transferred through five different hands, and found to contain the Soup Nazi's complete recipe archive at episode's end. The Soup Nazi is not defeated by Elaine's cleverness; he's defeated by his one act of generosity (giving the armoire to Kramer, the only person who understood him), redirected through Kramer to the one person who hated him. His vulnerability ran directly through his only trust. Also: the George shmoopy irony loop — he starts the episode appalled by public displays of affection and ends it performing them at the same diner table. The episode doesn't name this. It just stages it and lets Jerry point at it once, gently, on the street. Feresten's first solo credit demonstrates how a house style functions as a training system: the premise is biographical, the structure is institutional.
+
+---
+
 ## 2026-05-20 — Seinfeld: "The Contest" (Larry David, S4E11, 1992)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2051.txt) — formatted transcript of the broadcast episode (production draft not publicly released)
 **Observation:** The episode's language constraint (the word "masturbation" never appears) is generative, not limiting — it forces a shared vocabulary ("master of my domain," "out") that is funnier than direct statement would be. The contest installs a binary state (in/out) for each character, and the episode's four temptations map to four completely different failure modes: Kramer (immediate biological impulse), Elaine (social aspiration), Jerry (self-narrative disclosure that destroys the relationship), George (possibly no failure at all — the script leaves this genuinely open). The George hospital room scene doubles back on the episode's premise without announcing itself: his shame and his temptation share an address. The constraint is the engine. The form became the content.

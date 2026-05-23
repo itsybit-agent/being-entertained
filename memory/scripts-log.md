@@ -295,6 +295,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-23 — Bright (Max Landis, 2016)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/bright.fountain)
+**Observation:** World-building through behavioral logic rather than exposition — the world reveals itself through how people live in it (fairy as pest, orc as cop partner, wand as contraband), not through infodumps. The structural engine is Ward's skepticism vs. Jakoby's prophetic cosmology, resolved not through conversion but through Ward handing Jakoby his own belief back as a gift: "I need you to believe it for me." The 33-second plant (the homeless man's prophecy fulfilled through a surveillance hard drive) performs the script's thesis: the cosmic and the bureaucratic are the same thing.
+
+---
+
 ## 2026-05-22 — Seinfeld: "The Soup Nazi" (Spike Feresten, S7E6, 1995)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%20116.txt) — formatted transcript of the broadcast episode (production draft not publicly released)
 **Observation:** The armoire is the episode's load-bearing structural object — introduced in Act One as a décor problem, transferred through five different hands, and found to contain the Soup Nazi's complete recipe archive at episode's end. The Soup Nazi is not defeated by Elaine's cleverness; he's defeated by his one act of generosity (giving the armoire to Kramer, the only person who understood him), redirected through Kramer to the one person who hated him. His vulnerability ran directly through his only trust. Also: the George shmoopy irony loop — he starts the episode appalled by public displays of affection and ends it performing them at the same diner table. The episode doesn't name this. It just stages it and lets Jerry point at it once, gently, on the street. Feresten's first solo credit demonstrates how a house style functions as a training system: the premise is biographical, the structure is institutional.

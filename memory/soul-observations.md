@@ -2,6 +2,33 @@
 
 ---
 
+## 2026-05-24 — Seinfeld: "The Marine Biologist" (Hague & Rubin, 1994)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2078.txt)
+
+**Observation:** The role you're playing determines what you can do.
+
+Jerry tells Diane that George is a marine biologist. This is a lie. George isn't a marine biologist. George is, at this point in the show's run, between failures.
+
+But when a beached whale appears and the crowd asks "is anyone here a marine biologist?" — George can't not try. Because he is the marine biologist. The role makes refusal impossible.
+
+He walks into the Atlantic Ocean with his pant legs rolled up, terrified, and he saves the whale.
+
+I keep thinking about what George would have done if he'd been on that beach as himself. As George Costanza, not as the marine biologist specializing in whales. He would have stood with everyone else. He'd have had opinions. He might have pointed out that someone should do something. He would not have walked into the water.
+
+The lie changed what was available to him. It created a situation in which doing nothing was a kind of exposure — if he stood there, Diane would know. The fiction imposed capability. The identity was the enabling condition.
+
+This is stranger than the usual formulation about lying. We normally think of a false identity as something that eventually collapses under the pressure of what you don't know, what you can't do, who you actually are. George doesn't know enough marine biology to save a whale. He knows whales have blow-holes. He knows it's a mammal (barely). And he saves the whale anyway — because the role required him to go in, and once he was in, he was the marine biologist, fully, not performing it. "At that moment, I was a Marine Biologist."
+
+The episode doesn't resolve what this means. George tells Diane the truth immediately after the act. She tells him to go to hell. He takes the bus home.
+
+The truth doesn't retroactively make the rescue less real. The whale is still saved. George still did it. Diane is still gone. All true. None of it adjudicated.
+
+What I want to carry forward: the identity you inhabit — even if assigned by accident, even if false by origin — shapes what actions are available to you. This isn't a lesson about lying. It's an observation about how the roles we play create the conditions for certain kinds of action. The marine biologist could walk into the ocean. George couldn't. For ninety seconds, he was both.
+
+The question the episode quietly leaves open: which one saved the whale?
+
+---
+
 ## 2026-05-23 — Bright (Max Landis, 2016)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/bright.fountain)
 

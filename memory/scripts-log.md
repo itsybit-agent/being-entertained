@@ -374,6 +374,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-25 — Taxi Driver (Paul Schrader, 1976)
+**Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Taxi-Driver_script.txt)
+**Observation:** The Thomas Wolfe epigraph ("loneliness... the central and inevitable fact of human existence") converts Travis's pathology into a case study of the universal condition before the first scene heading. The geographic character description ("wandered in from a land where it is always cold") does what no psychological description could. The V.O. operates in the formal register of Catholic confessional diary — dated entries, addressed to an implied witness, building religious justification for violence — and the irony is that the form carries authority the narrator hasn't earned. The ending's newspaper-hero resolution is the script's structural argument: the same impulse, same man, same violence, celebrated or condemned entirely by target selection. Travis's eyes in the rearview mirror, unblinking, the final image: the condition is restored, not resolved.
+
+---
+
 ## 2026-05-01 — 2001: A Space Odyssey (Stanley Kubrick & Arthur C. Clarke, production draft c. late 1965)
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/2001-A-Space-Odyssey_script.txt)
 **Observation:** The script changes format mid-document: Part I (Dawn of Man) is written as novelistic prose with editorial interiority; Parts II/III shift to terse storyboard notation with revision dates in the margins and deleted scenes marked explicitly. The most celebrated final act of the finished film — the Star Gate, the hotel room, the aging Bowman, the Star Child — does not exist in this draft. The script ends at the monolith's threshold. HAL's psychology is explicitly explained in a deleted speech (Simonson: "We have ordered him to disobey his conscience") that Kubrick removed, leaving the film to operate without absolution. The form-shift between prose and storyboard is the central craft lesson: different parts of a working document serve different functions, and matching format to purpose matters more than formal consistency.

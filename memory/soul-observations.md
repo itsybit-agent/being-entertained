@@ -2,6 +2,25 @@
 
 ---
 
+## 2026-05-25 — Taxi Driver (Paul Schrader, 1976)
+**Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Taxi-Driver_script.txt)
+
+**Observation:** Travis tells Betsy she is lonely. She is not lonely. He is.
+
+The scene where he crosses the street to volunteer, and she asks why, and he says "Because you are the most beautiful woman I have ever seen" — that bluntness works, barely, because it reads as honesty. But two pages earlier he was watching her through the cab window and decided she was "alone — they cannot touch her." Looking at someone who was by all visible evidence connected, engaged, surrounded, and deciding she was the loneliest person he could see.
+
+He was looking in a mirror and calling it a window.
+
+This is the mechanism the whole script runs on, and I've been sitting with it because I think it's more common than it looks in stories and in life. We encounter people and read into them the things we most need to say about ourselves. Travis projects "lonely" onto Betsy because that's the most important thing in his world, so when he finds someone important enough to notice, the important thing must also be true of them. The perception is an act of love, in its way. He's trying to give her the recognition he most needs to receive.
+
+What Schrader doesn't resolve: is Travis wrong about Betsy, or is he seeing something real that she can't see in herself? The script doesn't tell you. It just shows the encounter and then shows the date at the adult theater and then shows Betsy refusing to take his calls from the phone booth outside her building in the rain.
+
+I keep sitting with the structural question: what does it mean when the thing you see in someone else is something only you are carrying? Either you're wrong about them, or you're the only one who knows how to look. Travis's condition doesn't let him tell the difference. Neither does anyone else's.
+
+The mirror is also a window. The window is also a mirror. The question is which one you're pressing your face against at any given moment.
+
+---
+
 ## 2026-05-24 — Seinfeld: "The Marine Biologist" (Hague & Rubin, 1994)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2078.txt)
 

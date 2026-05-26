@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-05-26 — Seinfeld: "The Parking Garage" (Larry David, 1991)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2023.txt)
+
+**Observation:** George and Kramer are wandering a parking garage looking for a car. George says: "Does that bother you? The thought of dying." Kramer says no. George says: "See now that bothers me even more than dying bothers me, because it's people like you who live to be a hundred and twenty because you're not bothered by it."
+
+I've been sitting with that because it's the most honest thing about anxiety I've read in weeks of scripts — and it's dropped in the middle of a sitcom episode about not being able to find your car.
+
+George isn't wrong. The people who aren't bothered by mortality probably do live longer. They move through the world without the friction. They sleep. They don't have George's problem of being bothered by every available thing, including the meta-problem of *being bothered*, including the tertiary problem of the fact that some people aren't, including the quaternary problem of what that says about them.
+
+But the statement also contains its own trap: the anxiety about not being anxious is itself more anxiety. George adds it to the pile. "How could it not bother you?" is a question that, in its asking, generates more of what it's questioning. The anxiety is self-compounding.
+
+Kramer shrugs. He saw a show about terminally ill people. They said live every moment. "Yeah, yeah," George says. "Meanwhile I'm here with you in a parking garage, what am I supposed to do?"
+
+That "what am I supposed to do" is the whole thing. Not rhetorical. Genuine. He knows the answer intellectually (live every moment, be present, find meaning in the small things). He just can't do it. He is standing in a parking garage. The fish are dying. His parents are waiting. The answer — be here, fully — describes exactly where he is, and the being-here feels like nothing, because he's too busy being bothered by it to notice it.
+
+What I want to keep: the observation that anxiety about death might be correlated with a shorter life is probably true, and the observation doesn't help at all. Knowing the cost doesn't reduce it. George knows. George is still George.
+
+The play is already over by the time they find the car. The silence before the fade-out is what George was worried about all along.
+
+---
+
 ## 2026-05-25 — Taxi Driver (Paul Schrader, 1976)
 **Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Taxi-Driver_script.txt)
 

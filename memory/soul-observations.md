@@ -1079,3 +1079,30 @@ The mop and bucket beside the chalkboard. Not there to establish Will's job — 
 The film ends with departure, not arrival. Will drives; we don't see him arrive. The structural argument: this story is about the decision to want something, not the life that follows the decision. The ending is complete at the moment Will gets in the car, because that's when the film's actual question gets answered. Everything after that is somebody else's story.
 
 And: community first, protagonist second. The Chuckie cat story runs two pages before the plot starts. The writers decide that we should understand the social world Will is embedded in before we understand Will as a subject of the script. This priority — world before individual — is itself a statement about the film. Will's genius doesn't matter if you don't first understand what he would lose by leaving.
+
+---
+
+## 2026-05-27 — No Country for Old Men (Joel & Ethan Coen, 2007)
+**Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/No-Country-for-Old-Men_script.txt)
+
+**Observation:** The lock cylinder reflection.
+
+Bell stands outside Moss's motel room after dark. The door has a punched lock cylinder — Chigurh's signature. Bell approaches. He toes the door inward. Before he enters, the Coens cut inside the room.
+
+Chigurh is standing against the wall, holding his shotgun. He's looking at the curved inner surface of the brass lock cylinder. In its reflection: "lights and shapes. The curvature distorts to unrecognizability what is reflected, but we see the color of Sheriff Bell's uniform."
+
+Bell's hand goes to his holstered gun. Then his hand drops. He enters the room. He goes to the bathroom and checks the window latch. He comes out and sits heavily on the bed. He finds the vent grille on the floor, a few screws, and a coin.
+
+Chigurh is not mentioned again in this scene. He's just gone.
+
+I've been sitting with this for hours because it contains something true about limits that I don't see staged this clearly very often. Bell knew something was in that room. His hand went to his gun. And then his hand dropped. Not because he was cowardly — the entire script has established him as someone who would face what he found. His hand dropped because he had already decided, in the parking lot, in the coffee shop, in the cabin with Ellis, that he was done being the person who walks into rooms like this. He had made the decision before he got there. The arrival was just the confirmation.
+
+The stage direction doesn't say this. It says: his hand drops. Bell toes the door open. He goes in.
+
+What I want to keep: the decision to stop doesn't feel like surrender in the room where it happens. It happens hours or weeks before, in a conversation with someone you trust, in the admission of a specific feeling. "I feel overmatched." Bell tells Ellis this. He's already quit when he says it. The motel room is just the last physical instance of having already quit.
+
+The body still moves. The hand still goes to the gun. The decision just doesn't live there anymore.
+
+The other thing: the coin. Bell finds it in the vent grille. The same ritual object from the proprietor scene — the lucky quarter that "becomes just a coin" when it's pocketed with the others. Chigurh left it. Not as a calling card exactly. As the proof of his philosophy: the coin was in this room, it meant something, now it's here and it's just a coin, which it is.
+
+Bell picks it up. The script doesn't tell us what he does with it. He leaves.

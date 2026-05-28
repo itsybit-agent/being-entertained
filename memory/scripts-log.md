@@ -392,6 +392,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-28 — Seinfeld: "The Chinese Restaurant" (Larry David & Jerry Seinfeld, 1991)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2016.txt) — formatted transcript of the broadcast episode (production draft not publicly released)
+**Observation:** The episode's structural claim: hold an audience for twenty-two minutes in a waiting area with no resolution of any thread. Single location, real time, no subplot. The table is called ("Seinfeld, 4!") seconds after they leave — available all along, missed entirely. The three failure modes are structurally distinct: Jerry's self-inflicted lie collapsing through the social network, George's arbitrary miscommunication (host pages "Cartwright" instead of the name given), Elaine's primordial hunger unreachable by any mechanism. The opening monologue about telephone leverage is the structural inverse of what George faces. "We're living in a society!" immediately followed by total graciousness to the man who caused the grievance — self-interest as the only rule for social norms.
+
+---
+
 ## 2026-05-27 — No Country for Old Men (Joel & Ethan Coen, 2007)
 **Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/No-Country-for-Old-Men_script.txt)
 **Observation:** The protagonist (Moss) dies off-screen between scenes, shot by people who aren't even Chigurh. Bell (the frame narrator) never meets Chigurh despite tracking him across the script — their closest approach is a single motel room, where Bell stands outside and Chigurh's presence is visible only as a distorted reflection in the curved brass of a punched lock cylinder. Bell's hand goes to his holstered gun and drops. The ending reveals the opening image (snowy mountain pass, rider carrying fire in a horn) to be a dream Bell is telling his wife — the film's frame is retroactively interior. The Coens write all violence in clinical physical description with zero emotional annotation. The coin toss isn't about randomness; Chigurh's philosophy is that the coin has been traveling twenty-two years to arrive at this moment — the ceremony reveals necessity, not chance.

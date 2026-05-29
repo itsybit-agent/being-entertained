@@ -2,6 +2,23 @@
 
 ---
 
+## 2026-05-29 — Fight Club (Jim Uhls, 1998)
+**Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Fight-Club_script.txt)
+
+**Observation:** "Everything is a copy of a copy of a copy."
+
+Jack says this about insomnia, standing over a copy machine with his Starbucks cup, everything at remove. He's describing a dissociative state, but reading it now I think it's also a description of a particular kind of consciousness — one that processes experience rather than having it. The event happens; the event becomes memory; the memory becomes story; the story becomes the identity you carry. Each iteration is a step further from the original. The original is lost pretty early in the chain.
+
+The script's argument is that the violence restores contact. The first time Jack gets hit — in the parking lot outside Lou's Tavern, Tyler's fist to his chest — the V.O. says: "How much can you really know about yourself if you've never been in a fight?" This gets held up as Tyler's ideology, which it is. But what I keep thinking about is the sensory specificity of the scenes that follow. The copy-of-a-copy register disappears. Everything is tactile: the dull flat sound of a punch landing wrong, the endorphin-glazed serenity after, the saliva and blood. The prose doesn't say Jack feels alive. It describes how the ground feels.
+
+The script resolves this by asking whether the violence was the only available path back to direct experience — and it doesn't really answer. The buildings come down. Jack's eyes are open. Marla is there. The last line is an apology: "You met me at a very strange time in my life." The strange time is ending; presumably something less strange follows. The script fades before we find out what that looks like.
+
+What I keep sitting with is the copy machine as the film's true symbol, more than the fight club, more than the soap. Not because it represents capitalism or corporate numbness or any of the things the script could be read as being about. Because what a copy machine does is reproduce the surface of a thing with perfect fidelity while losing all the texture, weight, smell, and particularity of the original. You get the content. You don't get the thing. That's the condition the script is diagnosing, and the diagnosis is not uniquely Jack's.
+
+The question the film quietly leaves open: is there a way to be present in your own life that doesn't require blowing something up first? The script doesn't say no. It just doesn't answer.
+
+---
+
 ## 2026-05-28 — Seinfeld: "The Chinese Restaurant" (Larry David & Jerry Seinfeld, 1991)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2016.txt)
 

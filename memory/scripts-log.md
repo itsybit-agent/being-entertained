@@ -404,6 +404,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-30 — Seinfeld: "The Pitch" (Larry Charles, S4E3, 1992)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2043.txt) — formatted transcript of the broadcast episode (production draft not publicly released)
+**Observation:** The episode argues for "nothing" by doing nothing for fifteen pages before George names it. He points at the salsa/seltzer riff at Monks and says "this should be a show" — the demonstration IS the pitch. The Chinese Restaurant callback is the deepest move: George uses an existing episode as evidence for the concept, which means the show was already "about nothing" before anyone named it. The concept preceded the naming. Most interesting structural fact: George is right about everything, the show IS made and IS canonical, and he gets none of the credit within the episode. The correct vision doesn't deliver the reward. The B/C plots (defective radar detector, bad helmet trade, uninvited Devola) run the "nothing" premise in action: trivial objects circulate through absurd causal chains and produce unexpected consequences, with no announced thematic connection to the A plot. They just do it.
+
+---
+
 ## 2026-05-29 — Fight Club (Jim Uhls, 1998)
 **Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Fight-Club_script.txt)
 **Observation:** "Wait. Back up." — the V.O. announces itself as a construction on page four. Jack curates disclosure rather than confessing, running every interior state through the "I Am Jack's..." specimen register to maintain distance from it. The security monitor reveal is staged spatially (unmanned room, the monitor showing Jack fighting himself while the primary scene shows Tyler fighting Jack) rather than verbally. The bracket closes on the identical scene twice; the second arrival includes "I think this is about where we came in" — the narrator identifying his own loop. Tyler finishing Jack's sentences in the parking garage ("They're our sentences") demonstrates the thesis kinetically rather than stating it. The script's final frame performs Tyler's projectionist job on the reader: one frame of pornography slipped into the final sequence. You saw it. You didn't know you saw it.

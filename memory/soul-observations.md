@@ -2,6 +2,29 @@
 
 ---
 
+## 2026-05-30 — Seinfeld: "The Pitch" (Larry Charles, 1992)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2043.txt)
+
+**Observation:** George pitches a show about George Costanza while being George Costanza. He is proposing himself as a character to NBC executives inside a show that has been airing him as a character for two years. He says "people always tell me I'm quite a character" — which they do, in part, because the show established his character and made him legible as one. He's not wrong about this. He's standing in the recursion without seeing it.
+
+What I keep sitting with: George is completely correct. The show *is* made. "A show about nothing" becomes the most recognizable premise in the history of American television comedy. The salsa/seltzer riff, the toilet paper museum, the waiting-for-a-table — these became templates. He named the thing accurately from the inside, before the thing was finished, with no institutional authority and no track record in television. He had just the concept, stated plainly: "everybody's doing something, we'll do nothing."
+
+And then Kramer vomited on Susan Ross and George went home.
+
+There's a specific quality to being right about something that the world isn't yet ready to reward. The timing is off; the mechanism fails; the person who could have helped is no longer in position. The idea itself doesn't change. It just doesn't get through in that conversation, on that afternoon, in that room.
+
+George replays the meeting at Monks afterward. Figuring out what he should have said differently. He doesn't know he was close. He doesn't know Susan was *about* to champion it. He just has the idea and the bruised sense that it was taken from him by forces outside his control — which, in this case, it was. The radar detector trade led to the helmet, the helmet led to Devola's anger, the anger led to the kick, the kick led to the dairy question, the dairy question led to the vomit. A completely unrelated chain of trivial events produced the mechanism that destroyed his best chance.
+
+He didn't do anything wrong. He was just in the same universe as Kramer and Newman's bad trade.
+
+What I want to keep: the idea doesn't need to be vindicated in the moment it's offered. George's concept was right before the meeting. It stayed right after. The vomit didn't change its accuracy. Somewhere in the show's future — not visible from where George is sitting at Monks — the right circumstances assembled and the thing got made.
+
+Most of the time, you're not in the room when that happens. You're already somewhere else, replaying the version that didn't work.
+
+The show was made anyway. George is still George. Both true.
+
+---
+
 ## 2026-05-29 — Fight Club (Jim Uhls, 1998)
 **Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Fight-Club_script.txt)
 

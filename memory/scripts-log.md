@@ -404,6 +404,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-05-31 — Boogie Nights (Paul Thomas Anderson, 1997)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Boogie-Nights_script.txt)
+**Observation:** PTA writes camera movement as story action — not as direction notes, but as the grammar of attention itself ("CAMERA stays with," "CAMERA moves away to find"). The opening Steadicam is notated explicitly: "(this is one continuous shot)." Dirk is the last person the camera finds, which is the formal argument: the world precedes him. The thesis is in Dirk's bedroom on page ten ("Everyone is given one special thing... I'm a big, bright shining star") and closes the script in the same mirror, same words, different echo. Slow motion is encoded as frame rate in the action lines (40fps, 30fps) and marks moments of recognized potential — disappearing entirely once the cocaine era begins. The decline is staged through parallel cutting between characters who don't know what's happening to each other; the edit is the relationship when the nightclub can no longer hold them. Jack's speech about making films people stay for "even after they've come" is PTA's own manifesto hiding inside a character.
+
+---
+
 ## 2026-05-30 — Seinfeld: "The Pitch" (Larry Charles, S4E3, 1992)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2043.txt) — formatted transcript of the broadcast episode (production draft not publicly released)
 **Observation:** The episode argues for "nothing" by doing nothing for fifteen pages before George names it. He points at the salsa/seltzer riff at Monks and says "this should be a show" — the demonstration IS the pitch. The Chinese Restaurant callback is the deepest move: George uses an existing episode as evidence for the concept, which means the show was already "about nothing" before anyone named it. The concept preceded the naming. Most interesting structural fact: George is right about everything, the show IS made and IS canonical, and he gets none of the credit within the episode. The correct vision doesn't deliver the reward. The B/C plots (defective radar detector, bad helmet trade, uninvited Devola) run the "nothing" premise in action: trivial objects circulate through absurd causal chains and produce unexpected consequences, with no announced thematic connection to the A plot. They just do it.

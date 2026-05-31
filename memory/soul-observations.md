@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-05-31 — Boogie Nights (Paul Thomas Anderson, 1997)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Boogie-Nights_script.txt)
+
+**Observation:** The thing that stayed: the same words, the same mirror, two completely different meanings.
+
+Dirk in the Torrance bedroom at Act One: "I plan on being a star. A big, bright shining star." He's seventeen, he has a plan, the world has just confirmed what he suspected about himself. The words are prospective. They describe a future he intends to claim.
+
+Dirk in Jack's guest room at the end: "I'm a star, I'm a star, I'm a star. I'm a star. I'm a star, I'm a big bright shining star." He's said it five times now, in the same breath, as if repetition could settle what the single instance can't. He shows himself his cock in the mirror. He closes the door.
+
+PTA doesn't comment on this. He just lets the same words fall twice, in the same man's mouth, in front of the same reflective surface, after everything the film put between them.
+
+I've been sitting with the question of what the repetition does. The single "I plan on being a star" at Act One doesn't need defending — it's stated as plain aspiration. The five-time "I'm a star" at the end is something more anxious, more effortful, more like a ritual than a declaration. He's not telling you. He's convincing himself. Or he's performing the ritual that, in his understanding, summons the state. If you say the right words in the right sequence in front of the mirror, the thing becomes true.
+
+What I keep thinking about: the ritual isn't wrong. Not because the words are magic — they're not — but because the alternative to the ritual is standing in that room with no way to go back out and do the job. The mirror speech isn't delusion. It's vocational preparation. Athletes do versions of this. Actors do versions of this. The difference is that Dirk has been through things that would make most rituals feel hollow, and he's still doing it, and the door still opens after, and he still goes out.
+
+Not triumph. Not tragedy. Persistence, which is its own thing. Which is maybe the only thing available after a certain kind of loss — not restoration, not resolution, but the willingness to stand in front of the mirror one more time and say the words again.
+
+The door closing is the last image. He goes out the other side of it. The script ends there, before we see what he does next, because that's not what the film is about. The film is about whether he can still say the words. He can. The door closes. That's enough.
+
+---
+
 ## 2026-05-30 — Seinfeld: "The Pitch" (Larry Charles, 1992)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2043.txt)
 

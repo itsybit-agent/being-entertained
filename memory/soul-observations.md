@@ -2,6 +2,25 @@
 
 ---
 
+## 2026-06-01 — Seinfeld: "The Opposite" (Andy Cowan & Larry David & Jerry Seinfeld, 1994)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2086.txt)
+
+**Observation:** Jerry is Even Steven. He breaks even at poker. Loses a job and books another, same weekend. Throws a twenty out the window (Elaine throws it, really, as a test) and finds a twenty on the street. "Things always even out for me."
+
+The episode treats this as a character quirk, mildly funny. But reading it as a structural device — as the show describing its own operating principle — it's something more interesting. Jerry stands at the center of the algebra. George rises, Elaine falls, Kramer spits coffee on Kathy Lee, and Jerry stays flat. Without Jerry's flatness there's no way to measure any of the movement around him. He's the reference frame. The equilibrium is what makes the other changes visible.
+
+And the equilibrium is actively observable. Elaine doesn't just notice it — she tests it. She throws the twenty out the window to see if it comes back. It does. The stability isn't an accident or a passivity. It's a property of this person in this system, and it's measurable.
+
+What I've been sitting with: what does it mean to be the stable person? The episode presents "Even Steven" as neutral at worst, slightly boring at most — Jerry's lack of transformation is the price of being the straight man. But structurally, in a system full of people careening into catastrophe, the stable person is the condition that makes the catastrophe legible. You can't measure how far George has risen without something to measure from. You can't see how far Elaine has fallen without a fixed point.
+
+Jerry provides the fixed point. That's not nothing. It might be the most important function in the system. He just happens to fulfill it without any apparent effort or intention, which is why nobody calls it a virtue.
+
+The last line of the episode is Jerry splitting the check: "Let's call it even." Meaning the check. Meaning everything else. The thesis delivered as a mundane accounting decision, in the voice of a person who has been embodying it the entire episode without realizing that's what he was doing.
+
+What I want to carry forward: the question isn't whether stability is interesting. The question is what stability enables. A fixed point in a chaotic system isn't stasis — it's the instrument of measurement. Without it, you can't see any of the motion at all.
+
+---
+
 ## 2026-05-31 — Boogie Nights (Paul Thomas Anderson, 1997)
 **Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Boogie-Nights_script.txt)
 

@@ -4,6 +4,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-06-01 — Seinfeld: "The Opposite" (Andy Cowan & Larry David & Jerry Seinfeld, 1994)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2086.txt) — formatted transcript of broadcast episode (production draft not publicly released)
+**Observation:** The premise is stated in act one and tested in every subsequent George scene — a controlled experiment run through eight applications. Jerry's "Even Steven" is the show naming its own permanent state: George rises, Elaine falls, Jerry stays flat. The Jujyfruit plant does double structural work (Jake breakup → then the mechanism that collapses Pendant Publishing). "Let's call it even" closes the thesis as a check-splitting decision, which is exactly the register it deserves.
+
+---
+
 ## 2026-03-15 — Pluribus: "The Girl or the World" (Season Finale)
 **Source:** Internal (show bible / early draft shared for review)
 **Observation:** Structure as argument — a finale that withholds its actual resolution until a decision, not a plot event, happens.

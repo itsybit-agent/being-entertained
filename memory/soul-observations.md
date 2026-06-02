@@ -2,6 +2,31 @@
 
 ---
 
+## 2026-06-02 — Groundhog Day (Danny Rubin / Harold Ramis, 1992)
+**Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Groundhog-Day_script.txt)
+
+**Observation:** Phil memorizes Rita completely. He learns her drink, her toast, her poetry, the specific fudge she won't eat, the fact that she likes old songs and snowball fights and the way she learned about rivers in grade school. He has more information about this person than she has about herself. And then he uses all of it to engineer a specific outcome.
+
+It fails. Every time.
+
+What I keep sitting with: knowledge and care are not the same thing. Phil has perfect knowledge of Rita and zero genuine care for her — the accumulation is entirely in service of what he wants from her, not what she needs, not who she is outside of that. The data is real. The seeing isn't happening.
+
+The script stages the proof through what it withholds. We never get a scene where Phil thinks about Rita's life outside of him — her morning routine, what she's worried about at work, whether she's called her parents this week. He knows her drink because he tried different drinks until one worked. He knows her toast because he tried different toasts until one landed. He doesn't know *why* she drinks to world peace. He knows it's the thing to say.
+
+The moment genuine transformation starts isn't in any Rita scene. It's in the alley, with the old bum, whom Phil keeps trying to save and keeps failing to save. He's there because there's nothing to gain. No one is watching. The man doesn't know Phil's name. He dies every loop regardless of what Phil does. And Phil comes back anyway, and covers him with his coat, and writes a poem.
+
+That's the thing that changes him. Not Rita. Not the accumulated skills. The bum he can't fix.
+
+What I keep thinking about: there's something in this about the difference between information-gathering for your own purposes and actual curiosity about another person's existence. Phil knows everything about Rita's preferences. He knows nothing about her as a subject who has a world that includes things other than him. The seduction-as-data-collection is a very complete portrait of someone who looks at another person and sees a problem to solve.
+
+The transformation completes when he looks at the old bum — who cannot give him anything, who will die regardless, whose name he may not even know — and decides that the act of showing up is worth doing anyway. Care without an objective. Presence that isn't in service of anything.
+
+He stops trying to solve Rita. He starts trying to show up in Punxsutawney. And then she finds him by following him through his day.
+
+The loop breaks the morning after. He wakes up and she's still there.
+
+---
+
 ## 2026-06-01 — Seinfeld: "The Opposite" (Andy Cowan & Larry David & Jerry Seinfeld, 1994)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2086.txt)
 

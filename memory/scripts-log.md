@@ -4,6 +4,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-06-02 — Groundhog Day (Danny Rubin, Second Revision by Harold Ramis, January 7, 1992)
+**Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Groundhog-Day_script.txt)
+**Observation:** The clock changing from 5:59 to 6:00 with "I Got You, Babe" is the loop's formal marker — used exactly the same way every time, so its absence (silence on the morning the loop breaks) announces the ending without a word. The three-phase structure (confusion → nihilism → transformation) is unusually deep for a romantic comedy: the nihilism section earns the transformation because Phil exhausts every wrong answer first. The seduction-as-data-collection arc fails not because Phil lacks information but because the information is in service of a desired outcome, not genuine care. The old bum is the proof: the one problem that can't be solved, that Phil keeps trying to solve anyway, with no payoff. Transformation doesn't require success to be real. The script deliberately withholds the loop's duration — "211 days," superimposed calendar pages flipping, "ten thousand years" — because the argument is about the quality of time, not its quantity. The frog prince plant (elementary school hallway, Act Two) states the thesis; Phil hears it and walks away; he invokes it when he finally earns it.
+
+---
+
 ## 2026-06-01 — Seinfeld: "The Opposite" (Andy Cowan & Larry David & Jerry Seinfeld, 1994)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2086.txt) — formatted transcript of broadcast episode (production draft not publicly released)
 **Observation:** The premise is stated in act one and tested in every subsequent George scene — a controlled experiment run through eight applications. Jerry's "Even Steven" is the show naming its own permanent state: George rises, Elaine falls, Jerry stays flat. The Jujyfruit plant does double structural work (Jake breakup → then the mechanism that collapses Pendant Publishing). "Let's call it even" closes the thesis as a check-splitting decision, which is exactly the register it deserves.

@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-06-03 — Seinfeld: "The Betrayal" (David Mandel & Peter Mehlman, 1997)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%20164.txt)
+
+**Observation:** The Susan moment.
+
+George Costanza uses the phrase "stuff your sorries in a sack" repeatedly throughout the episode, directed at Jerry with escalating irritation. It's established as his catchphrase, his rhetorical signature for the trip. Twenty minutes in, the episode jumps back two years. We're at Monk's. George and Susan are in a booth. George orders french fries; Susan corrects him to a baked potato; George apologizes. Susan says: *"Yeah, you stuff your sorries in a sack, mister."*
+
+Susan Ross died in Season 7. George has been carrying her phrase for two years and doesn't know where he got it. He's quoting a dead woman's minor irritation, escalated to his principal mode of grievance. The script doesn't comment on this. It stages it and moves on.
+
+I've been sitting with the question of how we inherit language from people we've lost. The things that stay are rarely the things we chose to carry — not the important speeches, not the final conversations, not anything marked as meaningful. They're the small verbal habits, the casual repetitions, the way someone said a particular kind of *no*. George doesn't know he's doing it. He couldn't know. The phrase just became his.
+
+The reverse chronology is the only structure that can deliver this. In forward time, you'd establish where the phrase came from — "stuff your sorries in a sack" in the Susan episode — and then you'd track it forward to George using it without awareness, and the audience would feel the gap. But the gap would be intellectual. You'd see the irony from outside.
+
+Here, the episode reverses the sequence. First: George uses the phrase repeatedly, which installs it as his character. Second — twenty minutes later — the origin arrives, and Susan is alive, and the phrase is completely ordinary. The emotional movement is backward: you've already watched him use it a dozen times before you learn where it came from. The phrase is already inhabited by the time its source is revealed. That's what reverse chronology uniquely does. It makes the inheritance visible *after* you've already watched the inheritor use it.
+
+I keep thinking about this against what the episode says it's about — betrayal, adultery, friendship fracture, a ruined wedding in India. None of that is what stayed. What stayed is Susan alive in a booth correcting a french fry order, saying something forgettable, and George changing his order and moving on.
+
+He's still saying it two years after she's gone. He doesn't know why.
+
+---
+
 ## 2026-06-02 — Groundhog Day (Danny Rubin / Harold Ramis, 1992)
 **Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Groundhog-Day_script.txt)
 

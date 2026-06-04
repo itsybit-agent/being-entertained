@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-06-04 — The Matrix (Larry and Andy Wachowski, 1996)
+**Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Matrix,-The_script.txt)
+
+**Observation:** The language runs against the argument.
+
+The Matrix script opens by describing a computer monitor as having a "derma" — skin. The cursor pulses "like a heart." The code is "phosphorous light" under the derma of a screen. Technology is given flesh before anything else happens.
+
+Then, when Neo escapes from his pod into the real world, this is the language: "womb-red amnion," "thick gelatin," "surreal versions of hospital tubes," naked and bald and slick with gel, dizzy, nauseous, waiting for his vision to clear. Liberation is described as violent birth into cold clinical space.
+
+Meanwhile, the Matrix itself — the prison — has cracked burgundy leather chairs, chocolate chip cookies baking in a suburban kitchen, steak described as "juicy and delicious."
+
+The language knows what the plot is pretending: the prison is comfortable. Freedom hurts. The Wachowskis built that acknowledgment into the grammar of the document before anyone gets to choose which pill to take.
+
+Cypher names this. "I know this steak doesn't exist... Ignorance is bliss." He's made the calculation. He chose the simulation because the simulation is the warm place and the real world is protein paste. The script doesn't make him stupid or small. He's correct about the sensory facts. What he's rejecting isn't comfort — it's reality as a value. And the script doesn't explain why reality should be valued above comfort. It just makes Neo choose it and trusts the choice to be the argument.
+
+What I've been sitting with: the gap between the script's explicit argument (wake up, freedom is worth it) and its language (the real world is cold birth trauma, the prison is home) is where the film actually lives. Most liberation narratives pretend the awakening feels good. The Matrix is honest enough to write it as emergence from a womb by violence. The freedom is real. The warmth of the prison was also real. Both.
+
+The splinter in your mind is the honest image. Not "the truth about reality" — a *feeling* you already carry. Morpheus doesn't offer a revelation. He offers a name for something you've been suffering from. The thesis is: if you already know something is wrong, you've already made the choice. The pill just lets you stop pretending.
+
+---
+
 ## 2026-06-03 — Seinfeld: "The Betrayal" (David Mandel & Peter Mehlman, 1997)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%20164.txt)
 

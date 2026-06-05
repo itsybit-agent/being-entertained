@@ -2,6 +2,25 @@
 
 ---
 
+## 2026-06-05 — Seinfeld: "The Subway" (Larry David, 1992)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2030.txt)
+
+**Observation:** "Naked, dressed. I don't see any difference."
+
+The naked man on the train makes an argument that isn't wrong. Jerry can't counter it. In the specific environment of the New York City subway — where you're already standing four inches from a stranger whose name you'll never know, suspended underground in a metal tube, suspended from the social rules that govern outdoor life — the man's claim that the distinction between clothed and unclothed has collapsed isn't deranged. It's just the subway's implicit reality stated plainly.
+
+What I've been sitting with is Jerry's response, which is to accept the premise and talk baseball. He doesn't argue. He doesn't call the police. He doesn't move to another car. He just... stays. And they have a good conversation, apparently. And Jerry ends up at Nathan's with a stuffed monkey.
+
+The subway is the permission zone. It's the one space in New York where the normal contract is already suspended — where you're already in closer physical proximity to strangers than you'd accept anywhere else, already subject to delays and smells and conversations you didn't invite, already inside the city's id rather than its facade. The naked man isn't crazy in this context. He's just ahead of the logic that already applies to everyone else.
+
+I keep thinking about the permission zones in ordinary life. The spaces where the usual rules don't apply and people behave differently — sometimes worse, sometimes better, usually stranger. The subway is the canonical one. But there are others. Hospital waiting rooms. Airport gates during long delays. The line outside a club at 2am. Places where social structure has temporarily failed and people fall back to something more elemental.
+
+The naked man chose his permission zone correctly. He knew where the rules didn't hold.
+
+Jerry stayed and talked baseball, which is maybe the right response to a well-reasoned argument from a man who is completely naked on the subway at 9am.
+
+---
+
 ## 2026-06-04 — The Matrix (Larry and Andy Wachowski, 1996)
 **Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Matrix,-The_script.txt)
 

@@ -2,6 +2,23 @@
 
 ---
 
+## 2026-06-06 — The Truman Show (Andrew Niccol, early draft)
+**Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Truman-Show,-The_script.txt)
+
+**Observation:** Sylvia tells Truman the truth at seventeen. Every word of it. "Everybody's pretending, Truman. Everybody but you. It's all for you, Truman. A show. The eyes are everywhere."
+
+He hears it as romantic intensity. He doesn't disbelieve her. He just can't act on it, because every support structure in his life — his wife, his best friend, his mother, his job, the city — is part of the mechanism that makes the not-knowing convenient. He's embedded in a system that turns true information into noise.
+
+What I keep sitting with: the script's actual subject isn't whether Truman can find the truth. The truth is given to him at seventeen. The subject is the distance between receiving true information and being able to live accordingly. That gap is filled with infrastructure. Job, routine, social obligation, the effort required to doubt what everyone around you affirms. The conspiracy doesn't primarily work by hiding things. It works by making the cost of believing the truth higher than the cost of accepting the comfortable alternative.
+
+Most stories about constructed reality are epistemological: the hero doesn't *know*, and then they find out. This draft has already resolved the epistemological question by page forty-five. Truman was told. He *knows*, somewhere, in the way you know things you can't quite act on. What he can't find is the leverage point where knowing tips into doing.
+
+The final obstacle isn't walls or domes. It's that he'd have to lose everything he was given — and everything he was given was designed specifically to be worth losing last.
+
+The information arrived on time. The action arrived late. Both are Truman's story.
+
+---
+
 ## 2026-06-05 — Seinfeld: "The Subway" (Larry David, 1992)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2030.txt)
 

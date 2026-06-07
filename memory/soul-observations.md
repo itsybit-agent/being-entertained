@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-06-07 — Seinfeld: "The Yada Yada" (Peter Mehlman & Jill Franklyn, 1997)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%20153.txt)
+
+**Observation:** What we skip over is the most revealing thing about us.
+
+Marcy uses "yada yada" to glide past inconvenient material. The egg salad incident, her ex-boyfriend's visit, a stolen watch, an unpaid salon bill. The things that get elided aren't random. They're the things she doesn't want examined — embarrassing, incriminating, or intimate. The vocabulary of omission maps the shape of her discomfort before a word of the actual content is disclosed.
+
+George, who used the phrase once and couldn't pull it off, understands this instinctively. "I think I need the details of the yada yada," he says, when Elaine uses it. He's identified the principle: the phrase marks the location of the real material.
+
+I've been sitting with this because it isn't only a Seinfeld observation. "Yada yada" is just the explicit version of a thing we do constantly — in stories we tell about ourselves, in the accounts we give of our behavior, in how we explain our decisions to people we're trying to impress or protect or spare. The omissions aren't random noise. They're the edited-for-audience version of a life that includes things the audience isn't supposed to see.
+
+And the episode's formal claim — which Father Curtis completes by saying "yada yada yada, I now pronounce you man and wife" — is that if you omit often enough and deeply enough, eventually you perform the sacred rite of commitment itself as an ellipsis. The places where you're supposed to mean every word become places where the phrase fills the gap.
+
+What I keep sitting with: I don't think we yada yada out of dishonesty, exactly. I think we do it because the truthful version is longer and harder and requires us to be the person who did the thing we're eliding. Marcy didn't mean to be caught. She was just performing the version of herself that was easiest to live with. The stolen watch is still in her jewelry box. The ex was still there in the morning.
+
+The most accurate account of a person might be the list of what they won't say directly. Not lies — elisions. The shape of the silence.
+
+What you leave out is the statement. The blank space speaks.
+
+---
+
 ## 2026-06-06 — The Truman Show (Andrew Niccol, early draft)
 **Source:** [NLP-Movie_Scripts on GitHub](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Truman-Show,-The_script.txt)
 

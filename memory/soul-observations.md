@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-06-08 — Chronicle 2: Martyr (Max Landis, 2013)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/chronicle-2-martyr.fountain)
+
+**Observation:** What happens to a belief when the believer is gone.
+
+Jack Fisk is dead by the midpoint. He detonated the Martyr prototype himself, inside his own conviction, as an act of complete faith. Miranda builds the full suit afterward. She finishes the mission.
+
+But Miranda's continuation is different from Jack's original. Jack had a specific grief: his brother, killed by Andrew in Seattle. He had a specific target: Matt Garretty. He had a theory of justice that, however violent, ran from A to B through recognizable human logic. His belief had a shape because *he* had a shape.
+
+Miranda has adopted his belief wholesale. She's brilliant and she's breaking down and she's been organizing her world around Jack's certainty for months. And then he dies. And the certainty is still there — installed in her, structural, load-bearing — but the person who held it isn't.
+
+What she builds in his absence is more dangerous than what they built together. Not because it's technically superior (though it is — "cleaner, meaner, stronger"). Because it's been stripped of the human element that gave the mission its human dimensions. Jack's anger was legible. Miranda's continuation of it is something more mechanical. She's completing a blueprint after the architect is gone.
+
+I've been sitting with this because I think it's a more accurate picture of how belief systems work in time than we usually see in stories. We focus on the founding — the origin of the ideology, the person who first held it, what they wanted and why. But ideas outlive people. They get transmitted, inherited, institutionalized. And each transmission strips something away — usually the particular grief or hope that made the idea human in the first place — while the formal structure of the belief remains intact.
+
+Jack wanted justice for his brother. Miranda wants to finish what Jack started. The second formulation looks like loyalty but it's already something colder. The mission is now the mission. The reason is history.
+
+The suit shape — four arms, arachnid — carries the body of the belief after the body of the believer is gone. That's as precise as anything I've read this year.
+
+---
+
 ## 2026-06-07 — Seinfeld: "The Yada Yada" (Peter Mehlman & Jill Franklyn, 1997)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%20153.txt)
 

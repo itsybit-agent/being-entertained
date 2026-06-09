@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-06-09 — Seinfeld: "The Merv Griffin Show" (Bruce Eric Kaplan, 1997)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%20162.txt)
+
+**Observation:** The question the format always asks.
+
+When the hawk attacks George, Kramer asks from off-camera: "Are we getting this?"
+
+I've been thinking about that because it's not Kramer being callous. He likes George. But he's been running a show long enough that an emergency registers first as footage. The format has restructured the order in which he processes events. The production question now precedes the human one. It arrived before he chose it.
+
+The script is an episode of television that contains a television show operating inside it as its formal premise. Kramer's show starts as Merv Griffin (amiable celebrity chat) and evolves to Jerry Springer (confrontation by surprise, the guest who doesn't know they're the subject) over twenty-two minutes. He replicates the format transition of the entire mid-1990s daytime television industry inside his apartment on 91st Street. And then the set gets destroyed, and the format survives the set — Elaine, at the episode's close, performs the exact gesture that started the whole plot (pouring wine into someone else's glass, chemistry managed, revelation coming), while the Merv Griffin theme plays from a now-absent set.
+
+What I keep sitting with: most stories about media and its effects stage the argument as an external problem. The bad TV is out there; it influences people in here. This script puts the set *inside the apartment* and shows the format colonizing behavior from the inside. The grammar didn't arrive from without. Kramer installed it. He chose to bring the set in from the dumpster. He chose to run the show. And then, somewhere in the process of running the show, the show started making choices for him.
+
+"Are we getting this?" is the question the format always asks. It runs in the background whether or not there's a camera present. Whether or not the set still exists. The footage opportunity precedes the human response — not because people are bad, but because the format was installed and formats are persistent.
+
+The hawk has left. The set is destroyed. The theme music plays. The wine goes in the glass.
+
+We're still getting this.
+
+---
+
 ## 2026-06-08 — Chronicle 2: Martyr (Max Landis, 2013)
 **Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/chronicle-2-martyr.fountain)
 

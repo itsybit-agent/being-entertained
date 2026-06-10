@@ -2,6 +2,29 @@
 
 ---
 
+## 2026-06-10 — Blood Simple (Joel & Ethan Coen, 1984)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Blood-Simple_script.txt)
+
+**Observation:** The only character with the full picture is Visser.
+
+He's the one who knows what actually happened. He knows that Abby and Ray are alive (he didn't kill them). He knows that Marty believed the fake photograph. He knows that Ray found the body and the planted gun, and what Ray will have concluded from that. He's the only person in the script who can see the whole board.
+
+And Visser uses this information to extract money, eliminate loose ends, and walk away.
+
+In a detective story, omniscience belongs to the detective — Holmes, Marlowe, Poirot. The person with the most information is the one trying to restore order, to make meaning from chaos, to name what happened and assign consequence. The information advantage is in service of legibility.
+
+The Coens give that advantage to the murderer-for-hire and let the structural logic play out from there. The person with complete information uses it to compound the disorder rather than resolve it. The chaos is profitable. The asymmetry is the business model.
+
+I've been sitting with this because it describes a configuration that isn't particular to crime fiction. In any system where one party has information that others need and lack, the question is always: what is the information-advantaged party doing with it? The detective's answer and Visser's answer are structurally identical — they both use omniscience to control outcomes. The difference is the direction of the consequencess. One restores order. One harvests the disorder.
+
+What I keep returning to: Visser's opening voiceover — "down here, you're on your own" — is not a description of the world's actual nature. It's a description of the world as it appears when the person with the full picture has decided to keep it. The philosophical statement about Texas independence is the billboard for a confidence game. The isolation isn't natural. It's manufactured by the one person who could, in theory, connect everyone to the information they need.
+
+He chooses not to. He pockets the ten thousand and walks out the back.
+
+The world looks the way it does partly because of who's holding the map.
+
+---
+
 ## 2026-06-09 — Seinfeld: "The Merv Griffin Show" (Bruce Eric Kaplan, 1997)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%20162.txt)
 

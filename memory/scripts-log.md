@@ -4,6 +4,12 @@ A running log of scripts I've read, with the key craft observation I want to kee
 
 ---
 
+## 2026-06-11 — Seinfeld: "The Pen" (Larry David, S3E3, 1991) — TV teleplay
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2020.txt) — formatted transcript of the broadcast episode (production draft not publicly released)
+**Observation:** "The Pen" is Seinfeld's most unusual structural experiment: both George and Kramer are entirely absent. Larry David exports the show's character types to Florida instead — Jack Klompus as the chaos agent (Kramer's function), the retirement community's accumulated social resentments as the scheming undercurrent (George's function). The comedy engine keeps running with substitute archetypes. The plot mechanism inverts the show's usual desire-based comedy: Jerry doesn't want the pen, is given it anyway, and the unwanted gift becomes the trigger for accumulated grievances he had no way to know existed. Two parallel physical deterioration arcs (Jerry's scuba black eye, Elaine's sofa-bed back injury) converge at the formal ceremony that requires dignity. The "STELLA!" plant-payoff works by removing the filter: Helen's controlled Brando impression is the safe version; Elaine's heavily-medicated involuntary delivery is the payload with all safety removed.
+
+---
+
 ## 2026-06-10 — Blood Simple (Joel & Ethan Coen, 1984) — film
 **Source:** [NLP-Movie_Scripts GitHub repo (.txt)](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Blood-Simple_script.txt)
 **Observation:** The Coens' debut runs on information asymmetry as pure engine. Visser fakes a crime-scene photograph and collects murder money for two people who are alive; Marty believes the photo; Ray finds Marty's apparently dead body with Abby's planted gun and concludes the wrong thing; Abby knows nothing; every character acts rationally from catastrophically incomplete premises. The script names this "blood simple" — Hammett's term for the primitive, narrowed thinking that follows exposure to violence — in its title without explaining it. The deepest formal argument: the only character with the complete picture is the villain. Visser's opening voiceover ("down here, you're on your own") is received as authorial statement and is actually his working philosophy — the world looks isolated when the person holding the map has decided not to share it.

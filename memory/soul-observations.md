@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-06-12 — Magnolia (Paul Thomas Anderson, 1999)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Magnolia_script.txt)
+
+**Observation:** "There are frogs falling from the sky."
+
+Phil says this to Frank, plainly, while Earl is in his last minutes. Not "I can't believe what I'm seeing." Not "something impossible is happening." Just: there are frogs falling from the sky. A declarative statement about an impossible thing, delivered in the register of weather observation.
+
+Three hours of accumulated pain have led to this. Earl abandoned Frank when Frank was a child and now Earl is dying and Frank has come back and is crying with his head in his father's hands, and outside the glass doors of the house frogs are falling, and Phil — the young nurse who has spent the entire film managing an impossible situation — tells Frank what he's seeing. In the only way Phil knows how to describe anything, which is directly.
+
+The extraordinary thing about the sentence is the absence of commentary. Phil doesn't say "I can't believe," doesn't say "this is insane," doesn't say "look at this." He says: there are frogs falling from the sky. The sentence is complete. It transfers the information. It contains no attempt to explain what the information means.
+
+I've been sitting with this because we spend so much effort trying to contextualize unusual events — trying to classify them as coincidence or meaning or sign or anomaly — that the plain declarative statement of what is actually happening gets skipped. We're at the interpretation stage before we've said the thing.
+
+Phil just says the thing.
+
+What I want to carry forward: sometimes the correct response to an impossible event isn't interpretation. It's the sentence that names what's happening, cleanly, so that whoever needs to hear it can hear it. The frogs are falling. The rest is not your job right now.
+
+Frank doesn't respond. He has his head buried in his father's hands. The frogs fall into the pool. Earl breathes.
+
+---
+
 ## 2026-06-11 — Seinfeld: "The Pen" (Larry David, 1991)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%2020.txt)
 

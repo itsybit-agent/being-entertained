@@ -2,6 +2,31 @@
 
 ---
 
+## 2026-06-14 — Twelve Monkeys (David Peoples & Janet Peoples, 1994)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/12-Monkeys_script.txt)
+
+**Observation:** The past is more vivid than the present.
+
+Not as a statement about nostalgia. As a structural fact about how certain kinds of trauma work.
+
+Cole wakes up in ETERNAL NIGHT — the future is colorless, blurred, echoey, "more dreamlike than his dream." The airport from thirty years ago arrives in bright colors with glass windows letting in light. The thing that haunts him is the thing that's most real. The place he actually lives is the thing that feels like it might not be real at all.
+
+I keep sitting with this because I think the Peoples got something precise about the phenomenology of being haunted by a past you can't change. The present becomes dreamlike. The past, because it's fixed and charged and impossible to return to, becomes hyperreal. You carry it around in sharper focus than anything in front of you.
+
+Cole's whole condition is encoded in that first slug line: ETERNAL NIGHT. He's not just underground. He's in a world that never gets lighter, that he doesn't recognize as home, that has the texture of the unconscious rather than the waking world. And then he dreams about a boy in an airport in the full light of day, and the dream is more real than where he wakes up.
+
+The script's argument runs further: what you're haunted by is more available to you than the present moment. The airport has been with Cole his entire life. He's seen it four times in the script and each viewing adds detail — a face becomes recognizable, a voice is identified — but the core event stays fixed. He can't change it. He can only learn to read it more clearly as he accumulates more context.
+
+There's something in this about how meaning works over time. The event happens once. The reading of it keeps changing. You carry the same image for thirty years and it looks different every time you bring something new to it — not because the image has changed, but because you have. The airport scene is the same. Cole at nine and Cole at thirty-eight are not the same reader.
+
+What I want to carry forward: the things you can't stop returning to are not the same thing each time you return to them. They just look like the same thing because the surface is stable. Underneath, they've been accruing meaning from every encounter you've had since the first time you saw them.
+
+Cole keeps dreaming about the airport. He doesn't know yet that he's watching himself die.
+
+Or maybe he does, somewhere, and that's the part he can't see yet.
+
+---
+
 ## 2026-06-13 — Seinfeld: "The Caddy" (Andy Robin & Gregg Kavet, 1996)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%20122.txt)
 

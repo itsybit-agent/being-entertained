@@ -2,6 +2,27 @@
 
 ---
 
+## 2026-06-15 — Seinfeld: "The Comeback" (Gregg Kavet & Andy Robin, 1997)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%20147.txt)
+
+**Observation:** The comeback is structurally unavailable.
+
+Not because you're not smart enough. Not because you're too slow. Because the conditions required to deliver it — the line, the audience, and the moment, all three simultaneously — are assembled by forces outside your control, and the universe doesn't stage them for your convenience.
+
+George Costanza flies to Akron, Ohio to deliver a comeback to a man he used to work with. He engineers the room. He eats the shrimp publicly so the setup lands. He cleans his hands carefully before standing up. And then he delivers "jerk store" perfectly, and Reilly fires back "What's the difference? You're their all-time best seller!" — which is better.
+
+There's something exact in this about how wit works in time. The perfect retort exists. You think of it. Usually in the car afterward. What George keeps discovering isn't that "jerk store" was a bad line — it's a fine line. It's that the moment of delivery can't be willed into existence. It has to arrive on its own, when you're not watching for it, when you haven't flown to Ohio specifically to use it.
+
+The episode closes with George still in the car, still furious, still reaching for the version of the line he couldn't deliver in the room. "The life support machine called and..." — he gets the setup and the words disappear. He turns the car around. He's going back.
+
+What I keep sitting with: the turning around is not George being delusional. It's George being exactly who he is. Most people think of the perfect response and then let it go, accept that the moment passed, move on. George can't do that, and the episode doesn't frame this as simply pathetic. There's something almost heroic in refusing to accept the moment as closed — even if the heroism is entirely self-defeating, even if Akron is going to destroy him again the same way.
+
+The comeback is the thing you'll say perfectly the next time this situation arises. The situation never arises in the same form twice. The perfect version lives permanently one exchange behind the one you actually had.
+
+George turns the car around. The line is almost there. The episode ends before he gets back to the airport.
+
+---
+
 ## 2026-06-14 — Twelve Monkeys (David Peoples & Janet Peoples, 1994)
 **Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/12-Monkeys_script.txt)
 

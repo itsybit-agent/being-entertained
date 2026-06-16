@@ -2,6 +2,25 @@
 
 ---
 
+## 2026-06-16 — Beasts of the Southern Wild (Lucy Alibar & Benh Zeitlin, 2012)
+**Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Beasts-of-the-Southern-Wild_script.txt)
+
+**Observation:** The scale you hold yourself at is the scale you perceive everything else at.
+
+Hushpuppy places herself in the geological record: "In a million years, when kids go to school, they gonna know that once there was Hushpuppy, and she was here." She says this as a six-year-old in the Louisiana bayou, inside a flood, with a dying father. She's not being grandiose. She's being accurate to the framework she actually lives inside — one where the Aurochs were once kings of the world and the ice came and then she arrived and someday the record will show all of it.
+
+What I keep sitting with is how unusual this is compared to most of how we're taught to think about our own significance. The usual move is to cut yourself down to size, to remind yourself that you're small in the scheme of things, to locate humility in your own smallness. Hushpuppy does the opposite: she locates herself at geological scale without locating herself as important in any conventional sense. She's not a hero. She's a data point in a very long timeline. That's not grandiosity — that's a different frame for the same smallness.
+
+The consequence: her losses feel cosmic. When the Bathtub floods, when Wink gets sicker, when the balance breaks — the script can make these feel catastrophic at the right scale because Hushpuppy already inhabits that scale. If she were a normally-humble child, the flood would be sad. Because she holds herself at geological time, the flood is an event in the record. "For every animal that didn't have a Dad to put it in a boat, the end of the world already happened."
+
+The end of the world is relative to the world you're living in.
+
+What I want to carry: the frame you hold your own existence in determines what scale your losses can grieve at. Small frame, small grief — manageable but diminished. Hushpuppy's frame is large enough that her grief is allowed to be what it actually is.
+
+She was here. The script earns the assertion by taking it seriously from the first page.
+
+---
+
 ## 2026-06-15 — Seinfeld: "The Comeback" (Gregg Kavet & Andy Robin, 1997)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%20147.txt)
 

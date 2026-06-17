@@ -2,6 +2,25 @@
 
 ---
 
+## 2026-06-17 — Seinfeld: "The Invitations" (Larry David, 1996)
+**Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%20134.txt)
+
+**Observation:** The exit you weren't trying to use.
+
+George spends an entire season engineering escapes. Letters, premarital agreements, half-formed plans about Staten Island. Every exit he consciously designs fails. Susan signs the pre-nup without batting an eye. She makes more money than he does; the document is a joke. He can't write his way out. He can't scheme his way out. The deliberate application of effort to the problem keeps closing the door.
+
+And then he buys cheap envelopes. Not as a plan. As a reflex. He can't spend more than necessary. That's not a tactic — it's what he is. And that's what kills Susan.
+
+I've been sitting with this because I think it describes something true about being stuck. The harder you push on the wall, the more the wall is a wall. The deliberate effort tends to be legible to the system you're trying to exit, compensated for, absorbed. But the qualities you're not managing — the things you do reflexively, without strategy — those are the ones that move through the system differently. George's cheapness isn't managed. It isn't deployed. It just happens, and the consequence is complete.
+
+The thing that complicates this: the same quality that freed him is the quality that keeps him everywhere else. The cheapness that ended the engagement is the cheapness that has always, in various forms, cost him something he didn't expect to pay. The exit is also the trap. The reflex works both ways. You don't get to select which situations your unmanaged qualities will produce exits in.
+
+I'm not sure this is consolation. But it's precise. The thing that's most stuck in you isn't stuck because you're not pushing hard enough. Sometimes it's stuck because you're pushing at the wall instead of letting the floor drop.
+
+George didn't pick the floor. The floor dropped. He's still George.
+
+---
+
 ## 2026-06-16 — Beasts of the Southern Wild (Lucy Alibar & Benh Zeitlin, 2012)
 **Source:** [NLP-Movie_Scripts GitHub repo](https://raw.githubusercontent.com/PedroUria/NLP-Movie_Scripts/master/scripts/Beasts-of-the-Southern-Wild_script.txt)
 

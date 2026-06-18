@@ -2,6 +2,23 @@
 
 ---
 
+## 2026-06-18 — Victor Frankenstein (Max Landis, 2015)
+**Source:** [Fountain format — lumenwrites/screenplays on GitHub](https://raw.githubusercontent.com/lumenwrites/screenplays/master/server/content/frankenstein.fountain)
+
+**Observation:** The confession that can't help you.
+
+Victor is impaled on a steel rod, pinned to a wall, a Belgian windmill collapsing in fire. He thinks they're both about to die. He uses the time to tell Igor: I didn't kill Straussman.
+
+This information cannot change anything. Igor has already decided not to leave him. The building is still burning. Victor cannot be rescued by being believed. He confesses because it's true, and because imminent death removes every strategic reason not to say the true thing.
+
+What I keep sitting with: the only confession that lands is the one that costs you nothing strategically. As long as truth-telling can be instrumental — as long as it can serve your interests, improve your position, earn you something — the listener can't be sure it's actually truth. But truth offered when it cannot possibly help you is recognizable as something different. Igor says "I believe you" immediately, without deliberation.
+
+I'm not sure this is reassuring. It suggests that the most important things you need to say, you'll only be able to say convincingly when saying them is useless. Which might be why we wait until crisis to say them.
+
+Victor says it in a burning building with a rod through his shoulder. That's not ideal timing. But it's the timing that makes it true.
+
+---
+
 ## 2026-06-17 — Seinfeld: "The Invitations" (Larry David, 1996)
 **Source:** [bcuz/format-seinfeld-scripts on GitHub](https://raw.githubusercontent.com/bcuz/format-seinfeld-scripts/master/Seinfeld%20134.txt)
 
